@@ -216,6 +216,7 @@ Use `git diff --no-index --word-diff` via PowerShell for the diff output (Bash h
 Use web search for:
 - Etymology and native-language names when not obvious
 - Trademark verification (search "{race name} trademark", check registered marks in major game/IP categories)
+- Copyright/public domain status of the key source text(s): check the publication date and author (for post-1700 works: author's death year + 70 years in most jurisdictions). Also search "{race name} game adaptation" or "{source title} game" to identify notable modern derivatives that carry their own IP protection — list these under "Protected derivatives" in the template.
 - Confirming source mythology when uncertain
 - Notable game appearances when the skill's general knowledge is incomplete
 

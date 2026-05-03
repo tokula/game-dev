@@ -66,7 +66,10 @@ Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources
 
 ## Trademark status
 
-**Public domain status:** {Is the mythological/folkloric word itself in the public domain? Brief explanation.}
+**Public domain status:**
+- *Source tradition:* {Original mythological/folkloric tradition — note age and PD status, e.g. "Ancient Chinese oral/written tradition, unambiguously PD" or "Norse oral tradition, unambiguously PD"}
+- *Key source text(s):* {Title, author, date — e.g. "Journey to the West, Wu Cheng'en, c. 1592 — PD"; or "Shanhaijing, anonymous, compiled c. 475–100 BCE — PD"; or "Poetic Edda, anonymous, c. 10th–13th century — PD"}
+- *Protected derivatives:* {Notable modern adaptations carrying active IP — e.g. "Black Myth: Wukong (Game Science, 2024) — copyright + TM protected"; write "None identified" if none}
 
 **Notable trademarks to avoid:** {Specific registered marks or strongly enforced IP claims tied to the name. List as bullet points. State "None known" if applicable.}
 
