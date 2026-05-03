@@ -30,6 +30,25 @@ Build structured Markdown profiles of mythological and fictional races for game-
    - "Long-lived" — has tradeoffs (outliving loved ones, slow population growth) → **Characteristic** by default, unless the race treats it as purely advantageous.
    - "Telepathy" — their only communication mode → **Characteristic**. Can project thoughts into other species against their will → **Specialization**.
 
+   **4c — Fill non-trait fields** — after trait classification, populate these three fields:
+
+   **Gender(s):**
+   - Capture both biological sex and social gender expression.
+   - If they align, write one value (e.g. "Female"). If they differ, note both (e.g. "Biologically asexual; socially gendered female in primary sources").
+   - Sexless, spirit, elemental, or construct races: write "Sexless / N/A" unless primary sources specify otherwise.
+   - Game variants that introduce a different gender → Game depictions section only; do not alter this field.
+
+   **Allies / Rivals / Enemies table:**
+   - Source: primary sources or original canon only. If a relationship appears only in a game or novel, it goes in the Roster's Games table — not here.
+   - Use exactly these five Standing values: **Ally** (cooperative, mutual benefit, roughly equal standing), **Superior** (has authority over this race), **Charge** (under this race's authority or protection — link their race file if it exists), **Rival** (competes for territory, role, or resource without necessarily fighting), **Enemy** (actively opposes or fights).
+   - This section is fully separate from Modifiers. **Modifiers** captures the binding mechanism — the oath, the curse, the consequence of defiance. **Allies / Rivals / Enemies** captures faction standing. The same fact does NOT appear in both sections.
+   - Cross-source conflicts: do not silently pick one. Flag in the Notes column: `"Enemy in most sources; Rival in [source] — see Sources note"`. Add a Sources note callout if needed.
+
+   **Ecology:**
+   - **Prey**: what this race consumes for food OR hunts for sport or pleasure (e.g. a Predator-style race that hunts other species as trophies). If neither applies, write `N/A — {reason}`.
+   - **Predators**: what naturally hunts, threatens, or preys upon this race. Intentional overlap with Faults is acceptable — both perspectives are useful.
+   - For divine, immortal, or spirit races with no food chain: `N/A — divine/immortal beings` for both fields.
+
 5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Format:
 
    ```
@@ -45,7 +64,7 @@ Build structured Markdown profiles of mythological and fictional races for game-
 
    Only proceed to step 6 once the user has confirmed. Omit discarded sources from all file content.
 
-6. **Fill the template** for each variant. The template lives at `references/template.md` — read it and follow it exactly. Also prepare a companion `{name}_{source}_roster.md` (see "Roster file").
+6. **Fill the template** for each variant. The template lives at `.claude/skills/race-categorizer/references/template.md` (relative to the project root) — read it and follow it exactly. It includes the **Gender(s)** header field, the **Allies / Rivals / Enemies** table, and the **Ecology** section (Prey + Predators) — populate all three using the rules in step 4c. Also prepare a companion `{name}_{source}_roster.md` (see "Roster file").
 7. **Write files** to `./races/` (default) using the filename convention. Write both the main profile and the companion roster file. Handle existing files via diff prompt.
 8. **Summarize** what was created at the end (list files written, files skipped, any flags).
 
@@ -206,7 +225,7 @@ For trademark info, always include the disclaimer that this is general guidance 
 
 ## Template
 
-The exact output template is in `references/template.md`. Read that file and use it verbatim for every race file produced. Do not improvise sections or reorder fields.
+The exact output template is in `.claude/skills/race-categorizer/references/template.md` (relative to the project root). Read that file and use it verbatim for every race file produced. Do not improvise sections or reorder fields.
 
 ## Final summary
 

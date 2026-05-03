@@ -8,6 +8,8 @@
 
 **Biological Form:** {One of: Humanoid, Beastfolk, Elemental, Spirit, Giantkin, Undead, Construct/Artificial, Plantfolk, Aberration/Eldritch}
 
+**Gender(s):** {Female | Male | Male and Female | Sexless / N/A | other. Capture both biological sex and social gender expression; if they align write one value. Game-variant divergences go in Game depictions only — do not alter this field.}
+
 **Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable.}
 
 ## One-line lore summary
@@ -43,6 +45,24 @@ Intrinsic negative attributes or vulnerabilities baked into the species' nature.
 Imposed conditions (curses, blessings, compulsions, oaths, luck patterns) that could in principle be lifted by a god, ritual, or story-event without changing what the species fundamentally is. Include the origin of each condition. Omit this section if there are none.
 
 - {Modifier} — *{origin/source of the condition}*
+
+## Allies / Rivals / Enemies
+
+Source: primary sources and original canon only. Game-specific relationships → Roster Games table. Omit this section if nothing is attested.
+
+Standing values: **Ally** (cooperative, mutual benefit, roughly equal standing) | **Superior** (has authority over this race) | **Charge** (under this race's authority or protection — link their race file if it exists) | **Rival** (competes for territory, role, or resource without necessarily fighting) | **Enemy** (actively opposes or fights)
+
+Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources; Rival in [source] — see Sources note".
+
+| Faction | Standing | Notes | Source |
+|---------|----------|-------|--------|
+| {Name}  | {Standing} | {one line} | {text} |
+
+## Ecology
+
+**Prey:** {What this race hunts for food or for sport/pleasure; or "N/A — {reason}" for divine/immortal/spirit races}
+
+**Predators:** {What naturally hunts, threatens, or preys upon this race; may overlap with Faults — intentional; or "N/A — {reason}"}
 
 ## Trademark status
 
