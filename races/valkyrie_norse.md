@@ -16,24 +16,30 @@
 
 Odin's divine shield-maidens who ride over battlefields to choose which warriors die, then escort the fallen to Valhalla to prepare for Ragnarök.
 
-## Traits / strengths
+## Specializations
+
+- `[signature]` Planar mobility: move freely between Midgard, Asgard, and Valhalla without aid or conveyance
+- `[major]` Protective battle magic: can shield chosen warriors and steer combat outcomes
+- `[major]` Shape-shifting: some Valkyries wear swan or raven feather cloaks that grant full animal form
+- `[major]` Supernatural speed — their mounts far exceed anything mortal horseflesh can achieve
+- `[minor]` Prophetic battle-sight: can perceive which warriors are fated to die before combat concludes; some accounts link this to destiny-weaving like the Norns
+
+## Strengths
 
 - Fierce mounted warriors skilled with spears, riding horses, wolves, or boars
-- Supernatural speed — faster than any mortal horse
-- Planar mobility: move freely between Midgard, Asgard, and Valhalla
-- Protective battle magic: can shield chosen warriors and steer combat outcomes
-- Prophetic insight into battle fates; some accounts link them to destiny-weaving like the Norns
-- Shape-shifting: some descriptions place them in swan or raven feather cloaks that grant animal form
-- Some Valkyries (e.g. Eir) can heal the wounded; Hildr could revive fallen warriors mid-battle
 
-## Faults / weaknesses / dependencies
+## Characteristics
 
-Literal physical or magical vulnerabilities only. Not narrative or thematic weaknesses.
-
-- Bound to Odin's authority; defying his commands results in divine punishment (Brynhildr was cursed to enchanted sleep for saving the wrong warrior)
-- Love and jealousy compromise their battlefield impartiality and can be exploited
-- No independent power base; status and authority derive entirely from Odin's service
+- No independent power base; status and authority derive entirely from Odin's mandate
 - Constrained by wyrd (Norse fate); cannot alter cosmologically predetermined outcomes
+
+## Faults / Weaknesses
+
+- Capacity for human emotion (love, jealousy) compromises battlefield impartiality and can be exploited
+
+## Modifiers
+
+- Bound to Odin's authority; defying his commands results in divine punishment — *Brynhildr was cursed to enchanted sleep for saving the wrong warrior against Odin's explicit decree*
 
 ## Trademark status
 

@@ -48,6 +48,26 @@ Names attested in folklore, mythology, or saga — public domain, carry authenti
 | Svanhvít | *Völundarkviða* | Swan-maiden | "Swan-white"; paired with Hervör alvitr and Ölrún |
 | Ölrún | *Völundarkviða* | Swan-maiden | Married the mortal Egil during her time in human form |
 
+## Individual distinctions — Primary sources
+
+Individuals who deviate meaningfully from the racial template. The race profile already covers traits shared by all Valkyries; entries here capture what makes a specific figure exceptional or differently constrained.
+
+**Brynhildr**
+- `[Modifier]` Cursed to enchanted sleep — *Odin's individual punishment for defying his battle-decree; lifted only by a hero breaking through the fire-wall*
+
+**Hildr**
+- `[Specialization-signature]` Revivification — can raise fallen warriors mid-battle to resume fighting indefinitely; no other attested Valkyrie shares this ability
+
+**Eir**
+- `[Specialization-major]` Divine healing surpassing standard Valkyrie capability
+- `[Characteristic]` Classification ambiguity — sources place her among the ásynjur (goddesses) rather than the Valkyries; her inclusion in both groups is unresolved
+
+**Skuld**
+- `[Characteristic]` Dual Norn/Valkyrie role — listed as Valkyrie in *Völuspá* and as one of the three Norns elsewhere; the overlap is unresolved and may reflect two distinct figures sharing a name
+
+**Hervör alvitr, Svanhvít, Ölrún** (swan-maiden subtype)
+- `[Fault]` Mortal and bound when their feather cloaks are taken — removing the cloak strips their divine nature; the *Völundarkviða* narrative turns on this vulnerability
+
 ## Named individuals — Games
 
 Game-invented or game-adapted names, included for reference only.
@@ -57,6 +77,8 @@ Game-invented or game-adapted names, included for reference only.
 | Sigrun | *God of War* (Santa Monica Studio) | Queen of the Valkyries | Boss encounter in base game; cursed by Odin; freed by Kratos; becomes ally in *Ragnarök* |
 
 ## Sources
+
+### Primary sources
 
 - *Völuspá*, Poetic Edda (c. 10th–13th century) — names six Valkyries; primary cosmological source
 - *Grímnismál*, Poetic Edda — lists thirteen named Valkyries

@@ -14,19 +14,35 @@
 
 {A single sentence capturing the essence of the race.}
 
-## Traits / strengths
+## Specializations
 
-- {Trait 1 — e.g., long-lived, near-immortal}
-- {Trait 2 — e.g., master craftsmen, skilled with stone and metal}
-- {Trait 3 — e.g., resistant to magic}
+Signature, rule-breaking abilities no other race could develop through training or breeding. Tag each entry `[minor]`, `[major]`, or `[signature]`. Omit this section if there are none.
 
-## Faults / weaknesses / dependencies
+- `[signature]` {Specialization — description}
 
-Literal physical or magical vulnerabilities only. Not narrative or thematic weaknesses.
+## Strengths
 
-- {Fault 1 — e.g., destroyed by direct sunlight}
-- {Fault 2 — e.g., repelled by garlic, silver, or running water}
-- {Fault 3 — e.g., requires worshippers/belief to continue existing}
+Positive intrinsic attributes within normal biological or cognitive range — things this race naturally does better than baseline, but matchable by a peak member of another race with training or luck.
+
+- {Strength}
+
+## Characteristics
+
+Neutral defining features — neither clearly advantageous nor clearly disadvantageous. Omit this section if there are none.
+
+- {Characteristic}
+
+## Faults / Weaknesses
+
+Intrinsic negative attributes or vulnerabilities baked into the species' nature. Removing the fault would mean the creature is no longer that race.
+
+- {Fault}
+
+## Modifiers
+
+Imposed conditions (curses, blessings, compulsions, oaths, luck patterns) that could in principle be lifted by a god, ritual, or story-event without changing what the species fundamentally is. Include the origin of each condition. Omit this section if there are none.
+
+- {Modifier} — *{origin/source of the condition}*
 
 ## Trademark status
 

@@ -8,7 +8,8 @@
       "PowerShell(diff \"f:\\\\Projects\\\\game-dev\\\\races\\\\valkyrie_norse_roster.md\" \"$env:TEMP\\\\valkyrie_norse_roster_new.md\")",
       "Read(//mnt/f/Projects/game-dev/races/**)",
       "Bash(cp /mnt/c/Users/redep/AppData/Local/Temp/valkyrie_norse_new.md /tmp/valkyrie_norse_new.md)",
-      "Bash(cp /mnt/c/Users/redep/AppData/Local/Temp/valkyrie_norse_roster_new.md /tmp/valkyrie_norse_roster_new.md)"
+      "Bash(cp /mnt/c/Users/redep/AppData/Local/Temp/valkyrie_norse_roster_new.md /tmp/valkyrie_norse_roster_new.md)",
+      "Bash(dir \"f:\\\\Projects\\\\game-dev\\\\references\")"
     ]
   }
 }

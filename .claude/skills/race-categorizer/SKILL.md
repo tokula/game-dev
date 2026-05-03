@@ -13,6 +13,23 @@ Build structured Markdown profiles of mythological and fictional races for game-
 2. **Validate each entry** — distinguish races from individual figures and from unique beings (see "Input validation").
 3. **For each valid race entry, identify source variants** — if the race appears in multiple distinct mythologies (e.g. Dwarves in Norse vs. Slavic), produce one file per source. See "Multiple source mythologies".
 4. **Research each variant** — use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
+
+   **4b — Classify each trait** — for every trait discovered, walk this decision order (first match wins):
+   1. **Specialization** — does it break normal physical/biological rules? No training or luck in another race could replicate it. Tag `[minor]`, `[major]`, or `[signature]` by impact.
+   2. **Modifier** — is it an imposed condition (curse, blessing, oath, luck pattern)? Could a god or ritual lift it without changing what the species fundamentally is?
+   3. **Fault** — is it an intrinsic vulnerability or limitation tied to the species' nature? Removing it would mean the creature isn't that race anymore.
+   4. **Strength** — is it an intrinsic positive attribute within normal biological/cognitive range?
+   5. **Characteristic** — neutral defining feature that is neither advantage nor limitation.
+
+   Borderline rule: **biology → Fault; story/magic-imposed → Modifier; rule-breaking magnitude → Specialization.**
+
+   Specific borderline cases:
+   - "Garlic aversion" — intrinsic to the species (can't cure a vampire of it) → **Fault**. If a specific story frames it as a curse on one bloodline → **Modifier**.
+   - "Fear of cats" — biological predator-recognition → **Fault**. Curse from a cat-deity → **Modifier**.
+   - "Extreme jumping" — leaps further than most → **Strength**. Leaps over rooftops in a single bound → **Specialization**.
+   - "Long-lived" — has tradeoffs (outliving loved ones, slow population growth) → **Characteristic** by default, unless the race treats it as purely advantageous.
+   - "Telepathy" — their only communication mode → **Characteristic**. Can project thoughts into other species against their will → **Specialization**.
+
 5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Format:
 
    ```
@@ -124,6 +141,15 @@ published appearance or authorial canon).
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
 | {Name} | {Primary text, e.g. *Völuspá*} | {Rank or function} | {One line} |
+
+## Individual distinctions — Primary sources / Original canon
+
+Primary and original-canon individuals only. Game-invented figures have their own table and do not belong here. Only include individuals who deviate meaningfully from the racial template — traits the race profile does not already cover for all members. Use the same five-category tags from step 4b. Omit this section entirely if no individuals stand out from the baseline.
+
+**{Name}**
+- `[Specialization-major]` {trait that exceeds what the racial profile grants all members}
+- `[Modifier]` {imposed condition unique to this individual} — *{origin}*
+- `[Fault]` {vulnerability specific to this subtype or individual}
 
 ## Named individuals — Games
 
