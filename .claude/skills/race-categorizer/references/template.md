@@ -75,11 +75,6 @@ Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
-## Notable appearances in games
-
-- {Game/Franchise — brief note on how the race is depicted}
-- {Game/Franchise — brief note}
-
 ## Game depictions (variants from the source mythology)
 
 When game/fiction depictions diverge significantly from the source mythology, document them here. Omit this section entirely if there are no notable divergences.

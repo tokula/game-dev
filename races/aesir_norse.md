@@ -82,7 +82,6 @@ Source: primary sources and original canon only.
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
 
 ---
-
 > **Note on sources:** All primary Æsir sources post-date the Christianisation of Scandinavia by roughly two centuries (earliest surviving manuscripts c. 1270 CE). Snorri Sturluson's Prose Edda, while the richest single source, is a scholastic compilation by a Christian author and may reflect editorial interpretation layered over older oral tradition. Scholars debate which elements represent authentic pre-Christian belief versus medieval literary invention. For game design purposes, the Eddic tradition as written is the accepted authority.
 
 ## Sources
