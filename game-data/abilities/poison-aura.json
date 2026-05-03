@@ -1,0 +1,12 @@
+{
+  "id": "poison-aura",
+  "type": "passive",
+  "tags": ["poison", "aoe", "aura", "contact"],
+  "cost": { "mana": null, "stamina": null, "health": null, "charges": null },
+  "cooldown": 0,
+  "cast_time": 0,
+  "targeting": "aoe",
+  "range": 1.5,
+  "applies": ["poison"],
+  "notes": "Continuously re-applies poison to any entity within melee range each second. Because it triggers frequently, poison stacks to high intensity quickly."
+}

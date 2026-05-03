@@ -1,0 +1,13 @@
+{
+  "id": "freeze",
+  "type": "debuff",
+  "tags": ["control", "cc", "ice", "cold"],
+  "stacking": "none",
+  "flags": ["no_move", "no_action", "no_cast"],
+  "countered_by": {
+    "instant": ["fire"],
+    "gradual": ["fire"]
+  },
+  "effects": [],
+  "notes": "Permanent full lockdown until broken by fire. Any fire-tagged instant hit (e.g. fireball) removes it immediately. Any fire-tagged DoT (e.g. fire-aura, firepit) reduces remaining duration per tick — the target gradually thaws. stacking: none — already frozen is already frozen."
+}

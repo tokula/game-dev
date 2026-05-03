@@ -1,0 +1,13 @@
+{
+  "id": "antidote-flask",
+  "name": "Antidote Flask",
+  "category": "consumable",
+  "tags": ["antidote", "cure"],
+  "rarity": "common",
+  "stats": {},
+  "passive": null,
+  "active": "drink-antidote-flask",
+  "applies": [],
+  "requirements": { "level": null },
+  "notes": "Instantly removes poison. Satisfies the 'antidote' tag in poison's countered_by.instant. Removal is unconditional — no scaling involved."
+}

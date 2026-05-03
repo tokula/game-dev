@@ -1,0 +1,12 @@
+{
+  "id": "poison-coating",
+  "type": "toggle",
+  "tags": ["poison", "weapon-buff", "melee", "contact"],
+  "cost": { "mana": null, "stamina": null, "health": null, "charges": 5 },
+  "cooldown": 0,
+  "cast_time": 0,
+  "targeting": "self",
+  "range": null,
+  "applies": ["poison"],
+  "notes": "Imbues the weapon with poison for 5 melee hits. Each hit applies poison to the target and consumes one charge. Auto-deactivates when charges are exhausted."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "health-potion",
+  "name": "Health Potion",
+  "category": "consumable",
+  "tags": ["heal", "consumable", "instant"],
+  "rarity": "common",
+  "stats": {},
+  "passive": null,
+  "active": null,
+  "applies": ["heal"],
+  "requirements": { "level": null },
+  "notes": "Single-use. Instantly restores a fixed amount of HP on use — no ticking, no waiting. Good panic heal. For sustained healing over time, use regen-potion instead."
+}

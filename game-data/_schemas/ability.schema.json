@@ -1,0 +1,26 @@
+{
+  "_comment": "Schema for abilities — active skills, passives, toggles. One file per ability in abilities/.",
+  "id": "string — unique kebab-case identifier",
+  "type": "active | passive | toggle",
+  "tags": ["string — e.g. fire, aoe, projectile, heal, stealth"],
+  "cost": {
+    "mana": "number | null",
+    "stamina": "number | null",
+    "health": "number | null",
+    "charges": "number | null"
+  },
+  "cooldown": "number (seconds) | 0 for no cooldown",
+  "cast_time": "number (seconds) | 0 for instant",
+  "targeting": "self | target | ground | aoe | chain | direction",
+  "range": "number (units) | null for melee/self",
+  "effects": [
+    {
+      "stat": "string",
+      "operation": "add | subtract | multiply | set",
+      "kind": "instantly | over time"
+    }
+  ],
+  "applies": ["status-effect-id — effects applied on hit/use"],
+  "removes": ["status-effect-id — effects removed on use"],
+  "notes": "string — optional design intent or balance notes"
+}

@@ -1,0 +1,10 @@
+{
+  "_comment": "Mechanics are markdown files with YAML frontmatter, not JSON. This file shows the required frontmatter fields. Create mechanics in mechanics/<id>.md",
+  "frontmatter_template": "---\nid: my-mechanic\ntags: [tag1, tag2]\nrelated: [other-mechanic-id, status-effect-id]\n---",
+  "body": "Freeform markdown. Describe the system, rules, edge cases, and design intent. Claude will read this as prose context.",
+  "tips": [
+    "Keep each mechanic to one focused system",
+    "Use 'related' to cross-reference other entries in the catalog",
+    "Code examples and pseudocode are fine in the markdown body"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "freeze-aura",
+  "type": "passive",
+  "tags": ["ice", "cold", "aoe", "aura", "contact"],
+  "cost": { "mana": null, "stamina": null, "health": null, "charges": null },
+  "cooldown": 0,
+  "cast_time": 0,
+  "targeting": "aoe",
+  "range": 1.5,
+  "applies": ["freeze"],
+  "notes": "Stronger ice elemental variant of slow-aura. Applies permanent freeze on contact — enemies are fully locked until broken by fire. Melee range only; sustained contact is still needed to apply the effect."
+}

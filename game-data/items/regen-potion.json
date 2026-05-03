@@ -1,0 +1,13 @@
+{
+  "id": "regen-potion",
+  "name": "Regen Potion",
+  "category": "consumable",
+  "tags": ["heal", "consumable"],
+  "rarity": "common",
+  "stats": {},
+  "passive": null,
+  "active": null,
+  "applies": ["regeneration"],
+  "requirements": { "level": null },
+  "notes": "Single-use. Applies regeneration with a fixed value (e.g. 15 hp/tick) since the potion has no spirit stat — use from: null when resolving the effect. Heals over 8 seconds rather than instantly, so better used before combat than as a panic heal. For an instant burst, use health-potion instead."
+}

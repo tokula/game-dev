@@ -1,0 +1,19 @@
+{
+  "id": "fireball",
+  "type": "active",
+  "tags": ["fire", "projectile", "aoe"],
+  "cost": { "mana": 40, "stamina": null, "health": null, "charges": null },
+  "cooldown": 8,
+  "cast_time": 0.5,
+  "targeting": "ground",
+  "range": 15,
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "subtract",
+      "kind": "instantly"
+    }
+  ],
+  "applies": ["burn"],
+  "notes": "Deals upfront damage on impact, then applies burn as a secondary DoT."
+}

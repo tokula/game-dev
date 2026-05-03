@@ -1,0 +1,12 @@
+{
+  "id": "poison-dart",
+  "type": "active",
+  "tags": ["poison", "projectile"],
+  "cost": { "mana": 30, "stamina": null, "health": null, "charges": null },
+  "cooldown": 6,
+  "cast_time": 0.3,
+  "targeting": "target",
+  "range": 20,
+  "applies": ["poison"],
+  "notes": "No direct damage — pure DoT delivery. Trades burst for a longer lingering effect. Pairs well with intensity stacking on repeated hits."
+}

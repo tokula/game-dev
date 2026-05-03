@@ -1,0 +1,13 @@
+{
+  "id": "poison-flask",
+  "name": "Poison Flask",
+  "category": "consumable",
+  "tags": ["poison", "throwable", "aoe"],
+  "rarity": "common",
+  "stats": {},
+  "passive": null,
+  "active": "throw-poison-flask",
+  "applies": ["poison"],
+  "requirements": { "level": null },
+  "notes": "Single-use thrown item. Shatters on impact, releasing a cloud of toxin in a small radius. Applies poison with a fixed value since the item has no caster attack stat."
+}

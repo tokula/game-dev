@@ -1,0 +1,14 @@
+{
+  "id": "heal",
+  "type": "buff",
+  "tags": ["heal", "instant"],
+  "stacking": "independent",
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "add",
+      "kind": "instantly"
+    }
+  ],
+  "notes": "Instant HP restore. stacking: independent so multiple health potions each add their full value."
+}

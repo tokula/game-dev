@@ -1,0 +1,18 @@
+{
+  "id": "poison",
+  "type": "debuff",
+  "tags": ["dot", "poison"],
+  "stacking": "intensity",
+  "countered_by": {
+    "instant": ["antidote"],
+    "gradual": []
+  },
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "subtract",
+      "kind": "over time"
+    }
+  ],
+  "notes": "Slower than burn — less damage per tick but lasts longer. Stacks by amplifying tick damage. Cured instantly by antidote items."
+}

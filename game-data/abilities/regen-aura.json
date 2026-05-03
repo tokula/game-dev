@@ -1,0 +1,12 @@
+{
+  "id": "regen-aura",
+  "type": "passive",
+  "tags": ["heal", "aoe", "aura", "support"],
+  "cost": { "mana": null, "stamina": null, "health": null, "charges": null },
+  "cooldown": 0,
+  "cast_time": 0,
+  "targeting": "aoe",
+  "range": 5,
+  "applies": ["regeneration"],
+  "notes": "Continuously applies regeneration to all allies within range each second. Wider range than damage auras (5 vs 1.5) — support roles need reach."
+}

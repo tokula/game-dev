@@ -1,0 +1,22 @@
+{
+  "_comment": "Schema for items — weapons, armor, consumables, accessories, crafting materials. One file per item in items/.",
+  "id": "string — unique kebab-case identifier",
+  "name": "string — display name",
+  "category": "weapon | armor | consumable | accessory | material",
+  "tags": ["string — e.g. melee, ranged, fire, rare, two-handed"],
+  "rarity": "common | uncommon | rare | epic | legendary",
+  "stats": {
+    "attack": "number | null",
+    "defense": "number | null",
+    "speed": "number | null",
+    "any_stat": "number — add any relevant stat"
+  },
+  "passive": "string description | null — always-on effect",
+  "active": "ability-id | null — usable ability granted by this item",
+  "applies": ["status-effect-id — on hit or on use"],
+  "requirements": {
+    "level": "number | null",
+    "any_stat": "number | null"
+  },
+  "notes": "string — optional design intent or balance notes"
+}

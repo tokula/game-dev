@@ -1,0 +1,12 @@
+{
+  "id": "slow-aura",
+  "type": "passive",
+  "tags": ["ice", "cold", "aoe", "aura", "contact"],
+  "cost": { "mana": null, "stamina": null, "health": null, "charges": null },
+  "cooldown": 0,
+  "cast_time": 0,
+  "targeting": "aoe",
+  "range": 1.5,
+  "applies": ["slow"],
+  "notes": "Ice elemental racial passive. Applies slow to any enemy within melee range each second. Because slow stacks by duration, sustained contact keeps enemies permanently slowed."
+}

@@ -1,0 +1,9 @@
+{
+  "id": "stun",
+  "type": "debuff",
+  "tags": ["control", "cc"],
+  "stacking": "duration",
+  "flags": ["no_move", "no_action", "no_cast"],
+  "effects": [],
+  "notes": "Full lockdown — target cannot move, act, or cast. Stacks by duration so repeated hits keep the target stunned rather than deepening the effect. No counter mechanic; just wait it out."
+}

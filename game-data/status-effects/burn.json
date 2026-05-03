@@ -1,0 +1,14 @@
+{
+  "id": "burn",
+  "type": "debuff",
+  "tags": ["dot", "fire"],
+  "stacking": "intensity",
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "subtract",
+      "kind": "over time"
+    }
+  ],
+  "notes": "Scales with attacker's attack stat. Stacks by increasing damage per tick, not by adding independent instances."
+}

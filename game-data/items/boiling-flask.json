@@ -1,0 +1,13 @@
+{
+  "id": "boiling-flask",
+  "name": "Boiling Flask",
+  "category": "consumable",
+  "tags": ["fire", "throwable", "aoe"],
+  "rarity": "common",
+  "stats": {},
+  "passive": null,
+  "active": "throw-boiling-flask",
+  "applies": ["burn"],
+  "requirements": { "level": null },
+  "notes": "Single-use thrown item. Shatters on impact, splashing boiling water in a small radius. Applies burn with fixed value since the item has no caster attack stat. Good low-cost burn source for non-mage builds."
+}

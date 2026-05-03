@@ -1,0 +1,14 @@
+{
+  "id": "regeneration",
+  "type": "buff",
+  "tags": ["hot", "heal"],
+  "stacking": "intensity",
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "add",
+      "kind": "over time"
+    }
+  ],
+  "notes": "Scales with the spirit stat of whoever applied it. Stacks by intensity — a paladin aura + a potion both contributing means faster healing per tick."
+}

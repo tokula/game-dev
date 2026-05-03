@@ -1,0 +1,9 @@
+{
+  "id": "flinch",
+  "type": "debuff",
+  "tags": ["control", "interrupt"],
+  "stacking": "none",
+  "flags": ["no_action"],
+  "effects": [],
+  "notes": "Brief interrupt — cancels the current action but recovery is near-instant. stacking: none means a second flinch mid-flinch does nothing. Typically triggered by taking a hit during a cast or windup."
+}

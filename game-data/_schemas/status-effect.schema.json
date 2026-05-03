@@ -1,0 +1,20 @@
+{
+  "_comment": "Schema for status effects — buffs, debuffs, DoTs, auras. One file per effect in status-effects/.",
+  "id": "string — unique kebab-case identifier",
+  "type": "buff | debuff | neutral",
+  "tags": ["string — e.g. dot, fire, slow, heal, shield"],
+  "stacking": "none | intensity | duration | independent",
+  "flags": ["no_move | no_action | no_cast | no_sprint — behavioral constraints that don't map to stats. Omit or leave empty if none."],
+  "countered_by": {
+    "instant": ["tag — any ability with this tag instantly removes this effect"],
+    "gradual": ["tag — any DoT with this tag reduces duration per tick"]
+  },
+  "effects": [
+    {
+      "stat": "string — e.g. hp, attack, speed, defense",
+      "operation": "add | subtract | multiply | set",
+      "kind": "instantly | over time"
+    }
+  ],
+  "notes": "string — optional design intent or balance notes"
+}
