@@ -4,6 +4,8 @@
 
 **Source Layer:** Norse
 
+**Primary origin:** Norse mythology — Poetic Edda (*Völuspá*, *Grímnismál*, *Darraðarljóð*) and Prose Edda (10th–13th century)
+
 **Biological Form:** Humanoid
 
 **Common archetype/role in fiction:** Warrior culture, Divine servants
@@ -39,6 +41,9 @@ Literal physical or magical vulnerabilities only. Not narrative or thematic weak
 
 **Notable trademarks to avoid:**
 - **VALKYRIE PROFILE** — registered trademark of Square Enix (USPTO #2514477); covers computer game software, manuals, and strategy guides. Do not use this as a series or sub-brand name.
+- **EVE VALKYRIE** — registered trademark of CCP hf (USPTO #5008418); covers online game services. Do not use this combination.
+- **VALKYRIE CONNECT** — registered trademark of Ateam Inc. (USPTO #5173078); covers online game services. Do not use this combination.
+- **VALKYRIE ELYSIUM** — registered trademark of Square Enix; covers game software and related services.
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
@@ -51,6 +56,8 @@ Literal physical or magical vulnerabilities only. Not narrative or thematic weak
 - **Honkai Impact 3rd (miHoYo)** — "Valkyrie" is a rank/class for powerful female warriors in a sci-fi organization; the Norse cosmological role is entirely absent
 - **Fire Emblem series (Nintendo/Intelligent Systems)** — Valkyrie as a horse-mounted magic/support class; the promoted form of Troubadour
 - **Valkyria Chronicles series (Sega)** — "Valkyria" as a nearly extinct mystical race in an alternate-history military setting; tactical RPG
+- **EVE: Valkyrie (CCP)** — spaceship dogfighting game set in the EVE Online universe; Valkyrie pilots are resurrected clone warriors deployed on recon and combat missions
+- **Valkyrie Connect (Ateam)** — mobile RPG; Valkyries appear as recruitable characters within a Norse mythological setting
 
 ## Game depictions (variants from the source mythology)
 
@@ -72,11 +79,19 @@ Renamed "Valkyria" to signal deliberate divergence. These are a nearly extinct h
 
 ## Sources
 
-- *Völuspá*, Poetic Edda (c. 10th–13th century) — primary source for Valkyrie role; names six Valkyries
+### Primary sources
+
+- *Völuspá*, Poetic Edda (c. 10th–13th century) — Valkyrie role; names six Valkyries
 - *Grímnismál*, Poetic Edda — lists thirteen named Valkyries
-- *Sigrdrífumál*, Poetic Edda — primary source for Brynhildr narrative
-- *Helgakviða Hundingsbana I & II*, Poetic Edda — source of Sigrun narrative
-- *Völundarkviða*, Poetic Edda — source of the three swan-maiden Valkyries
-- *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — ch. 36 describes Valkyries' battlefield role
-- *Skáldskaparmál*, Prose Edda, Snorri Sturluson — additional Valkyrie names and kennings
+- *Sigrdrífumál*, Poetic Edda — Brynhildr narrative
+- *Helgakviða Hundingsbana I & II*, Poetic Edda — Sigrun narrative
+- *Völundarkviða*, Poetic Edda — the three swan-maiden Valkyries
+- *Darraðarljóð*, Poetic Edda / embedded in *Njáls saga* (13th century) — weaving-of-battle scene; names Hjörþrimul, Sanngríðr, Svipul among others
+- *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — ch. 36 battlefield role
+- *Skáldskaparmál*, Prose Edda, Snorri Sturluson — additional names and kennings
+- *Heimskringla*, Snorri Sturluson (c. 1230) — additional Valkyrie context
+
+### Secondary sources
+
 - World History Encyclopedia: "Valkyrie" — secondary overview
+- Wikipedia: "Valkyrie" — secondary overview

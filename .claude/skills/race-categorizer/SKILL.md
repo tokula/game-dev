@@ -103,19 +103,57 @@ Every race profile gets a companion `{name}_{source}_roster.md` written alongsid
 Include non-race superiors if relevant (e.g. Odin above the Valkyries).
 Note if no formal internal hierarchy is documented.}
 
-## Named individuals
+**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts)
+are the authoritative origin. Games and fiction derive from them. Always populate
+`— Primary sources` first and most completely. Derivative sections exist for cross-reference
+only — they should never displace or reframe the original cultural record.
 
-Prefer names attested in primary mythological sources — they are in the public domain and
-carry cultural weight. Game-invented names are included for reference only, clearly labelled.
+**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or
+mythological base. Use `— Original canon` instead when the race has no such precedent and the
+authoritative record is a specific creative work (e.g. Smurfs → Peyo's *Les Schtroumpfs*,
+Tieflings → D&D 3rd edition). The label signals whether you're citing a cultural tradition or
+a creative author.
+
+## Named individuals — Primary sources / Original canon
+
+**Origin layer.** For mythological/folkloric races: names attested in folklore, mythology,
+saga, religious texts, or historical accounts — public domain, culturally authentic, preferred
+for game design use. For original creations: names from the definitive source work (first
+published appearance or authorial canon).
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| {Name} | {Primary text (myth)} or {Game: title (game)} | {Rank or function} | {One line} |
+| {Name} | {Primary text, e.g. *Völuspá*} | {Rank or function} | {One line} |
+
+## Named individuals — Games
+
+**Derivative.** Game-invented or game-adapted names, included for cross-reference only.
+Do not treat these as equivalent to primary-source attestation.
+
+| Name | Game | Role | Notes |
+|------|------|------|-------|
+| {Name} | {Game title (studio)} | {Role in game} | {One line} |
+
+## Named individuals — Modern literary
+
+**Derivative.** Names from novels, comics, or other non-game fiction, included for
+cross-reference only.
+
+| Name | Work | Role | Notes |
+|------|------|------|-------|
+| {Name} | {Title, author} | {Role} | {One line} |
+
+Omit any section that has no entries.
 
 ## Sources
 
-- {Primary text — title, author if known, date}
-- {Secondary or web source — title and URL if applicable}
+### Primary sources
+
+- {Folklore, mythology, saga, religious text, or historical account — title, author if known, date}
+
+### Secondary sources
+
+- {Encyclopedia entry, academic overview, or web source — title and URL if applicable}
 ```
 
 ## Existing file handling
@@ -126,7 +164,7 @@ Before writing, check if the target file already exists. If it does:
 2. Show the user a unified diff between the existing file and the proposed new content.
 3. Ask: "File already exists. Apply these changes? (y/n/skip)" — `y` overwrites, `n` keeps the old file, `skip` moves on without asking again for the rest of the batch.
 
-Use `diff -u` or equivalent for the diff output. If the new content is identical to the existing file, skip silently and note it in the final summary.
+Use `git diff --no-index --word-diff` via PowerShell for the diff output (Bash has no access to Windows paths; `diff -u` will not work). Exit code 1 from `git diff --no-index` means files differ — it is not an error. If the new content is identical to the existing file, skip silently and note it in the final summary.
 
 ## Web search policy
 

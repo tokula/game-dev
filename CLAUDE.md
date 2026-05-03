@@ -71,4 +71,22 @@ Inconsistent naming causes lookup errors and bad cross-references. Follow these 
 - Use `[]` when the effect works purely through `flags` (e.g. stun, flinch, freeze)
 - Never omit the field — a missing `effects` key is a schema error, not the same as no stat change
 
+## Diffing files on Windows
 
+`diff -u` via the Bash tool does not work here — the Bash environment has no access to Windows paths.
+
+Use `git diff --no-index` via PowerShell instead — it produces proper unified diff output with context lines and is available everywhere in this repo:
+
+```powershell
+# Unified diff with 3 lines of context
+git diff --no-index "races\valkyrie_norse.md" "$env:TEMP\valkyrie_norse_new.md"
+
+# Word-level diff — preferred for prose/markdown; shows inline changes within lines
+git diff --no-index --word-diff "races\valkyrie_norse.md" "$env:TEMP\valkyrie_norse_new.md"
+```
+
+> **Gotcha:** `git diff --no-index` exits with code 1 when files differ — this is normal, not an error. PowerShell will show a red error or set `$?` to false. Append `; $true` if you need clean chaining, or just ignore the exit code.
+
+For skills that require showing a diff before applying changes: write proposed content to `$env:TEMP\<filename>_new.md`, run `git diff --no-index --word-diff` against the real file, show the output, then write to the real path only after user confirmation.
+
+If the files are identical `git diff --no-index` produces no output and exits 0 — treat that as "skip silently".

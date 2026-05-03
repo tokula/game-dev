@@ -4,6 +4,8 @@
 
 **Source Layer:** {One or more of: Norse, Greek, Slavic, Celtic, Mesopotamian, Egyptian, Hindu/Vedic, East Asian, African, Mesoamerican, Polynesian, Judeo-Christian, Modern literary (Tolkien, Lovecraft, etc.), Pure original}
 
+**Primary origin:** {The specific tradition(s) and source type that first give rise to this race — e.g. "Slavic folktales, *De Masticatione Mortuorum* (folklore/historical)" or "Norse mythology — Poetic Edda and Prose Edda (10th–13th century)" or "Belgian comics — *Les Schtroumpfs*, Peyo, 1958 (no folkloric precedent)"}
+
 **Biological Form:** {One of: Humanoid, Beastfolk, Elemental, Spirit, Giantkin, Undead, Construct/Artificial, Plantfolk, Aberration/Eldritch}
 
 **Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable.}
@@ -57,5 +59,10 @@ When game/fiction depictions diverge significantly from the source mythology, do
 
 ## Sources
 
-- {Primary text — title, author if known, approximate date — e.g. *Prose Edda*, Snorri Sturluson, c. 1220}
-- {Secondary or web source — title and URL if applicable}
+### Primary sources
+
+- {Folklore, mythology, saga, religious text, or historical account — title, author if known, approximate date}
+
+### Secondary sources
+
+- {Encyclopedia entry, academic overview, or web source — title and URL if applicable}
