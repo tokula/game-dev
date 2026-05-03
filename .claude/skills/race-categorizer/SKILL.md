@@ -88,6 +88,15 @@ Three categories of input:
 
 If the user is unsure or the input is ambiguous, ask before proceeding rather than guessing.
 
+## IP filter
+
+**Applies at two levels:**
+
+- **Race level:** Reject any race whose only origin is proprietary IP (e.g. Mind Flayers, Smurfs, Warcraft-specific lore). If a public-domain analogue exists, suggest it; otherwise skip the entry and note the reason in the final summary.
+- **Section level:** Omit the *Named individuals — Games* and *Game depictions* sections from any file unless the game source is public domain, CC0, or explicitly open-licensed (e.g. D&D 5e SRD / CC-BY-4.0). Mythology-origin races (Valkyries, Dwarves, etc.) are still valid — only their game-derivative sections are affected.
+
+This applies regardless of how well-known the property is.
+
 ## Multiple source mythologies (Option D)
 
 If a race name appears in genuinely different mythologies, produce **one file per mythological origin**. A "different mythology" means a different cultural source layer — not just a different game-system depiction.
@@ -113,7 +122,7 @@ If unsure how many variants to produce, list the candidates to the user and conf
 
 **Examples:**
 - Valkyries → `valkyrie_norse.md`
-- Mind Flayers → `mind_flayer_modern_literary.md`
+- Tieflings (D&D SRD) → `tiefling_modern_literary.md` *(open-licensed via D&D 5e SRD / CC-BY-4.0)*
 - Kitsune → `kitsune_east_asian.md`
 
 ## Output folder
@@ -146,9 +155,10 @@ only — they should never displace or reframe the original cultural record.
 
 **Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or
 mythological base. Use `— Original canon` instead when the race has no such precedent and the
-authoritative record is a specific creative work (e.g. Smurfs → Peyo's *Les Schtroumpfs*,
-Tieflings → D&D 3rd edition). The label signals whether you're citing a cultural tradition or
-a creative author.
+authoritative record is a specific creative work that is public domain, CC0, or explicitly
+open-licensed (e.g. Tieflings → D&D 5e SRD / CC-BY-4.0). Proprietary-only races are blocked
+entirely by the IP filter and never reach this label. The label signals whether you're citing
+a cultural tradition or an open creative work.
 
 ## Named individuals — Primary sources / Original canon
 
@@ -174,6 +184,7 @@ Primary and original-canon individuals only. Game-invented figures have their ow
 
 **Derivative.** Game-invented or game-adapted names, included for cross-reference only.
 Do not treat these as equivalent to primary-source attestation.
+**IP filter applies:** only include entries from public domain, CC0, or explicitly open-licensed sources (e.g. D&D 5e SRD / CC-BY-4.0). Omit this section entirely if no qualifying entries exist.
 
 | Name | Game | Role | Notes |
 |------|------|------|-------|
