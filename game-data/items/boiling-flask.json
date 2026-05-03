@@ -7,7 +7,8 @@
   "stats": {},
   "passive": null,
   "active": "throw-boiling-flask",
-  "applies": ["burn"],
+  "applies": [],
+  "may_apply": ["burn-once", "burn-dot"],
   "requirements": { "level": null },
-  "notes": "Single-use thrown item. Shatters on impact, splashing boiling water in a small radius. Applies burn with fixed value since the item has no caster attack stat. Good low-cost burn source for non-mage builds."
+  "notes": "Single-use thrown item. Shatters on impact, splashing boiling water in a small radius. Can cause a flash burn, lingering burns, or both — context determines which."
 }

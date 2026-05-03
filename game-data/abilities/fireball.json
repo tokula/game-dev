@@ -10,10 +10,9 @@
   "effects": [
     {
       "stat": "hp",
-      "operation": "subtract",
-      "kind": "instantly"
+      "operation": "subtract"
     }
   ],
-  "applies": ["burn"],
-  "notes": "Deals upfront damage on impact, then applies burn as a secondary DoT."
+  "applies": ["burn-once"],
+  "notes": "Deals upfront fire damage on impact and applies a one-time burn."
 }

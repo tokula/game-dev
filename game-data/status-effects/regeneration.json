@@ -6,8 +6,7 @@
   "effects": [
     {
       "stat": "hp",
-      "operation": "add",
-      "kind": "over time"
+      "operation": "add"
     }
   ],
   "notes": "Scales with the spirit stat of whoever applied it. Stacks by intensity — a paladin aura + a potion both contributing means faster healing per tick."

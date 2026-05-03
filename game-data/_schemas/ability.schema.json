@@ -17,10 +17,10 @@
     {
       "stat": "string",
       "operation": "add | subtract | multiply | set",
-      "kind": "instantly | over time"
     }
   ],
-  "applies": ["status-effect-id — effects applied on hit/use"],
+  "applies": ["status-effect-id — always applied on hit/use"],
+  "may_apply": ["status-effect-id — pool of possible effects; AI or context selects which apply"],
   "removes": ["status-effect-id — effects removed on use"],
   "notes": "string — optional design intent or balance notes"
 }

@@ -13,7 +13,8 @@
   },
   "passive": "string description | null — always-on effect",
   "active": "ability-id | null — usable ability granted by this item",
-  "applies": ["status-effect-id — on hit or on use"],
+  "applies": ["status-effect-id — always applied on hit or on use"],
+  "may_apply": ["status-effect-id — pool of possible effects; AI or context selects which apply"],
   "requirements": {
     "level": "number | null",
     "any_stat": "number | null"

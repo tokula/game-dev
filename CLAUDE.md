@@ -45,7 +45,7 @@ game-data/
 Inconsistent naming causes lookup errors and bad cross-references. Follow these rules when adding any entry:
 
 **Abilities are named after the effect they apply, not the element that delivers it.**
-- `burn-aura` not `fire-aura` — the aura applies `burn`; the element goes in tags
+- `burn-aura` not `fire-aura` — the aura applies `burn-dot`; the element goes in tags
 - `regen-aura` not `healing-aura` — the aura applies `regeneration`
 - Exception: named spells with no direct effect mapping (e.g. `fireball`) use their in-world name
 
@@ -54,13 +54,14 @@ Inconsistent naming causes lookup errors and bad cross-references. Follow these 
 - The name should tell a player what it *is*, the `applies` field tells Claude what it *does*
 
 **Status effects own their element only if the element is intrinsic to the effect.**
-- `burn` has `"fire"` in tags — burning is inherently fire
+- `burn-dot` and `burn-once` both have `"fire"` in tags — burning is inherently fire
 - `freeze` has `"ice"` in tags — freezing is inherently ice
 - `slow` does NOT have `"ice"` in tags — slow is element-neutral; mud, gravity, and nets also slow
 
-**The `from` field on effects is always explicit.**
-- Stat-scaled: `"from": "source.attack"` — name the entity and the stat
-- Fixed/environmental: `"from": null` — never omit, never use a string like `"none"`
+**When an effect can be applied in two distinct ways, split it into two files.**
+- `burn-dot` (damage over time) and `burn-once` (single flash) are separate entries
+- `heal` (instant restore) and `regeneration` (heal over time) follow the same pattern
+- Sources use `applies` for mandatory effects and `may_apply` for a pool the AI/context selects from
 
 **Tags describe the entry itself, not its source.**
 - An effect's tags describe what the effect is, not what caused it

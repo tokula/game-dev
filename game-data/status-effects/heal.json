@@ -6,8 +6,7 @@
   "effects": [
     {
       "stat": "hp",
-      "operation": "add",
-      "kind": "instantly"
+      "operation": "add"
     }
   ],
   "notes": "Instant HP restore. stacking: independent so multiple health potions each add their full value."

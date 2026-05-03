@@ -6,7 +6,8 @@
 
 | id | type | tags | file |
 |----|------|------|------|
-| burn | debuff | dot, fire | status-effects/burn.json |
+| burn-dot | debuff | dot, fire | status-effects/burn-dot.json |
+| burn-once | debuff | fire | status-effects/burn-once.json |
 | regeneration | buff | hot, heal | status-effects/regeneration.json |
 | heal | buff | heal, instant | status-effects/heal.json |
 | slow | debuff | movement, cc | status-effects/slow.json |

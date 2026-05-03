@@ -1,0 +1,13 @@
+{
+  "id": "burn-dot",
+  "type": "debuff",
+  "tags": ["dot", "fire"],
+  "stacking": "intensity",
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "subtract"
+    }
+  ],
+  "notes": "Lingering fire damage over time. Scales with attacker's attack stat. Stacks by increasing damage per tick, not by adding independent instances."
+}

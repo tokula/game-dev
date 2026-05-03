@@ -6,8 +6,7 @@
   "effects": [
     {
       "stat": "speed",
-      "operation": "multiply",
-      "kind": "instantly"
+      "operation": "multiply"
     }
   ],
   "notes": "Fixed speed reduction regardless of source power. Stacks by extending duration rather than deepening the slow — repeated hits keep the target slowed, not increasingly more slowed."

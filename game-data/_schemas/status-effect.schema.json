@@ -12,8 +12,7 @@
   "effects": [
     {
       "stat": "string — e.g. hp, attack, speed, defense",
-      "operation": "add | subtract | multiply | set",
-      "kind": "instantly | over time"
+      "operation": "add | subtract | multiply | set"
     }
   ],
   "notes": "string — optional design intent or balance notes"

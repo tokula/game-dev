@@ -7,6 +7,6 @@
   "cast_time": 0,
   "targeting": "aoe",
   "range": 1.5,
-  "applies": ["burn"],
-  "notes": "Fire elemental racial passive. Continuously re-applies burn to any entity within melee range each second. Because it triggers so frequently, burn stacks to high intensity quickly."
+  "applies": ["burn-dot"],
+  "notes": "Fire elemental racial passive. Continuously re-applies burn-dot to any entity within melee range each second. Because it triggers so frequently, burn stacks to high intensity quickly."
 }

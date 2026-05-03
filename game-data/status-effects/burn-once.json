@@ -1,0 +1,13 @@
+{
+  "id": "burn-once",
+  "type": "debuff",
+  "tags": ["fire"],
+  "stacking": "independent",
+  "effects": [
+    {
+      "stat": "hp",
+      "operation": "subtract"
+    }
+  ],
+  "notes": "A single flash of fire damage on apply — no lingering effect. Each application is independent."
+}
