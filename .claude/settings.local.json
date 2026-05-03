@@ -3,7 +3,8 @@
     "allow": [
       "PowerShell(Rename-Item \"f:\\\\Projects\\\\game-dev\\\\game-data\\\\abilities\\\\fire-aura.json\" \"burn-aura.json\")",
       "PowerShell(Rename-Item \"f:\\\\Projects\\\\game-dev\\\\game-data\\\\abilities\\\\healing-aura.json\" \"regen-aura.json\")",
-      "PowerShell(Rename-Item \"f:\\\\Projects\\\\game-dev\\\\game-data\\\\items\\\\health-potion.json\" \"regen-potion.json\")"
+      "PowerShell(Rename-Item \"f:\\\\Projects\\\\game-dev\\\\game-data\\\\items\\\\health-potion.json\" \"regen-potion.json\")",
+      "WebSearch"
     ]
   }
 }
