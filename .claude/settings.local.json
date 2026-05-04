@@ -23,7 +23,8 @@
       "WebFetch(domain:www.medievalists.net)",
       "WebFetch(domain:fairychamber.substack.com)",
       "WebFetch(domain:trolldens.blogspot.com)",
-      "WebFetch(domain:occult-world.com)"
+      "WebFetch(domain:occult-world.com)",
+      "WebFetch(domain:archive.org)"
     ]
   }
 }

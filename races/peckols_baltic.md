@@ -2,7 +2,7 @@
 
 > See also: [peckols_baltic_roster.md](peckols_baltic_roster.md)
 
-**Native name / Etymology:** Peckols (Old Prussian; also: Pikuls, Picullus, Patulas, Patollo) — from West Slavic *pьkъlъ* ("hell, pitch-black underworld"), related to Lithuanian *piktas* ("evil, angry, bitter"); the variant form *Patollo* may derive from a distinct root and appears specifically in the Sudovian Book triad; the name family collectively connotes darkness, anger, and the underworld domain
+**Native name / Etymology:** Peckols (Old Prussian; also: Pikuls, Picullus, Pockols) — from West Slavic *pьkъlъ* ("hell, pitch-black underworld"), related to Lithuanian *piktas* ("evil, angry, bitter"); attested in the Sudovian Book alongside *Pockols* as a distinct entity (Peckols = underworld god; Pockols = airborne spirit/devil); the name *Patollo* appears in Simon Grunau's chronicle and later sources but is identified by modern scholarship as a pseudomythologeme — Rolandas Kregždys demonstrates it derives from a misreading of the Medieval Latin adverb *patulo* ("openly, in public"), not an authentic Old Prussian theonym; Konstantinas Sirvydas (*Dictionarium Trium Linguarum*, 1629) links Peckols to Lithuanian and Latvian cognates including *Velnias* and *Pikùlas*, confirming the broader Baltic underworld-deity family
 
 **Source Layer:** Baltic (Old Prussian branch)
 
@@ -33,7 +33,7 @@ The Old Prussian lord of the underworld — ruler of hell, darkness, and death �
 ## Characteristics
 
 - Pale or greenish complexion; white headband; white beard stained with blood (Sudovian Book description)
-- Member of the Old Prussian divine triad: Perkunos (sky and thunder), Patrimpos (earth and youth), Peckols (death and underworld) — the three divide the cosmos vertically
+- Listed in the Sudovian Book alongside twelve other Prussian gods in a hierarchical sequence from sky to underworld; the later divine triad (Perkunos / Patrimpos / Peckols) appears fully only in Grunau's chronicle and is considered by modern scholars a possible Christian-influenced construct modeled on the Trinity rather than an authentically pre-Christian Prussian doctrine
 - Represented by an eternal sacred fire tended by priests (*criwe/criway*); the fire's extinction is a catastrophic omen
 - Receives first-threshed grain, first fruits, and propitiatory offerings; failure to sacrifice converts his neutrality to active hostility
 - Presides over the dead; the Prussian parallel to Lithuanian Velnias, but with a more explicitly malevolent characterization in the sources
@@ -45,8 +45,8 @@ The Old Prussian lord of the underworld — ruler of hell, darkness, and death �
 
 ## Modifiers
 
-- Part of the Old Prussian divine triad (Perkunos / Patrimpos / Peckols) — *cosmic structural role; origin: Sudovian Book; the triad divides the cosmos into three vertical domains and Peckols holds the lowest*
-- Post-Christianization equated with the Christian devil — *imposed cultural overlay; origin: Lutheran missionary documentation and Simon Grunau's chronicle; most post-1520s descriptions are filtered through this framework and cannot be taken as reliable guides to pre-Christian belief*
+- Position in the Prussian pantheon — *the Sudovian Book places Peckols in a list of thirteen gods ordered from sky to underworld; this ordering is reliable; the structured three-deity triad attributed to Grunau is not*
+- Post-Christianization equated with the Christian devil and with the Roman Pluto — *imposed cultural overlay; origin: Lutheran missionary documentation (*Constitutiones Synodales*, 1530) and Simon Grunau's chronicle; most post-1520s descriptions are filtered through this framework and cannot be taken as reliable guides to pre-Christian belief*
 
 ## Allies / Rivals / Enemies
 
@@ -74,7 +74,7 @@ The Old Prussian lord of the underworld — ruler of hell, darkness, and death �
 
 ---
 
-> **Note on sources:** Simon Grunau's *Preussische Chronik* (1517–1529) is a primary source for many Peckols descriptions but is regarded by modern scholars as heavily embellished, anachronistic, and often invented. The triad description (Perkunos/Patrimpos/Peckols) that appears in Grunau is echoed in the Sudovian Book and is therefore considered more reliable than Grunau's other claims. Descriptions relying solely on Grunau — particularly specific physical details and ritual procedures — should be treated as possibly invented. The 1418 Memorandum to Pope Martin V is an ecclesiastical source hostile to the cult and uses it to argue for continued mission; its characterizations reflect Christian framing. The Sudovian Book, compiled by Lutheran clergy who had direct contact with the Sudovian Prussians, is generally considered the most reliable source available despite its outsider perspective.
+> **Note on sources:** **On "Patollo":** Modern scholarship (Rolandas Kregždys, *Baltu filoloģija*, 2019; *Etymological Dictionary of Baltic Mythologemes II*, 2020) identifies Patollo as a pseudomythologeme — Grunau misread the Medieval Latin adverb *patulo* ("openly, in public") as a deity name, which subsequent scribes perpetuated. Patollo does not appear in the Sudovian Book at all and should not be treated as an attested Old Prussian theonym. **On the divine triad:** The structured triad (Perkunos/Patrimpos/Peckols) appears fully only in Grunau and is considered by many scholars to be a Christian-influenced construct modeled on the Trinity; the Sudovian Book lists thirteen gods in hierarchical order, which is more reliable, but does not describe a formal three-way division of the cosmos. **On Peckols vs. Pockols:** The Sudovian Book lists these as two distinct entities — Peckols (god of hell and darkness) and Pockols (an airborne spirit/devil-figure); later sources conflated them. **On Grunau generally:** His elaborations — specific physical descriptions, ritual details, punishment sequences — lack independent corroboration and should be treated as invented. The Sudovian Book and *Constitutiones Synodales* (1530) are the most reliable attestations; everything else is derivative or embellished.
 
 ## Sources
 
@@ -84,9 +84,11 @@ The Old Prussian lord of the underworld — ruler of hell, darkness, and death �
 - *Constitutiones Synodales*, 1530
 - 1418 Memorandum to Pope Martin V (*Collato Episcopi Varmiensis*)
 - Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne*, 1690
-- Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested; use with caution
+- Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested; use with caution; source of the "Patollo" name, which modern scholarship identifies as a pseudomythologeme
+- Konstantinas Sirvydas (Szyrwid), *Dictionarium Trium Linguarum*, 1629 — links Peckols to Lithuanian *Velnias* and Latvian *Pikùlas* as Baltic cognates
 
 ### Secondary sources
 
 - Wikipedia: "Peckols" — https://en.wikipedia.org/wiki/Peckols
 - Wikipedia: "Sudovian Book" — https://en.wikipedia.org/wiki/Sudovian_Book
+- Rolandas Kregždys, "Factographic Motifs of the Yatvigian Book: Etymological Analysis and Transformation of the Semantic Value of the Mythonyms Potrimpus, Pilnitis, Parkuns, Peckols and Pockols," *Baltu filoloģija* 28(2), 2019 — freely accessible; the authoritative etymological analysis of Sudovian Book deities

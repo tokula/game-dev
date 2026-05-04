@@ -6,7 +6,7 @@
 
 **Source Layer:** Baltic
 
-**Primary origin:** Lithuanian oral tradition — *dainos* (folk songs) and fragmentary 16th–17th century Christian records; place-name evidence at Veliuona (Lithuania) indicates a significant pre-Christian cult presence; no single primary text gives her extended treatment
+**Primary origin:** Lithuanian oral tradition — listed briefly by Jan Łasicki as "Vielona" among 76 Lithuanian gods (*De diis Samagitarum*, written c. 1582, published 1615); place-name evidence at Veliuona, Lithuania (first documented as a settlement by Peter of Dusburg, *Chronicon terrae Prussiae*, 1291); role description given by Theodor Narbutt (*History of the Lithuanian Nation*, 1835–1841) — Narbutt's reliability is heavily contested by modern scholars, who accuse him of fabricating deities; no single uncontested primary text gives her extended treatment
 
 **Biological Form:** Spirit
 
@@ -60,7 +60,7 @@ A Lithuanian underworld goddess of the dead — guardian of souls, underground w
 
 **Public domain status:**
 - *Source tradition:* Lithuanian oral tradition — pre-Christian, unambiguously PD
-- *Key source text(s):* Lithuanian *dainos*, oral tradition compiled 19th century — PD; place-name evidence (Veliuona) — not subject to copyright; fragmentary 16th–17th century missionary records — PD
+- *Key source text(s):* Jan Łasicki, *De diis Samagitarum...*, written c. 1582, published 1615 — PD (brief list entry only; reliability contested); Peter of Dusburg, *Chronicon terrae Prussiae*, 1291 — PD (place-name attestation only); Theodor Narbutt, *History of the Lithuanian Nation*, 1835–1841 — PD (Narbutt died 1864), but widely considered unreliable for deity characterization; Lithuanian *dainos*, oral tradition compiled 19th century — PD
 - *Protected derivatives:* None identified
 
 **Notable trademarks to avoid:** None known for "Veliona" or "Veliuona" in game or entertainment categories. Note: do not conflate with the Slavic deity Veles (a distinct figure) or with the Lithuanian Vėlės (collective souls of the dead).
@@ -69,18 +69,19 @@ A Lithuanian underworld goddess of the dead — guardian of souls, underground w
 
 ---
 
-> **Note on sources:** Veliona is the most thinly attested of the eight beings in this Baltic chthonic batch. Her profile is substantially a reconstruction based on name etymology, place-name evidence, and functional position within Lithuanian cosmology. No single primary text gives her extended treatment comparable to the coverage Velnias receives in Łasicki (1582) or the Vėlės receive in the *raudos* and *dainos* tradition. The profile should be understood as a best-supported reconstruction, not a fully documented deity. Game designers should treat her role as more speculative than the other Baltic entries.
+> **Note on sources:** Veliona is the most thinly attested of the eight beings in this Baltic chthonic batch. The evidence chain is as follows: (1) Jan Łasicki lists "Vielona" among 76 Lithuanian gods c. 1582, with no description beyond the name — Łasicki's list is itself contested; scholars note he did not know Lithuanian, obtained information secondhand, and his list has been described as ranging from a valuable resource to a fabrication. (2) Theodor Narbutt (1835–1841) is the primary source for the role description ("goddess of eternity and afterlife") but Narbutt is widely accused of fabricating deities — entities known only from Narbutt are routinely treated as inventions in modern Baltic scholarship. (3) The place-name Veliuona is the most concrete evidence; Peter of Dusburg records it as a settlement in 1291. (4) A 2009 archaeological excavation at the Veliuona site found ceramic sherds from the 17th–18th centuries only — no evidence of a pre-Christian temple was recovered. (5) No direct mention of "Veliona" by name appears in the *dainos* tradition; the connection is thematic rather than textual. The profile is a best-supported reconstruction. Game designers should weight her as significantly more speculative than other Baltic entries in this collection.
 
 ## Sources
 
 ### Primary sources
 
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century
-- Place-name evidence: Veliuona, Jurbarkas district, Lithuania — attested pre-Christian cult site
-- Fragmentary 16th–17th century Christian missionary records
+- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum*, written c. 1582, published 1615 — lists "Vielona" by name with no further description; reliability contested
+- Peter of Dusburg, *Chronicon terrae Prussiae*, 1291 — place-name attestation for Veliuona as a settlement; not a direct mythological source
+- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; thematic connection to death and the underworld, no direct name mention
 
 ### Secondary sources
 
 - Occult World: "Veliona" — https://occult-world.com/veliona/
 - Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
 - Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- Wikipedia: "Veliuona" — https://en.wikipedia.org/wiki/Veliuona

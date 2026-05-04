@@ -74,17 +74,18 @@ A collective of Lithuanian plague goddesses — white-clad riders who sweep thro
 
 ---
 
-> **Note on sources:** Primary attestation for the Maro deivės is sparse and distributed — they appear across oral tradition and missionary records but no single named primary text gives them a dedicated passage comparable to Łasicki's treatment of Velnias. The hilltop-bonfire-and-smoke motif is widely reported in secondary Lithuanian folklore surveys and is considered authentic folk material, but the original oral sources are not easily traced to named collections. The account of the white-clad mounted figures collecting skulls and antlers appears in 19th-century ethnographic compilations. Treat detailed physical descriptions as 19th-century consolidations of earlier distributed belief rather than precisely dated primary texts.
+> **Note on sources:** The Maro deivės have no medieval primary attestation — no 16th–18th century chronicle, missionary report, or synodal record names them specifically. The earliest traceable named source is Jonas Basanavičius's late 19th-century folklore collections. The motif of white-clad mounted plague-women burning skulls on hilltops crystallized in the 19th century through the work of Lithuanian folklore collectors rather than surviving from a medievally documented tradition. This does not invalidate the folk belief — it is genuine Lithuanian oral tradition — but it means the characterization reflects 19th-century consolidation of distributed folk memory, not a directly attested pre-Christian ritual practice. Comparative support comes from better-documented parallel traditions: the Latvian *Mara* (death-goddess aspect), the Serbian *Čuma* (plague personified as a white-clad woman), and the Slavic *Morana* (goddess of winter, death, and pestilence). These parallels suggest the motif has genuine pre-Christian roots even where direct Lithuanian documentation is thin.
 
 ## Sources
 
 ### Primary sources
 
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century
-- Fragmentary 16th–17th century Christian missionary records documenting plague-spirit belief in Lithuania
+- Jonas Basanavičius folklore collections, late 19th–early 20th century — the earliest specifically traceable named source for the plague-goddess material; the Jonas Basanavičius Folklore Library (~7,000 texts) is digitized and accessible at the Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
+- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; the mounted white-clad plague-maiden motif is preserved in ballads and folk belief texts
 
 ### Secondary sources
 
+- Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, Indiana University Press, 1992 — the major scholarly synthesis of Lithuanian mythology; freely accessible on Internet Archive at https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
 - Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
 - Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
 - Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc

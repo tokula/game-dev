@@ -22,11 +22,11 @@ No individual Maro deivė is named in primary Lithuanian sources. They are attes
 
 ### Primary sources
 
+- Jonas Basanavičius folklore collections, late 19th–early 20th century — accessible at Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
 - Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century
-- Fragmentary 16th–17th century Christian missionary records
 
 ### Secondary sources
 
+- Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, 1992 — freely accessible on Internet Archive: https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
 - Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
 - Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
-- Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc

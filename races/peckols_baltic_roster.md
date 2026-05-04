@@ -22,13 +22,15 @@ Peckols is a singular divine being. No named sub-beings or named individual mani
 
 ### Primary sources
 
-- *Sudovian Book* (Sūduvių knygelė), c. 1520s
-- *Constitutiones Synodales*, 1530
+- *Sudovian Book* (Sūduvių knygelė), c. 1520s — lists Peckols and Pockols as two distinct entities
+- *Constitutiones Synodales*, 1530 — equates Peckols with Pluto
 - 1418 Memorandum to Pope Martin V
-- Matthäus Prätorius, *Deliciae Prussicae*, 1690
-- Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested
+- Matthäus Prätorius, *Deliciae Prussicae*, 1690 — largely derivative of Grunau
+- Konstantinas Sirvydas, *Dictionarium Trium Linguarum*, 1629 — links Peckols to Baltic cognates
+- Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested; source of the "Patollo" pseudomythologeme
 
 ### Secondary sources
 
 - Wikipedia: "Peckols" — https://en.wikipedia.org/wiki/Peckols
 - Wikipedia: "Sudovian Book" — https://en.wikipedia.org/wiki/Sudovian_Book
+- Rolandas Kregždys, "Factographic Motifs of the Yatvigian Book," *Baltu filoloģija* 28(2), 2019 — freely accessible
