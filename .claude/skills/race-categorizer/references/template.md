@@ -1,3 +1,5 @@
+> **Data provenance rule:** Only populate this file with information drawn from public-domain, CC0, or explicitly open-licensed sources (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, or trademarked IP unless that specific material is released under an open licence. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
 # {English Name}
 
 **Native name / Etymology:** {Native-language form and meaning, e.g. "Valkyrja (Old Norse: 'chooser of the slain', from valr 'the slain' + kjósa 'to choose')"}
@@ -77,13 +79,13 @@ Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources
 
 ## Game depictions (variants from the source mythology)
 
-When game/fiction depictions diverge significantly from the source mythology, document them here. Omit this section entirely if there are no notable divergences.
+When game/fiction depictions diverge significantly from the source mythology, document them here. Omit this section entirely if there are no notable divergences. Each variant heading carries a provenance tag — only include entries whose source qualifies (public domain, CC0, or explicitly open-licensed).
 
-### {Variant name, e.g. "Tolkien dwarves"}
+### {Variant name, e.g. "Tolkien dwarves"} `[PD]`
 
 {1–3 sentences on how this depiction differs from the source mythology — physical traits, culture, role.}
 
-### {Variant name, e.g. "D&D dwarves"}
+### {Variant name, e.g. "D&D dwarves"} `[SRD]`
 
 {1–3 sentences.}
 
@@ -93,10 +95,14 @@ When game/fiction depictions diverge significantly from the source mythology, do
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` Creative Commons Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- {Folklore, mythology, saga, religious text, or historical account — title, author if known, approximate date}
+- `[PD]` {Folklore, mythology, saga, religious text, or historical account — title, author if known, approximate date}
 
 ### Secondary sources
 
-- {Encyclopedia entry, academic overview, or web source — title and URL if applicable}
+- `[PD]` {Encyclopedia entry, academic overview, or web source — title and URL if applicable}

@@ -12,7 +12,9 @@ Build structured Markdown profiles of mythological and fictional races for game-
 1. **Parse input** — accept a single name, comma-separated list, or newline-separated list. Treat each entry independently.
 2. **Validate each entry** — distinguish races from individual figures and from unique beings (see "Input validation").
 3. **For each valid race entry, identify source variants** — if the race appears in multiple distinct mythologies (e.g. Dwarves in Norse vs. Slavic), produce one file per source. See "Multiple source mythologies".
-4. **Research each variant** — use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
+4. **Research each variant** — before any web search, read `.claude/skills/race-categorizer/references/sources_registry.md`. For any source you plan to cite that already appears in the registry, use its registered `Tag` and `URL` directly — do not mark `*` or re-research its status. Sources listed under **Known blocked sources** in the registry are automatically excluded. Only run web searches for provenance of sources genuinely absent from the registry.
+
+   After the registry check, use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
 
    **4b — Classify each trait** — for every trait discovered, walk this decision order (first match wins):
    1. **Specialization** — does it break normal physical/biological rules? No training or luck in another race could replicate it. Tag `[minor]`, `[major]`, or `[signature]` by impact.
@@ -49,20 +51,26 @@ Build structured Markdown profiles of mythological and fictional races for game-
    - **Predators**: what naturally hunts, threatens, or preys upon this race. Intentional overlap with Faults is acceptable — both perspectives are useful.
    - For divine, immortal, or spirit races with no food chain: `N/A — divine/immortal beings` for both fields.
 
-5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Format:
+5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Prefix each entry with its provenance tag. Sources that fail the IP filter are listed but marked `[BLOCKED]` and excluded automatically — the user cannot unblock them.
+
+   Provenance tags: `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` CC Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` proprietary/copyright — excluded
+
+   Append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD]*` — text appears old, no copyright notice found, but not formally verified). Never omit the tag and never silently assume safety; a flagged guess is always better than false confidence.
 
    ```
    Sources found for Valkyrie (Norse):
-     [1] Völuspá, Poetic Edda (c. 10th–13th century) — names six Valkyries, primary cosmological role
-     [2] Grímnismál, Poetic Edda — lists thirteen named Valkyries
-     [3] Gylfaginning, Prose Edda, Snorri Sturluson (c. 1220) — battlefield role description
-     [4] World History Encyclopedia: "Valkyrie" — secondary overview
-     [5] God of War Wiki — game depiction details
+     [1] [PD] Völuspá, Poetic Edda (c. 10th–13th century) — names six Valkyries, primary cosmological role
+     [2] [PD] Grímnismál, Poetic Edda — lists thirteen named Valkyries
+     [3] [PD] Gylfaginning, Prose Edda, Snorri Sturluson (c. 1220) — battlefield role description
+     [4] [PD*] World History Encyclopedia: "Valkyrie" — secondary overview, licence not explicitly stated
+     [5] [BLOCKED] God of War Wiki — proprietary IP, excluded by IP filter
 
-   Use all? Or discard any? (enter numbers to discard, or press enter to use all)
+   Use all qualifying sources? Or discard any? (enter numbers to discard, or press enter to use all)
    ```
 
    Only proceed to step 6 once the user has confirmed. Omit discarded sources from all file content.
+
+   **5b — Update the registry** — for each approved source not already in `sources_registry.md`, append a new row to the appropriate tradition section (or Secondary/Academic if cross-tradition). Include title, author, date, tag (with `*` if uncertain), URL if found, and any notes. Do not add BLOCKED sources.
 
 6. **Fill the template** for each variant. The template lives at `.claude/skills/race-categorizer/references/template.md` (relative to the project root) — read it and follow it exactly. It includes the **Gender(s)** header field, the **Allies / Rivals / Enemies** table, and the **Ecology** section (Prey + Predators) — populate all three using the rules in step 4c. Also prepare a companion `{name}_{source}_roster.md` (see "Roster file").
 7. **Write files** to `./races/` (default) using the filename convention. Write both the main profile and the companion roster file. Handle existing files via diff prompt.
@@ -233,6 +241,29 @@ Use web search for:
 When sources conflict (common with folklore — e.g. Slavic and Germanic both have "dwarf-like" beings with overlapping traits), do not pick one silently. Flag the ambiguity in the file under a `> **Note:**` callout and present the major variants.
 
 For trademark info, always include the disclaimer that this is general guidance and not legal advice — the user should verify with the relevant trademark database before commercial use.
+
+## Registry management
+
+The registry at `.claude/skills/race-categorizer/references/sources_registry.md` is the single source of truth for provenance. It is consulted automatically in step 4 and updated automatically in step 5b. Three explicit commands are also available:
+
+**`bootstrap registry`** — re-sync the registry from existing race files (run after adding many files outside the skill):
+1. Scan all `.md` files under `races/` (skip `_roster.md` files)
+2. Extract every entry from `### Primary sources` and `### Secondary sources` sections
+3. Deduplicate by title; for each entry not already in the registry, propose adding it
+4. Present proposed additions for user review
+5. Append approved entries to `sources_registry.md`
+
+**`audit races`** — find and fix missing or inconsistent tags across all race files:
+1. Read `sources_registry.md`
+2. Scan all race profile files (skip rosters) for source entries missing a tag or whose tag differs from the registry
+3. Show a summary: count of files affected and nature of changes
+4. For each affected file, show a `git diff --no-index --word-diff` and ask `apply? (y/n/skip)`
+5. Write approved updates; report final counts (updated / skipped / unchanged)
+
+**`confirm [source title]`** — promote a `[TAG*]` entry to confirmed:
+1. Find the matching row in `sources_registry.md` by title (partial match is fine if unambiguous)
+2. Remove the `*` from the tag
+3. Offer to run `audit races` immediately to back-propagate the confirmed tag to all race files that cite this source
 
 ## Template
 

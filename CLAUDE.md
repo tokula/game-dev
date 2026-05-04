@@ -71,6 +71,10 @@ Inconsistent naming causes lookup errors and bad cross-references. Follow these 
 - Use `[]` when the effect works purely through `flags` (e.g. stun, flinch, freeze)
 - Never omit the field — a missing `effects` key is a schema error, not the same as no stat change
 
+## Race profiles
+
+When researching or writing race profiles (any file under `races/`), use only public-domain, CC0, or explicitly open-licensed data. Do not incorporate content drawn from proprietary game rules, copyrighted novels, or trademarked IP unless that specific material is released under an open licence (e.g. D&D 5e SRD / CC-BY-4.0). If a source is ambiguous, omit the data and note the gap in the file.
+
 ## Diffing files on Windows
 
 `diff -u` via the Bash tool does not work here — the Bash environment has no access to Windows paths.
