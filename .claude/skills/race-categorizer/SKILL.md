@@ -14,7 +14,7 @@ Build structured Markdown profiles of mythological and fictional races for game-
 3. **For each valid race entry, identify source variants** — if the race appears in multiple distinct mythologies (e.g. Dwarves in Norse vs. Slavic), produce one file per source. See "Multiple source mythologies".
 4. **Research each variant** — before any web search, read `.claude/skills/race-categorizer/references/sources_registry.md`. For any source you plan to cite that already appears in the registry, use its registered `Tag` and `URL` directly — do not mark `*` or re-research its status. Sources listed under **Known blocked sources** in the registry are automatically excluded. Only run web searches for provenance of sources genuinely absent from the registry.
 
-   After the registry check, use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
+   Sources listed in the `## Blocked sources` section of the registry are excluded immediately without re-researching. Sources tagged `[CC-BY-NC*]` or `[CC-BY-NC-ND]` are research-only — use them to confirm facts but never cite them in race files; always attribute the fact to its PD primary source instead. After the registry check, use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
 
    **4b — Classify each trait** — for every trait discovered, walk this decision order (first match wins):
    1. **Specialization** — does it break normal physical/biological rules? No training or luck in another race could replicate it. Tag `[minor]`, `[major]`, or `[signature]` by impact.

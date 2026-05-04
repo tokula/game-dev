@@ -25,6 +25,10 @@ Race profile files (under `races/`) tag every source with its licence status. Th
 | `[CC0]` | Creative Commons Zero (no rights reserved) |
 | `[CC-BY]` | Creative Commons Attribution |
 | `[CC-BY-SA]` | Creative Commons Attribution-ShareAlike |
+| `[CC-BY-NC]` | Creative Commons Attribution-NonCommercial |
+| `[CC-BY-NC-SA]` | Creative Commons Attribution-NonCommercial-ShareAlike |
+| `[CC-BY-NC-ND]` | Creative Commons Attribution-NonCommercial-NoDerivatives |
 | `[SRD]` | D&D 5e Systems Reference Document (CC-BY-4.0) |
 | `[OGL]` | Open Game License |
+| `[BLOCKED]` | Confirmed proprietary — excluded from race files |
 | `[TAG*]` | Best-guess provenance, not formally verified — confirm before commercial use |

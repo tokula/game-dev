@@ -73,7 +73,7 @@ Inconsistent naming causes lookup errors and bad cross-references. Follow these 
 
 ## Race profiles
 
-When researching or writing race profiles (any file under `races/`), use only public-domain, CC0, or explicitly open-licensed data. Do not incorporate content drawn from proprietary game rules, copyrighted novels, or trademarked IP unless that specific material is released under an open licence (e.g. D&D 5e SRD / CC-BY-4.0). If a source is ambiguous, omit the data and note the gap in the file.
+When researching or writing race profiles (any file under `races/`), use only commercially usable data — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content drawn from proprietary game rules, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be consulted to confirm facts but must never be cited in race files — attribute the fact to its PD primary source instead. If a source is ambiguous, omit the data and note the gap in the file.
 
 ## Diffing files on Windows
 

@@ -24,7 +24,20 @@
       "WebFetch(domain:fairychamber.substack.com)",
       "WebFetch(domain:trolldens.blogspot.com)",
       "WebFetch(domain:occult-world.com)",
-      "WebFetch(domain:archive.org)"
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:norse-mythology.org)",
+      "WebFetch(domain:www.worldhistory.org)",
+      "WebFetch(domain:www.historycooperative.org)",
+      "WebFetch(domain:pantheon.org)",
+      "WebFetch(domain:vikingr.org)",
+      "WebFetch(domain:godsandmonsters.info)",
+      "WebFetch(domain:finnishmyth.org)",
+      "WebFetch(domain:occultworld.com)",
+      "WebFetch(domain:truelithuania.com)",
+      "WebFetch(domain:thewickedgriffin.com)",
+      "WebFetch(domain:www.scmp.com)",
+      "WebFetch(domain:www.yinleong.com)",
+      "WebFetch(domain:www.lituanus.org)"
     ]
   }
 }
