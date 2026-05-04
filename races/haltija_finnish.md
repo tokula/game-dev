@@ -78,19 +78,18 @@ Guardian spirits of Finnish folk religion, each bound to a specific domain — h
 
 ### Primary sources
 
-- Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; Tapio, Mielikki, and haltija-class spirits appear throughout; public domain
-- Mythologia Fennica, Christfrid Ganander (1789) — systematic 430-entry encyclopedia of Finnish mythology; names specific haltija types and individuals; public domain
-- Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — ~100,000 Kalevala-metre folk poems; names water-haltija cattle and attests widespread haltija belief; public domain
+- `[PD]` Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; Tapio, Mielikki, and haltija-class spirits appear throughout; public domain
+- `[PD]` Mythologia Fennica, Christfrid Ganander (1789) — systematic 430-entry encyclopedia of Finnish mythology; names specific haltija types and individuals; public domain
+- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — ~100,000 Kalevala-metre folk poems; names water-haltija cattle and attests widespread haltija belief; public domain
 
 ### Secondary sources
 
-- Wikipedia: "Haltija" — https://en.wikipedia.org/wiki/Haltija
-- Britannica: "Haltia" — https://www.britannica.com/topic/haltia
-- Wikipedia: "Baltic Finnic paganism" — https://en.wikipedia.org/wiki/Baltic_Finnic_paganism
-- Wikipedia: "Etiäinen" — https://en.wikipedia.org/wiki/Eti%C3%A4inen
-- godsandmonsters.info: "Haltija: Finnish Nature Spirits" — https://godsandmonsters.info/haltija/
-- AncientScholar: "Haltija Spirits: Finnish Folklore's Guardians and Symbols" — https://ancientscholar.org/haltija-spirits-finnish-folklores-guardians-and-symbols/
-- worldmythos.com: "Metsänhaltija" — https://worldmythos.com/metsanhaltija/
-- Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
-- Wikipedia: "Mielikki" — https://en.wikipedia.org/wiki/Mielikki
-- random-times.com: "Metsänhaltija, the forest spirits of Finnish Mythology" — https://random-times.com/2022/04/27/metsanhaltija-the-forest-spirits-of-finnish-mythology/
+- `[CC-BY-SA]` Wikipedia: "Haltija" — https://en.wikipedia.org/wiki/Haltija
+- `[CC-BY-SA]` Wikipedia: "Baltic Finnic paganism" — https://en.wikipedia.org/wiki/Baltic_Finnic_paganism
+- `[CC-BY-SA]` Wikipedia: "Etiäinen" — https://en.wikipedia.org/wiki/Eti%C3%A4inen
+- `[PD*]` godsandmonsters.info: "Haltija: Finnish Nature Spirits" — https://godsandmonsters.info/haltija/
+- `[PD*]` AncientScholar: "Haltija Spirits: Finnish Folklore's Guardians and Symbols" — https://ancientscholar.org/haltija-spirits-finnish-folklores-guardians-and-symbols/
+- `[PD*]` worldmythos.com: "Metsänhaltija" — https://worldmythos.com/metsanhaltija/
+- `[CC-BY-SA]` Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
+- `[CC-BY-SA]` Wikipedia: "Mielikki" — https://en.wikipedia.org/wiki/Mielikki
+- `[PD*]` random-times.com: "Metsänhaltija, the forest spirits of Finnish Mythology" — https://random-times.com/2022/04/27/metsanhaltija-the-forest-spirits-of-finnish-mythology/

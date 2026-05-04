@@ -76,19 +76,18 @@ Diminutive invisible earth-dwellers of Finnish folklore who inhabit a mirror-wor
 
 ### Primary sources
 
-- Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; references to earth spirits and agricultural guardians; public domain
-- Mythologia Fennica, Christfrid Ganander (1789) — systematic encyclopedia of Finnish mythology; contextualizes maahiset within Finnish folk religion; public domain
-- Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — original Kalevala-metre folk poetry corpus; public domain
+- `[PD]` Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; references to earth spirits and agricultural guardians; public domain
+- `[PD]` Mythologia Fennica, Christfrid Ganander (1789) — systematic encyclopedia of Finnish mythology; contextualizes maahiset within Finnish folk religion; public domain
+- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — original Kalevala-metre folk poetry corpus; public domain
 
 ### Secondary sources
 
-- Britannica: "Maa-alused" — https://www.britannica.com/topic/maa-alused
-- Wikipedia: "Finnish mythology" — https://en.wikipedia.org/wiki/Finnish_mythology
-- Wikipedia: "Metsänpeitto" — https://en.wikipedia.org/wiki/Mets%C3%A4npeitto
-- Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
-- Monstropedia: "Maahiset" — https://monstropedia.org/index.php?title=Maahiset
-- finnishmyth.org: "Elves, Gnomes and Spirits" — http://www.finnishmyth.org/FINNISH_MYTHS_GODS/ELVES_&_SPIRITS.html
-- Wild of Lapland Forest: "Exploring Finnish Mythology" — https://wildlaplandforest.com/en/exploring-finnish-mythology-tales-of-gods-spirits-and-creation/
-- Patheos: "Fairies In Finnish Mythology And Folklore" — https://www.patheos.com/blogs/mythsandfolklore/2023/03/fairies-in-finnish-mythology-and-folklore/
-- Mythical Encyclopedia: "Finnish Mythology Creatures" — https://mythicalencyclopedia.com/finnish-mythology-creatures/
-- Medium/Niina Pekantytär: "List of Finnish Deities and Nature Spirits" — https://littlewomen.medium.com/list-of-finnish-deities-and-nature-spirits-d8b58730f67b
+- `[CC-BY-SA]` Wikipedia: "Finnish mythology" — https://en.wikipedia.org/wiki/Finnish_mythology
+- `[CC-BY-SA]` Wikipedia: "Metsänpeitto" — https://en.wikipedia.org/wiki/Mets%C3%A4npeitto
+- `[CC-BY-SA]` Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
+- `[PD*]` Monstropedia: "Maahiset" — https://monstropedia.org/index.php?title=Maahiset
+- `[PD*]` finnishmyth.org: "Elves, Gnomes and Spirits" — http://www.finnishmyth.org/FINNISH_MYTHS_GODS/ELVES_&_SPIRITS.html
+- `[PD*]` Wild of Lapland Forest: "Exploring Finnish Mythology" — https://wildlaplandforest.com/en/exploring-finnish-mythology-tales-of-gods-spirits-and-creation/
+- `[PD*]` Patheos: "Fairies In Finnish Mythology And Folklore" — https://www.patheos.com/blogs/mythsandfolklore/2023/03/fairies-in-finnish-mythology-and-folklore/
+- `[PD*]` Mythical Encyclopedia: "Finnish Mythology Creatures" — https://mythicalencyclopedia.com/finnish-mythology-creatures/
+- `[PD*]` Medium/Niina Pekantytär: "List of Finnish Deities and Nature Spirits" — https://littlewomen.medium.com/list-of-finnish-deities-and-nature-spirits-d8b58730f67b

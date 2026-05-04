@@ -88,13 +88,13 @@ The pre-Indo-European Baltic witch-goddess of death, rebirth, prophecy, and cosm
 
 ### Primary sources
 
-- Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
-- Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes)
-- 16th–18th century Christian missionary and trial records — document ragana belief; use with caution due to hostile framing
+- `[PD]` Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
+- `[PD]` Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes)
+- `[PD]` 16th–18th century Christian missionary and trial records — document ragana belief; use with caution due to hostile framing
 
 ### Secondary sources
 
-- Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
-- Niina Niskanen, "Ragana: Baltic Goddess of Witches," *Fairychamber* (Substack) — https://fairychamber.substack.com/p/ragana-baltic-goddess-of-witches
-- Mythical Encyclopedia: "Ragana" — https://mythicalencyclopedia.com/ragana/
-- Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/
+- `[CC-BY-SA]` Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
+- `[PD*]` Niina Niskanen, "Ragana: Baltic Goddess of Witches," *Fairychamber* (Substack) — https://fairychamber.substack.com/p/ragana-baltic-goddess-of-witches
+- `[PD*]` Mythical Encyclopedia: "Ragana" — https://mythicalencyclopedia.com/ragana/
+- `[PD*]` Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/

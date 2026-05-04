@@ -80,12 +80,12 @@ A collective of Lithuanian plague goddesses — white-clad riders who sweep thro
 
 ### Primary sources
 
-- Jonas Basanavičius folklore collections, late 19th–early 20th century — the earliest specifically traceable named source for the plague-goddess material; the Jonas Basanavičius Folklore Library (~7,000 texts) is digitized and accessible at the Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; the mounted white-clad plague-maiden motif is preserved in ballads and folk belief texts
+- `[PD]` Jonas Basanavičius folklore collections, late 19th–early 20th century — the earliest specifically traceable named source for the plague-goddess material; the Jonas Basanavičius Folklore Library (~7,000 texts) is digitized and accessible at the Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
+- `[PD]` Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; the mounted white-clad plague-maiden motif is preserved in ballads and folk belief texts
 
 ### Secondary sources
 
-- Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, Indiana University Press, 1992 — the major scholarly synthesis of Lithuanian mythology; freely accessible on Internet Archive at https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
-- Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
-- Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
+- `[PD*]` Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, Indiana University Press, 1992 — the major scholarly synthesis of Lithuanian mythology; freely accessible on Internet Archive at https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
+- `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- `[PD*]` Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
+- `[PD*]` Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc

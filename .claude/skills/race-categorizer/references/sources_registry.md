@@ -2,7 +2,7 @@
 
 Single source of truth for provenance tagging across all race profile files. The race-categorizer skill reads this file during research (step 4a) and appends new entries after each approved source list (step 5b).
 
-**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` Creative Commons Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` proprietary — excluded · append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` Creative Commons Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
 
 > **How to confirm a `*` tag:** edit the row below and remove the `*`. The next `audit races` run will back-propagate the confirmed tag to all race files that cite this source.
 
@@ -35,7 +35,6 @@ Single source of truth for provenance tagging across all race profile files. The
 | Norse Mythology for Smart People | Daniel McCoy | Ongoing | [PD*] | https://norse-mythology.org | Licence not explicitly stated on site |
 | World History Encyclopedia — Norse articles (Nine Realms, Ragnarök, Elves and Dwarves, Norse Giants, Norse land spirits, Valkyrie, Muspelheim) | Various contributors | Ongoing | [PD*] | https://www.worldhistory.org | Content CC-BY-NC-SA; underlying facts PD — do not reproduce prose verbatim |
 | History Cooperative — "The Aesir Gods of Norse Mythology" | Various | Ongoing | [PD*] | https://historycooperative.org | Licence not explicitly stated |
-| Britannica — Norse articles | Various | Ongoing | [BLOCKED] | https://www.britannica.com | Proprietary; use for research only, do not cite as source in race files |
 | Pantheon.org — "Hrímþursar" | Various | Ongoing | [PD*] | https://pantheon.org | Licence not explicitly stated |
 | Vikingr.org — "Undead of the Viking Age" | Various | Ongoing | [PD*] | https://vikingr.org | Licence not explicitly stated |
 | The Wicked Griffin — "The Undead Warriors of Norse Mythology: Meet the Draugr" | Various | Ongoing | [PD*] | | Licence not explicitly stated |
@@ -57,7 +56,6 @@ Single source of truth for provenance tagging across all race profile files. The
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — Finnish mythology articles (Haltija, Baltic Finnic paganism, Etiäinen, Metsänpeitto, Tapio, Mielikki) | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Finnish_mythology | Article text CC-BY-SA 4.0 |
-| Britannica — "Haltia," "Maa-alused" | Various | Ongoing | [BLOCKED] | https://www.britannica.com | Proprietary; research only |
 | godsandmonsters.info — "Haltija: Finnish Nature Spirits" | Various | Ongoing | [PD*] | https://godsandmonsters.info | Licence not explicitly stated |
 | Medium — "List of Finnish Deities and Nature Spirits" | Niina Pekantytär | Ongoing | [PD*] | https://medium.com | Licence not explicitly stated |
 | finnishmyth.org — "Elves, Gnomes and Spirits" | Various | Ongoing | [PD*] | https://finnishmyth.org | Licence not explicitly stated |
@@ -94,9 +92,8 @@ Single source of truth for provenance tagging across all race profile files. The
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — Baltic mythology articles (Dievas, Dieva Dēli, Lauma, Baltic mythology, Ragana, Giltinė, Žemyna, Veliuona, Zemes māte, Peckols, Veles, etc.) | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Baltic_mythology | Article text CC-BY-SA 4.0 |
-| Britannica — Baltic articles (Dievs, Dieva dēli, Lauma, Velnias, Zemes māte) | Various | Ongoing | [BLOCKED] | https://www.britannica.com | Proprietary; research only |
 | "Relations Between the Living and the Dead in Lithuanian Folklore" | Gražina Krivickaitė | 1995 | [PD*] | | Lituanus vol. 41 no. 2; licence not stated but academic open access |
-| Of Gods and Men: Studies in Lithuanian Mythology | Algirdas Julien Greimas | 1992 | [BLOCKED] | | Indiana University Press; copyright held by publisher |
+| Of Gods and Men: Studies in Lithuanian Mythology | Algirdas Julien Greimas | 1992 | [PD*] | | Indiana University Press, 1992; copyright held by publisher — cite facts only, do not reproduce prose |
 | "Factographic Motifs of the Yatvigian Book: Etymological Analysis..." | Rolandas Kregždys | 2019 | [PD*] | | Baltu filoloģija 28(2); identifies Patollo as pseudomythologeme |
 | Etymological Dictionary of Baltic Mythologemes II | Rolandas Kregždys | 2020 | [BLOCKED] | | Copyright held by publisher |
 | "Witches in Baltic Fairy Tales" | Bernd Gliwa | 2003 | [PD*] | | Onomasiology Online 4; licence not stated |
@@ -135,17 +132,3 @@ Single source of truth for provenance tagging across all race profile files. The
 |-------|--------|------|-----|-----|-------|
 | D&D 5e Systems Reference Document (SRD) | Wizards of the Coast | 2016 | [SRD] | https://dnd.wizards.com/resources/systems-reference-document | CC-BY-4.0; covers Tieflings and other SRD races |
 
----
-
-## Known blocked sources
-
-Sources confirmed proprietary. List them here so the skill can match and block them without re-researching.
-
-| Title | Publisher / Owner | Notes |
-|-------|-------------------|-------|
-| God of War Wiki (Fandom) | Sony Interactive Entertainment / Santa Monica Studio | Game-specific lore; proprietary IP |
-| Marvel Cinematic Universe Wiki (Fandom) | Marvel Studios / Disney | Game/film-specific lore; proprietary IP |
-| Warhammer Wiki (Fandom) | Games Workshop | Proprietary IP |
-| D&D Beyond / Forgotten Realms Wiki | Wizards of the Coast | Non-SRD content; proprietary |
-| World of Warcraft Wiki (Wowpedia) | Blizzard Entertainment | Proprietary IP |
-| Tolkien Gateway / Tolkien.co.uk | Tolkien Estate | Tolkien's works still under copyright in most jurisdictions |

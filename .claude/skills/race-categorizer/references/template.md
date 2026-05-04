@@ -95,7 +95,7 @@ When game/fiction depictions diverge significantly from the source mythology, do
 
 ## Sources
 
-**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` Creative Commons Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` Creative Commons Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
 
 Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
 

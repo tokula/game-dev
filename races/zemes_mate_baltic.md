@@ -79,12 +79,11 @@ The Latvian earth-mother and her chthonic aspects — Kapu māte (Mother of Grav
 
 ### Primary sources
 
-- Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes) — UNESCO Memory of the World
-- Paul Einhorn, *Historia Lettica*, 1649
-- Latvian *pasakas* (folktales and legends), oral tradition
+- `[PD]` Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes) — UNESCO Memory of the World
+- `[PD]` Paul Einhorn, *Historia Lettica*, 1649
+- `[PD]` Latvian *pasakas* (folktales and legends), oral tradition
 
 ### Secondary sources
 
-- Wikipedia: "Zemes māte" — https://en.wikipedia.org/wiki/Zemes-mate
-- Britannica: "Zemes māte" — https://www.britannica.com/topic/Zemes-mate
-- Wikipedia: "Latvian mythology" — https://en.wikipedia.org/wiki/Latvian_mythology
+- `[CC-BY-SA]` Wikipedia: "Zemes māte" — https://en.wikipedia.org/wiki/Zemes-mate
+- `[CC-BY-SA]` Wikipedia: "Latvian mythology" — https://en.wikipedia.org/wiki/Latvian_mythology

@@ -78,10 +78,10 @@ Master craftsmen of the Nine Worlds — formed from maggots in the body of the p
 
 ### Primary sources
 
-- Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá* (Dvergatal / Catalogue of Dwarves), *Alvíssmál* (sunlight petrification), *Hymiskviða*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* (creation account; cosmological realm); *Skáldskaparmál* (Mjölnir, Gungnir, Gleipnir, Mead of Poetry, and other crafting feats)
+- `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá* (Dvergatal / Catalogue of Dwarves), *Alvíssmál* (sunlight petrification), *Hymiskviða*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* (creation account; cosmological realm); *Skáldskaparmál* (Mjölnir, Gungnir, Gleipnir, Mead of Poetry, and other crafting feats)
 
 ### Secondary sources
 
-- Dwarf (folklore) — Wikipedia
-- World History Encyclopedia — Elves and Dwarves in Norse Mythology
+- `[CC-BY-SA]` Dwarf (folklore) — Wikipedia
+- `[PD*]` World History Encyclopedia — Elves and Dwarves in Norse Mythology

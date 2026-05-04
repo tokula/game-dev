@@ -71,9 +71,9 @@ None documented in primary sources.
 
 ### Primary sources
 
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, ch. 17
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, ch. 17
 
 ### Secondary sources
 
-- Dökkálfar and Ljósálfar — Wikipedia
-- World History Encyclopedia — Elves and Dwarves in Norse Mythology
+- `[CC-BY-SA]` Dökkálfar and Ljósálfar — Wikipedia
+- `[PD*]` World History Encyclopedia — Elves and Dwarves in Norse Mythology

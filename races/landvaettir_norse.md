@@ -80,10 +80,10 @@ None documented in primary sources.
 
 ### Primary sources
 
-- Landnámabók (anonymous, c. 1200)
-- Heimskringla (Snorri Sturluson, c. 1220) — *Óláfs saga Tryggvasonar*
+- `[PD]` Landnámabók (anonymous, c. 1200)
+- `[PD]` Heimskringla (Snorri Sturluson, c. 1220) — *Óláfs saga Tryggvasonar*
 
 ### Secondary sources
 
-- Landvættir — Wikipedia
-- World History Encyclopedia — Norse land spirits
+- `[CC-BY-SA]` Landvættir — Wikipedia
+- `[PD*]` World History Encyclopedia — Norse land spirits

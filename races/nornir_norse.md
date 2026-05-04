@@ -65,10 +65,10 @@ Beyond the three principal Nornir, *Gylfaginning* states that many Nornir exist 
 
 ### Primary sources
 
-- Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá* (cosmological role and Ragnarök); *Fáfnismál* (multiple racial origins of Nornir); *Grímnismál*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* (three primary Nornir; the Well of Urðr; birth-Nornir)
+- `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá* (cosmological role and Ragnarök); *Fáfnismál* (multiple racial origins of Nornir); *Grímnismál*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* (three primary Nornir; the Well of Urðr; birth-Nornir)
 
 ### Secondary sources
 
-- Norns — Wikipedia
-- World History Encyclopedia — Norns: Female Figures of Fate
+- `[CC-BY-SA]` Norns — Wikipedia
+- `[PD*]` World History Encyclopedia — Norns: Female Figures of Fate

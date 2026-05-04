@@ -78,12 +78,12 @@ Tiny Lithuanian household spirits of fertility and wealth who dwell in the homes
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582) — earliest textual record; identifies kaukai as "little men" connected to Velinas
-- 16th–17th century Christian missionary accounts — describe kaukai offerings and barn midnight feast rituals
-- Lithuanian oral folk belief texts — compiled 19th century
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582) — earliest textual record; identifies kaukai as "little men" connected to Velinas
+- `[PD]` 16th–17th century Christian missionary accounts — describe kaukai offerings and barn midnight feast rituals
+- `[PD]` Lithuanian oral folk belief texts — compiled 19th century
 
 ### Secondary sources
 
-- Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- Pantheon.org: "Kaukas" — https://pantheon.org/articles/k/kaukas.html
-- "Lithuanian mythology and folklore," truelithuania.com — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474
+- `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- `[PD*]` Pantheon.org: "Kaukas" — https://pantheon.org/articles/k/kaukas.html
+- `[PD*]` "Lithuanian mythology and folklore," truelithuania.com — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474

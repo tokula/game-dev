@@ -97,14 +97,14 @@ Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources
 
 ### Primary sources
 
-- *Shanhaijing* (Classic of Mountains and Seas), anonymous, compiled c. 475–100 BCE
-- *Hanshu* (Book of Han), Ban Gu, c. AD 82 — earliest historical record using 妖怪 as a formal term
-- *Xiyouji* (Journey to the West), attributed to Wu Cheng'en, c. 1592
-- *Fengshen Yanyi* (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
-- *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio), Pu Songling, c. 1740 — authored literary fiction reflecting Qing-era folk tradition; not a folklore chronicle
+- `[PD]` *Shanhaijing* (Classic of Mountains and Seas), anonymous, compiled c. 475–100 BCE
+- `[PD]` *Hanshu* (Book of Han), Ban Gu, c. AD 82 — earliest historical record using 妖怪 as a formal term
+- `[PD]` *Xiyouji* (Journey to the West), attributed to Wu Cheng'en, c. 1592
+- `[PD]` *Fengshen Yanyi* (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
+- `[PD]` *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio), Pu Songling, c. 1740 — authored literary fiction reflecting Qing-era folk tradition; not a folklore chronicle
 
 ### Secondary sources
 
-- Yaoguai — Wikipedia (terminology distinctions and attestation dates)
-- "How demons, spirits, ghosts and monsters are separated" — South China Morning Post (yao vs. gui vs. mo categorical boundaries)
-- "Yaoguai and Mogui Explained" — Yin Leong (terminology analysis: 妖 vs. 妖怪 vs. 妖精)
+- `[CC-BY-SA]` Yaoguai — Wikipedia (terminology distinctions and attestation dates)
+- `[PD*]` "How demons, spirits, ghosts and monsters are separated" — South China Morning Post (yao vs. gui vs. mo categorical boundaries)
+- `[PD*]` "Yaoguai and Mogui Explained" — Yin Leong (terminology analysis: 妖 vs. 妖怪 vs. 妖精)

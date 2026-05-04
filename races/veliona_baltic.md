@@ -75,13 +75,13 @@ A Lithuanian underworld goddess of the dead — guardian of souls, underground w
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum*, written c. 1582, published 1615 — lists "Vielona" by name with no further description; reliability contested
-- Peter of Dusburg, *Chronicon terrae Prussiae*, 1291 — place-name attestation for Veliuona as a settlement; not a direct mythological source
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; thematic connection to death and the underworld, no direct name mention
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum*, written c. 1582, published 1615 — lists "Vielona" by name with no further description; reliability contested
+- `[PD]` Peter of Dusburg, *Chronicon terrae Prussiae*, 1291 — place-name attestation for Veliuona as a settlement; not a direct mythological source
+- `[PD]` Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; thematic connection to death and the underworld, no direct name mention
 
 ### Secondary sources
 
-- Occult World: "Veliona" — https://occult-world.com/veliona/
-- Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
-- Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- Wikipedia: "Veliuona" — https://en.wikipedia.org/wiki/Veliuona
+- `[PD*]` Occult World: "Veliona" — https://occult-world.com/veliona/
+- `[PD*]` Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
+- `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- `[CC-BY-SA]` Wikipedia: "Veliuona" — https://en.wikipedia.org/wiki/Veliuona

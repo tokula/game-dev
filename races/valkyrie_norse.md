@@ -89,16 +89,16 @@ Valkyrior are a warrior caste of Asgardian women, not exclusively divine agents 
 
 ### Primary sources
 
-- *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — six Valkyries named; cosmological role in the cycle leading to Ragnarök
-- *Grímnismál*, Poetic Edda — thirteen Valkyries listed by name
-- *Darraðarljóð*, embedded in Njáls saga (c. 13th century) — six Valkyries weave the fate of the Battle of Clontarf
-- *Helgakviða Hundingsbana I & II*, Poetic Edda — Sigrún featured as a named Valkyrie
-- *Sigrdrífumál*, Poetic Edda — Sigrdrífa (Brynhildr) as exiled Valkyrie; rune-wisdom
-- *Nafnaþulur*, Skáldskaparmál, Prose Edda, Snorri Sturluson (c. 1220) — extended name list
-- *Gylfaginning*, Prose Edda — Valkyrie function in Valhöll described
-- *Völsunga saga* (anonymous, c. 13th century) — Brynhildr's history as exiled Valkyrie
+- `[PD]` *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — six Valkyries named; cosmological role in the cycle leading to Ragnarök
+- `[PD]` *Grímnismál*, Poetic Edda — thirteen Valkyries listed by name
+- `[PD]` *Darraðarljóð*, embedded in Njáls saga (c. 13th century) — six Valkyries weave the fate of the Battle of Clontarf
+- `[PD]` *Helgakviða Hundingsbana I & II*, Poetic Edda — Sigrún featured as a named Valkyrie
+- `[PD]` *Sigrdrífumál*, Poetic Edda — Sigrdrífa (Brynhildr) as exiled Valkyrie; rune-wisdom
+- `[PD]` *Nafnaþulur*, Skáldskaparmál, Prose Edda, Snorri Sturluson (c. 1220) — extended name list
+- `[PD]` *Gylfaginning*, Prose Edda — Valkyrie function in Valhöll described
+- `[PD]` *Völsunga saga* (anonymous, c. 13th century) — Brynhildr's history as exiled Valkyrie
 
 ### Secondary sources
 
-- Wikipedia: "Valkyrie" — overview with primary source citations
-- World History Encyclopedia: "Valkyrie"
+- `[CC-BY-SA]` Wikipedia: "Valkyrie" — overview with primary source citations
+- `[PD*]` World History Encyclopedia: "Valkyrie"

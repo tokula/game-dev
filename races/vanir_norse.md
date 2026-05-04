@@ -81,13 +81,13 @@ The second tribe of Norse gods — masters of seiðr magic and the powers of fer
 
 ### Primary sources
 
-- Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Skírnismál*, *Lokasenna*, *Vafþrúðnismál*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*
-- Landnámabók (anonymous, c. 1200)
-- Íslendingabók (Ari Þorgilsson, c. 1125)
-- Gesta Danorum (Saxo Grammaticus, c. 1200)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Skírnismál*, *Lokasenna*, *Vafþrúðnismál*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*
+- `[PD]` Landnámabók (anonymous, c. 1200)
+- `[PD]` Íslendingabók (Ari Þorgilsson, c. 1125)
+- `[PD]` Gesta Danorum (Saxo Grammaticus, c. 1200)
 
 ### Secondary sources
 
-- Vanir — Wikipedia
-- World History Encyclopedia — Freyr, Freyja, Njörðr
+- `[CC-BY-SA]` Vanir — Wikipedia
+- `[PD*]` World History Encyclopedia — Freyr, Freyja, Njörðr

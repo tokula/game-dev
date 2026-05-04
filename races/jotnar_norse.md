@@ -83,11 +83,11 @@ The primal race of Norse cosmology — predating the gods themselves, embodying 
 
 ### Primary sources
 
-- Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Vafþrúðnismál*, *Þrymskviða*, *Hávamál*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Vafþrúðnismál*, *Þrymskviða*, *Hávamál*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
 
 ### Secondary sources
 
-- Jötunn — Wikipedia
-- List of jötnar in Norse mythology — Wikipedia
-- World History Encyclopedia — Norse Giants, Surtr, Ragnarök
+- `[CC-BY-SA]` Jötunn — Wikipedia
+- `[CC-BY-SA]` List of jötnar in Norse mythology — Wikipedia
+- `[PD*]` World History Encyclopedia — Norse Giants, Surtr, Ragnarök

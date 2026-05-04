@@ -84,15 +84,15 @@ The collective of Baltic supernatural witch-beings — inherent seers, shapeshif
 
 ### Primary sources
 
-- Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
-- Lithuanian and Latvian *pasakos / pasakas* (folk tales), oral tradition
-- Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes)
-- Andrejs Pumpurs, *Lāčplēsis* (Latvian folk epic), 1888 — PD
-- 16th–18th century Christian missionary and trial records — use with caution
+- `[PD]` Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
+- `[PD]` Lithuanian and Latvian *pasakos / pasakas* (folk tales), oral tradition
+- `[PD]` Krišjānis Barons, *Latvju dainas*, 1894–1915 (6 volumes)
+- `[PD]` Andrejs Pumpurs, *Lāčplēsis* (Latvian folk epic), 1888 — PD
+- `[PD]` 16th–18th century Christian missionary and trial records — use with caution
 
 ### Secondary sources
 
-- Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
-- Bernd Gliwa, "Witches in Baltic Fairy Tales," *Onomasiology Online* 4, 2003 — freely accessible academic paper
-- Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/
-- True Lithuania: "Lithuanian Mythology and Folklore" — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474
+- `[CC-BY-SA]` Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
+- `[PD*]` Bernd Gliwa, "Witches in Baltic Fairy Tales," *Onomasiology Online* 4, 2003 — freely accessible academic paper
+- `[PD*]` Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/
+- `[PD*]` True Lithuania: "Lithuanian Mythology and Folklore" — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474

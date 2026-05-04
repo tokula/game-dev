@@ -85,12 +85,11 @@ Female woodland and fate spirits of Baltic mythology, ancient beyond reckoning, 
 
 ### Primary sources
 
-- Jonas Basanavičius folk-tale collections (1898–1910, 6 vols.) — ~150 texts mentioning laumės; primary Lithuanian folklore record
-- Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.) — Latvian folk songs referencing Lauma
-- Lithuanian oral tradition — laumių dainos (laumė songs) performed at weddings; pre-Christian origin
+- `[PD]` Jonas Basanavičius folk-tale collections (1898–1910, 6 vols.) — ~150 texts mentioning laumės; primary Lithuanian folklore record
+- `[PD]` Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.) — Latvian folk songs referencing Lauma
+- `[PD]` Lithuanian oral tradition — laumių dainos (laumė songs) performed at weddings; pre-Christian origin
 
 ### Secondary sources
 
-- Wikipedia: "Lauma" — https://en.wikipedia.org/wiki/Lauma
-- Britannica: "Lauma" — https://www.britannica.com/topic/lauma
-- Niina Pekantytär, "Laumes: The Baltic Fairies," *Medium* (2021) — https://littlewomen.medium.com/laumes-the-baltic-fairies-81725871dbca
+- `[CC-BY-SA]` Wikipedia: "Lauma" — https://en.wikipedia.org/wiki/Lauma
+- `[PD*]` Niina Pekantytär, "Laumes: The Baltic Fairies," *Medium* (2021) — https://littlewomen.medium.com/laumes-the-baltic-fairies-81725871dbca

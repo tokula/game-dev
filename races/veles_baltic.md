@@ -79,12 +79,11 @@ The transparent shades of all Lithuanian dead — every person who dies becomes 
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
-- Lithuanian *raudos* (lamentations) and *dainos* (folk songs), oral tradition — compiled 19th century
-- Vėlinės feast ethnographic accounts — 19th-century field records of Lithuanian mortuary customs
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` Lithuanian *raudos* (lamentations) and *dainos* (folk songs), oral tradition — compiled 19th century
+- `[PD]` Vėlinės feast ethnographic accounts — 19th-century field records of Lithuanian mortuary customs
 
 ### Secondary sources
 
-- Gražina Krivickaitė, "Relations Between the Living and the Dead in Lithuanian Folklore," *Lituanus*, vol. 41 no. 2 (1995) — https://old.lituanus.org/1995_2/95_2_03.htm
-- Wikipedia: "Lithuanian mythology" — https://en.wikipedia.org/wiki/Lithuanian_mythology
-- Britannica: "Velnias" — https://www.britannica.com/topic/Velnias
+- `[PD*]` Gražina Krivickaitė, "Relations Between the Living and the Dead in Lithuanian Folklore," *Lituanus*, vol. 41 no. 2 (1995) — https://old.lituanus.org/1995_2/95_2_03.htm
+- `[CC-BY-SA]` Wikipedia: "Lithuanian mythology" — https://en.wikipedia.org/wiki/Lithuanian_mythology

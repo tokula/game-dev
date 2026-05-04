@@ -73,10 +73,10 @@ None attested in primary sources.
 
 ### Primary sources
 
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, ch. 17 (primary description); *Grímnismál* (Álfheimr as Freyr's realm, stanza 5)
-- Poetic Edda (anonymous, c. 10th–13th century) — formulaic "Áss ok Álfar" references across multiple poems
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, ch. 17 (primary description); *Grímnismál* (Álfheimr as Freyr's realm, stanza 5)
+- `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — formulaic "Áss ok Álfar" references across multiple poems
 
 ### Secondary sources
 
-- Dökkálfar and Ljósálfar — Wikipedia
-- World History Encyclopedia — Elves and Dwarves in Norse Mythology
+- `[CC-BY-SA]` Dökkálfar and Ljósálfar — Wikipedia
+- `[PD*]` World History Encyclopedia — Elves and Dwarves in Norse Mythology

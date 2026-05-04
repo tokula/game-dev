@@ -79,12 +79,12 @@ The oldest lineage of Jötnar, born of the primordial ice and rime of Niflheimr 
 
 ### Primary sources
 
-- *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — Ymir's origin; Hrímþursar as his descendants; Niflheimr origin described
-- *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — frost beings at cosmological events
-- *Vafþrúðnismál*, Poetic Edda — ancient Jötunn wisdom; primordial giant lore; Bergelmir attested
-- *Skáldskaparmál*, Prose Edda, Snorri Sturluson (c. 1220) — kennings for frost giants
+- `[PD]` *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — Ymir's origin; Hrímþursar as his descendants; Niflheimr origin described
+- `[PD]` *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — frost beings at cosmological events
+- `[PD]` *Vafþrúðnismál*, Poetic Edda — ancient Jötunn wisdom; primordial giant lore; Bergelmir attested
+- `[PD]` *Skáldskaparmál*, Prose Edda, Snorri Sturluson (c. 1220) — kennings for frost giants
 
 ### Secondary sources
 
-- Pantheon.org: "Hrímþursar"
-- Wikipedia: "Jötunn"; "Ymir"
+- `[PD*]` Pantheon.org: "Hrímþursar"
+- `[CC-BY-SA]` Wikipedia: "Jötunn"; "Ymir"

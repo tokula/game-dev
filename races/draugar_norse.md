@@ -88,14 +88,14 @@ Draugr are depicted as armoured undead Nord warriors inhabiting ancient burial c
 
 ### Primary sources
 
-- *Eyrbyggja saga* (anonymous, c. 13th century) — extended draugr episodes; *haugbúi* distinction
-- *Grettis saga* (anonymous, c. 13th century) — Glámr; most detailed single draugr account
-- *Laxdæla saga* (anonymous, c. 13th century) — Víga-Hrappr; shapeshifting draugr
-- *Hervarar saga ok Heiðreks* (anonymous, c. 13th century) — Hervor's encounter with her undead father Angantýr
-- Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — earlier, rarer poetic usage of *draugr*
+- `[PD]` *Eyrbyggja saga* (anonymous, c. 13th century) — extended draugr episodes; *haugbúi* distinction
+- `[PD]` *Grettis saga* (anonymous, c. 13th century) — Glámr; most detailed single draugr account
+- `[PD]` *Laxdæla saga* (anonymous, c. 13th century) — Víga-Hrappr; shapeshifting draugr
+- `[PD]` *Hervarar saga ok Heiðreks* (anonymous, c. 13th century) — Hervor's encounter with her undead father Angantýr
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — earlier, rarer poetic usage of *draugr*
 
 ### Secondary sources
 
-- Wikipedia: "Draugr"
-- Vikingr.org: "Undead of the Viking Age"
-- The Wicked Griffin: "The Undead Warriors of Norse Mythology: Meet the Draugr"
+- `[CC-BY-SA]` Wikipedia: "Draugr"
+- `[PD*]` Vikingr.org: "Undead of the Viking Age"
+- `[PD*]` The Wicked Griffin: "The Undead Warriors of Norse Mythology: Meet the Draugr"

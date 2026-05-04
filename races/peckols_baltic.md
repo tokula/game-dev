@@ -80,15 +80,15 @@ The Old Prussian lord of the underworld — ruler of hell, darkness, and death �
 
 ### Primary sources
 
-- *Sudovian Book* (Sūduvių knygelė), c. 1520s — compiled by George of Polentz, Erhard of Queis, and Paulus Speratus
-- *Constitutiones Synodales*, 1530
-- 1418 Memorandum to Pope Martin V (*Collato Episcopi Varmiensis*)
-- Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne*, 1690
-- Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested; use with caution; source of the "Patollo" name, which modern scholarship identifies as a pseudomythologeme
-- Konstantinas Sirvydas (Szyrwid), *Dictionarium Trium Linguarum*, 1629 — links Peckols to Lithuanian *Velnias* and Latvian *Pikùlas* as Baltic cognates
+- `[PD]` *Sudovian Book* (Sūduvių knygelė), c. 1520s — compiled by George of Polentz, Erhard of Queis, and Paulus Speratus
+- `[PD]` *Constitutiones Synodales*, 1530
+- `[PD]` 1418 Memorandum to Pope Martin V (*Collato Episcopi Varmiensis*)
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne*, 1690
+- `[PD]` Simon Grunau, *Preussische Chronik*, 1517–1529 — reliability heavily contested; use with caution; source of the "Patollo" name, which modern scholarship identifies as a pseudomythologeme
+- `[PD]` Konstantinas Sirvydas (Szyrwid), *Dictionarium Trium Linguarum*, 1629 — links Peckols to Lithuanian *Velnias* and Latvian *Pikùlas* as Baltic cognates
 
 ### Secondary sources
 
-- Wikipedia: "Peckols" — https://en.wikipedia.org/wiki/Peckols
-- Wikipedia: "Sudovian Book" — https://en.wikipedia.org/wiki/Sudovian_Book
-- Rolandas Kregždys, "Factographic Motifs of the Yatvigian Book: Etymological Analysis and Transformation of the Semantic Value of the Mythonyms Potrimpus, Pilnitis, Parkuns, Peckols and Pockols," *Baltu filoloģija* 28(2), 2019 — freely accessible; the authoritative etymological analysis of Sudovian Book deities
+- `[CC-BY-SA]` Wikipedia: "Peckols" — https://en.wikipedia.org/wiki/Peckols
+- `[CC-BY-SA]` Wikipedia: "Sudovian Book" — https://en.wikipedia.org/wiki/Sudovian_Book
+- `[PD*]` Rolandas Kregždys, "Factographic Motifs of the Yatvigian Book: Etymological Analysis and Transformation of the Semantic Value of the Mythonyms Potrimpus, Pilnitis, Parkuns, Peckols and Pockols," *Baltu filoloģija* 28(2), 2019 — freely accessible; the authoritative etymological analysis of Sudovian Book deities

@@ -27,5 +27,4 @@ Race profile files (under `races/`) tag every source with its licence status. Th
 | `[CC-BY-SA]` | Creative Commons Attribution-ShareAlike |
 | `[SRD]` | D&D 5e Systems Reference Document (CC-BY-4.0) |
 | `[OGL]` | Open Game License |
-| `[BLOCKED]` | Proprietary / copyright — excluded from race files |
 | `[TAG*]` | Best-guess provenance, not formally verified — confirm before commercial use |

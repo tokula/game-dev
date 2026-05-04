@@ -77,9 +77,9 @@ None documented separately from Dvergar.
 
 ### Primary sources
 
-- Prose Edda (Snorri Sturluson, c. 1220) — *Skáldskaparmál* (Svartálfheimr as setting for Mjölnir commission); *Gylfaginning* (realm list)
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Skáldskaparmál* (Svartálfheimr as setting for Mjölnir commission); *Gylfaginning* (realm list)
 
 ### Secondary sources
 
-- Svartálfar — Wikipedia
-- World History Encyclopedia — Elves and Dwarves in Norse Mythology
+- `[CC-BY-SA]` Svartálfar — Wikipedia
+- `[PD*]` World History Encyclopedia — Elves and Dwarves in Norse Mythology

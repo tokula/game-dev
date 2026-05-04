@@ -88,13 +88,13 @@ Source: primary sources and original canon only.
 
 ### Primary sources
 
-- Poetic Edda (anonymous, Codex Regius, c. 10th–13th century, compiled c. 1270 CE) — especially *Völuspá*, *Grímnismál*, *Hávamál*, *Þrymskviða*, *Lokasenna*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* and *Skáldskaparmál*
-- Heimskringla, *Ynglinga Saga* (Snorri Sturluson, c. 1220)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century, compiled c. 1270 CE) — especially *Völuspá*, *Grímnismál*, *Hávamál*, *Þrymskviða*, *Lokasenna*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* and *Skáldskaparmál*
+- `[PD]` Heimskringla, *Ynglinga Saga* (Snorri Sturluson, c. 1220)
 
 ### Secondary sources
 
-- Æsir — Wikipedia
-- Norse Mythology for Smart People — norse-mythology.org
-- World History Encyclopedia — articles on Nine Realms, Ragnarök, elves and dwarves
-- History Cooperative — "The Aesir Gods of Norse Mythology"
+- `[CC-BY-SA]` Æsir — Wikipedia
+- `[PD*]` Norse Mythology for Smart People — norse-mythology.org
+- `[PD*]` World History Encyclopedia — articles on Nine Realms, Ragnarök, elves and dwarves
+- `[PD*]` History Cooperative — "The Aesir Gods of Norse Mythology"

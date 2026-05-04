@@ -81,12 +81,12 @@ The tall, skeletal Lithuanian goddess of death — sister of Laima — who wande
 
 ### Primary sources
 
-- Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (From the Life of Souls and Devils), Chicago, 1903–1904
-- Mikalojus Daukša, *Catechismus*, 1595
-- A. Juška, *Lietuviškos dainos* (Lithuanian Folk Songs), 5 volumes — oral tradition compiled 19th century
+- `[PD]` Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (From the Life of Souls and Devils), Chicago, 1903–1904
+- `[PD]` Mikalojus Daukša, *Catechismus*, 1595
+- `[PD]` A. Juška, *Lietuviškos dainos* (Lithuanian Folk Songs), 5 volumes — oral tradition compiled 19th century
 
 ### Secondary sources
 
-- Wikipedia: "Giltinė" — https://en.wikipedia.org/wiki/Giltin%C4%97
-- Occult World: "Giltinė" — https://occult-world.com/giltine/
-- Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
+- `[CC-BY-SA]` Wikipedia: "Giltinė" — https://en.wikipedia.org/wiki/Giltin%C4%97
+- `[PD*]` Occult World: "Giltinė" — https://occult-world.com/giltine/
+- `[PD*]` Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc

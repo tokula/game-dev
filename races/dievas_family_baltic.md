@@ -80,15 +80,13 @@ The ruling celestial family of Baltic mythology — sky father, sun mother, moon
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582) — earliest substantial written record of Lithuanian gods
-- Matthäus Prätorius, *Deliciae Prussicae* (c. 1690s) — descriptions of Baltic celestial deities
-- Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.) — 217,996 Latvian folk songs; primary record of Latvian divine-family mythology
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; references to Saulė, Mėnulis, Dievo sūneliai
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582) — earliest substantial written record of Lithuanian gods
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae* (c. 1690s) — descriptions of Baltic celestial deities
+- `[PD]` Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.) — 217,996 Latvian folk songs; primary record of Latvian divine-family mythology
+- `[PD]` Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; references to Saulė, Mėnulis, Dievo sūneliai
 
 ### Secondary sources
 
-- Wikipedia: "Dievas" — https://en.wikipedia.org/wiki/Dievas
-- Wikipedia: "Dieva Dēli" — https://en.wikipedia.org/wiki/Dieva_D%C4%93li
-- Wikipedia: "Baltic mythology" — https://en.wikipedia.org/wiki/Baltic_mythology
-- Britannica: "Dievs" — https://www.britannica.com/topic/Dievs
-- Britannica: "Dieva dēli" — https://www.britannica.com/topic/Dieva-deli
+- `[CC-BY-SA]` Wikipedia: "Dievas" — https://en.wikipedia.org/wiki/Dievas
+- `[CC-BY-SA]` Wikipedia: "Dieva Dēli" — https://en.wikipedia.org/wiki/Dieva_D%C4%93li
+- `[CC-BY-SA]` Wikipedia: "Baltic mythology" — https://en.wikipedia.org/wiki/Baltic_mythology

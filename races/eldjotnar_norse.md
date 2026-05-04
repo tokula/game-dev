@@ -81,11 +81,10 @@ Surtr is depicted as a figure of immense power whose union with Sinmara creates 
 
 ### Primary sources
 
-- *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — Múspellsmegir march at Ragnarök; Surtr named
-- *Vafþrúðnismál*, Poetic Edda — Múspell's hosts mentioned in the wisdom contest
-- *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — Muspelheim described; Surtr as guardian; role in creation and Ragnarök
+- `[PD]` *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — Múspellsmegir march at Ragnarök; Surtr named
+- `[PD]` *Vafþrúðnismál*, Poetic Edda — Múspell's hosts mentioned in the wisdom contest
+- `[PD]` *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — Muspelheim described; Surtr as guardian; role in creation and Ragnarök
 
 ### Secondary sources
 
-- Wikipedia: "Muspelheim"; "Surtr"
-- Britannica: "Muspelheim — Fiery Realm, Fire Giants & Demons"
+- `[CC-BY-SA]` Wikipedia: "Muspelheim"; "Surtr"

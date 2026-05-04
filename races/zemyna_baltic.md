@@ -74,13 +74,13 @@ The most ancient and most intimate of Lithuanian deities — the living earth he
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum*, 1582
-- Mikalojus Daukša, *Catechismus*, 1595
-- Daniel Klein, *Grammatica Litvanica*, 1653
-- Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne*, 1690 — documents the *žemyneliauti* ritual
-- Lithuanian *dainos* (folk songs) and agricultural ritual prayers, oral tradition — compiled 19th century
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum*, 1582
+- `[PD]` Mikalojus Daukša, *Catechismus*, 1595
+- `[PD]` Daniel Klein, *Grammatica Litvanica*, 1653
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne*, 1690 — documents the *žemyneliauti* ritual
+- `[PD]` Lithuanian *dainos* (folk songs) and agricultural ritual prayers, oral tradition — compiled 19th century
 
 ### Secondary sources
 
-- Wikipedia: "Žemyna" — https://en.wikipedia.org/wiki/%C5%BDemyna
-- Niina Pekantytär, "Mother Earth in Lithuanian Myths and Legends," *Medium* — https://littlewomen.medium.com/mother-earth-in-lithuanian-myths-and-legends-d604069ea62f
+- `[CC-BY-SA]` Wikipedia: "Žemyna" — https://en.wikipedia.org/wiki/%C5%BDemyna
+- `[PD*]` Niina Pekantytär, "Mother Earth in Lithuanian Myths and Legends," *Medium* — https://littlewomen.medium.com/mother-earth-in-lithuanian-myths-and-legends-d604069ea62f

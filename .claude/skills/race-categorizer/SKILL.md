@@ -53,9 +53,9 @@ Build structured Markdown profiles of mythological and fictional races for game-
 
 5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Prefix each entry with its provenance tag. Sources that fail the IP filter are listed but marked `[BLOCKED]` and excluded automatically — the user cannot unblock them.
 
-   Provenance tags: `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` CC Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` proprietary/copyright — excluded
+   Provenance tags: `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` CC Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License
 
-   Append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD]*` — text appears old, no copyright notice found, but not formally verified). Never omit the tag and never silently assume safety; a flagged guess is always better than false confidence.
+   Append `*` to any tag when provenance is a best-guess rather than confirmed (e.g. `[PD*]` — text appears old, no copyright notice found, but not formally verified). Never omit the tag and never silently assume safety; a flagged guess is always better than false confidence. Proprietary sources (game wikis, paywalled sites) do not appear in this list at all — they are excluded by the IP filter before reaching this step.
 
    ```
    Sources found for Valkyrie (Norse):
@@ -63,9 +63,8 @@ Build structured Markdown profiles of mythological and fictional races for game-
      [2] [PD] Grímnismál, Poetic Edda — lists thirteen named Valkyries
      [3] [PD] Gylfaginning, Prose Edda, Snorri Sturluson (c. 1220) — battlefield role description
      [4] [PD*] World History Encyclopedia: "Valkyrie" — secondary overview, licence not explicitly stated
-     [5] [BLOCKED] God of War Wiki — proprietary IP, excluded by IP filter
 
-   Use all qualifying sources? Or discard any? (enter numbers to discard, or press enter to use all)
+   Use all? Or discard any? (enter numbers to discard, or press enter to use all)
    ```
 
    Only proceed to step 6 once the user has confirmed. Omit discarded sources from all file content.

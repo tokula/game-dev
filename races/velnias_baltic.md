@@ -81,13 +81,12 @@ The one-eyed trickster lord of the Baltic underworld — patron of cattle, magic
 
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
-- Konstanty Szyrwid, *Dictionarium Trium Linguarum* (1629) — equates Velnias with Piktis
-- Lithuanian *dainos* (folk songs) and folk tales, oral tradition — compiled 19th century
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` Konstanty Szyrwid, *Dictionarium Trium Linguarum* (1629) — equates Velnias with Piktis
+- `[PD]` Lithuanian *dainos* (folk songs) and folk tales, oral tradition — compiled 19th century
 
 ### Secondary sources
 
-- Britannica: "Velnias" — https://www.britannica.com/topic/Velnias
-- Wikipedia: "Veles (god)" — https://en.wikipedia.org/wiki/Veles_(god)
-- Marija Gimbutas, examination of Baltic vėlės and Velnias in 19th-century folklore materials (cited in secondary scholarship)
-- Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
+- `[CC-BY-SA]` Wikipedia: "Veles (god)" — https://en.wikipedia.org/wiki/Veles_(god)
+- `[PD*]` Marija Gimbutas, examination of Baltic vėlės and Velnias in 19th-century folklore materials (cited in secondary scholarship)
+- `[PD*]` Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
