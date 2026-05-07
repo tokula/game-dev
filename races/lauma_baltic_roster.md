@@ -1,40 +1,48 @@
-# Lauma — Baltic Roster
+# Laumė / Lauma — Baltic Roster
 
 > See also: [lauma_baltic.md](lauma_baltic.md)
 
 ## Command hierarchy
 
-Laumės operate as a collective of near-equal woodland spirits under the authority of Laima (fate goddess), who directs their fate-weaving activities. No internal hierarchy among individual Laumės is documented in primary sources — they act collectively or independently, not in a ranked structure.
+**Laima** (fate goddess) — sovereign; she decrees the fate of each human; the Laumės execute her decrees by spinning and weaving the cloth of human life at birth and throughout a person's years.
 
-Laima (fate goddess) → Laumės collectively → individual households and fated mortals
+The Laumės themselves have no internal hierarchy — they operate as individuals within their own territorial domains, gathering collectively only at New Moon and Full Moon in meadows and sacred sites. No ranking within the collective is attested in primary sources.
 
-**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely.
+**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
+
+**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or mythological base.
 
 ## Named individuals — Primary sources
 
-No individual Laumės are named in primary sources. They appear exclusively as a collective or as anonymous individuals in tale contexts — "a laumė" or "the laumės." The Basanavičius collections contain approximately 150 texts featuring laumės but do not assign personal names to specific spirits.
+| Name | Source | Rank / role | Notes |
+|------|--------|-------------|-------|
+| Vaiva | Lithuanian dainos; *Latvju dainas* (Krišjānis Barons, 1894–1915) | Individual Laumė; former bride of Perkūnas | After their separation, her colourful sash was cast into the sky and became the rainbow; the Lithuanian rainbow name *Vaivos juosta* preserves her name |
 
 ## Individual distinctions — Primary sources
 
-No named individuals to distinguish from the racial baseline.
+**Vaiva**
+- `[Modifier]` Former union with Perkūnas (thunder god) — unique elevated mythological standing; the broken union with the sky-deity is her defining narrative; the rainbow as a permanent sky-feature is her lasting mark — *origin: Lithuanian and Latvian folk tradition; Latvju dainas (Barons 1894–1915)*
 
 ## Named individuals — Games
 
-*(Section omitted — no qualifying open-licensed entries. Note: Lauma appears as a character in Genshin Impact (miHoYo/HoYoverse) — proprietary IP, excluded per IP filter.)*
+No qualifying open-licensed game entries.
 
 ## Named individuals — Modern literary
 
-*(Section omitted — no notable named individuals in qualifying modern literary sources.)*
+No qualifying entries.
 
 ## Sources
 
 ### Primary sources
 
-- Jonas Basanavičius folk-tale collections (1898–1910, 6 vols.)
-- Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.)
-- Lithuanian oral tradition — laumių dainos
+- `[PD]` Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (6 vols., 1903–1904)
+- `[PD]` Krišjānis Barons (compiler), *Latvju dainas* (6 vols., 1894–1915)
+- `[PD]` Lithuanian dainos (folk songs), oral tradition, compiled 19th century
+- `[PD]` Georg Mancelius, *Lettus* (1638)
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne* (c. 1690s)
 
 ### Secondary sources
 
-- Wikipedia: "Lauma" — https://en.wikipedia.org/wiki/Lauma
-- Britannica: "Lauma" — https://www.britannica.com/topic/lauma
+- `[CC-BY-SA]` Wikipedia: "Lauma" — https://en.wikipedia.org/wiki/Lauma
+- `[CC-BY*]` Sandis Laime, "Latvian Laumas: Reflections on the Witchisation of Tradition," *Tautosakos darbai* 62 (2021) — https://www.journals.vu.lt/td/article/view/26701

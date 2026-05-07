@@ -4,7 +4,7 @@
 
 ## Command hierarchy
 
-The Maro deivės operate as a collective under the authority of Giltinė (death goddess). No internal hierarchy among the Maro deivės themselves is documented — they act as a coordinated collective, not as a ranked group. Giltinė directs their passage; individual Maro deivės carry out the transit. No named superior below Giltinė and above the collective is attested.
+**Giltinė** (death goddess) — sovereign; the Maro deivės function as her plague-executing servants, acting on her authority with no independent mandate. No internal hierarchy within the Maro deivės themselves is attested — they operate as an anonymous plural class, not a ranked corps.
 
 **Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
 
@@ -12,21 +12,29 @@ The Maro deivės operate as a collective under the authority of Giltinė (death 
 
 ## Named individuals — Primary sources
 
-No individual Maro deivė is named in primary Lithuanian sources. They are attested exclusively as a collective — an anonymous group of plague-spreading agents. The following represents the full extent of named evidence.
+No named individual Maro deivė is attested in any primary source examined. The tradition consistently presents them as an anonymous plural class. The plague maiden of the Mickiewicz (1828) and Siemieński (1845) ballad variant is not given a personal name.
 
-| Name | Source | Rank / role | Notes |
-|------|--------|-------------|-------|
-| Maro deivės (collective) | Lithuanian *dainos*, oral tradition | Plague goddesses, death agents | No individual names recorded; treated as an undifferentiated collective in all attested sources |
+## Named individuals — Games
+
+No qualifying open-licensed game entries.
+
+## Named individuals — Modern literary
+
+No qualifying entries.
 
 ## Sources
 
 ### Primary sources
 
-- Jonas Basanavičius folklore collections, late 19th–early 20th century — accessible at Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
-- Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century
+- `[PD]` Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (6 vols., 1903–1904)
+- `[PD]` Lithuanian dainos (folk songs), oral tradition, compiled 19th century
+- `[PD]` Adam Mickiewicz, *Konrad Wallenrod* (1828, notes)
+- `[PD]` Lucjan Siemieński, *Podania i legendy polskie, ruskie i litewskie* (1845)
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne* (c. 1690s)
 
 ### Secondary sources
 
-- Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, 1992 — freely accessible on Internet Archive: https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
-- Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
+- `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- `[CC-BY]` Asta Skujytė-Razmienė, "Origins of Plague and Cholera according to the Lithuanian Folklore," *Tautosakos darbai* 52 (2016) — https://doi.org/10.51554/TD.2016.28871
+- `[PD]` Jacob Grimm, *Teutonic Mythology*, vol. 3, trans. James Steven Stallybrass (1883)

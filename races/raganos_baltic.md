@@ -10,6 +10,8 @@
 
 **Biological Form:** Spirit
 
+**Entity type:** Race/Species
+
 **Gender(s):** Female (primary attestation); male practitioners (*raganius / ragainis*) exist in folk sources but are consistently secondary figures without the full power-range of the female type
 
 ## One-line lore summary
@@ -54,7 +56,7 @@ The collective of Baltic supernatural witch-beings — inherent seers, shapeshif
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Ragana (goddess) ([ragana_baltic.md](ragana_baltic.md)) | Superior | The goddess Ragana is patron and sovereign; raganos gather under her at Winter Solstice; she is the archetype they embody at reduced scale | Lithuanian/Latvian folk tradition |
+| Ragana (goddess) ([deities/ragana_baltic.md](../deities/ragana_baltic.md)) | Superior | The goddess Ragana is patron and sovereign; raganos gather under her at Winter Solstice; she is the archetype they embody at reduced scale | Lithuanian/Latvian folk tradition |
 | Lauma / Laumė ([lauma_baltic.md](lauma_baltic.md)) | Ally | The two types are frequently confused or conflated in 18th-century and later sources; overlapping female supernatural domains (fate, birth, death, magic) suggest ancient coexistence or alliance | *Dainos*; Britannica "Lauma" |
 | Velnias ([velnias_baltic.md](velnias_baltic.md)) | Ally | Both govern death-adjacent domains; raganos guide the dying and the dead as psychopomps; Velnias rules the realm that receives them; parallel rather than hierarchical relationship | Lithuanian folk tradition |
 | Perkūnas (thunder god) | Enemy | Represents the Indo-European sky-deity layer that excluded and opposed the pre-Indo-European witch-figure tradition; structurally hostile | Lithuanian folk tradition |
@@ -78,7 +80,7 @@ The collective of Baltic supernatural witch-beings — inherent seers, shapeshif
 
 ---
 
-> **Note on sources:** The line between raganos (the supernatural witch-type) and mortal women who practice magic (*raganos* in the common-noun sense) is blurred in virtually all primary sources. Folk belief holds that true raganos are an inherent supernatural category distinct from mortal practitioners, but trial records treat all accused women as the same type. This profile follows the supernatural-type interpretation supported by the pre-Christianization folk material. The animal-form vulnerability motif is the single most consistent trait across all regional variants and is the most reliable element for game design purposes. Bernd Gliwa's etymological analysis ("Witches in Baltic Fairy Tales," *Onomasiology Online* 4, 2003 — freely accessible) distinguishes raganos from other Baltic witch-types (lauma, šėsula, spigana) and confirms the *regėti*-root etymology as most linguistically supported.
+> **Note on sources:** The line between raganos (the supernatural witch-type) and mortal women who practice magic (*raganos* in the common-noun sense) is blurred in virtually all primary sources. Folk belief holds that true raganos are an inherent supernatural category distinct from mortal practitioners, but trial records treat all accused women as the same type. This profile follows the supernatural-type interpretation supported by the pre-Christianization folk material. The animal-form vulnerability motif is the single most consistent trait across all regional variants and is the most reliable element for game design purposes. The *regėti* ("to see, foresee") root etymology is the most widely attested for the name; see Wiktionary: "ragana" [CC-BY-SA].
 
 ## Sources
 
@@ -92,7 +94,5 @@ The collective of Baltic supernatural witch-beings — inherent seers, shapeshif
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
-- `[PD*]` Bernd Gliwa, "Witches in Baltic Fairy Tales," *Onomasiology Online* 4, 2003 — freely accessible academic paper
-- `[PD*]` Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/
-- `[PD*]` True Lithuania: "Lithuanian Mythology and Folklore" — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474
+- `[CC-BY-SA]` Wikipedia: "Baltic mythology" (Ragana covered therein) — https://en.wikipedia.org/wiki/Baltic_mythology
+- `[CC-BY-SA]` Wiktionary: "ragana" (etymology) — https://en.wiktionary.org/wiki/ragana

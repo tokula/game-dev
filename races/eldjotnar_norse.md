@@ -1,90 +1,89 @@
-# Eldjötnar
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
 
 > See also: [eldjotnar_norse_roster.md](eldjotnar_norse_roster.md)
 
-**Native name / Etymology:** Eldjötnar (Old Norse: "fire-giants/fire-jötnar" — from *eldr* "fire" + *jötnar* plural of *jötunn*); also called Múspellsmegir or Múspellssynir ("sons/children of Muspell") and Rjúfendr ("destroyers / tearers-asunder") in some Eddic kennings. The term *Múspells lýðr* ("people of Muspell") also appears.
+# Eldjötnar
+
+**Native name / Etymology:** Eldjötnar (Old Norse: "fire giants"; *eldr* "fire" + *jötnar* "giants". Also called *Múspellsmegir*, "sons of Múspell", in the Poetic Edda.)
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220)
+**Primary origin:** Norse mythology — Poetic Edda (Völuspá, c. 10th century) and Prose Edda (Gylfaginning, Snorri Sturluson, c. 1220)
 
-**Biological Form:** Elemental
+**Biological Form:** Giantkin
 
-**Gender(s):** Male — all individually named fire giants in primary sources are male; Sinmara (attested in *Fjölsvinnsmál*) is female but her relationship to the broader Eldjötnar as a race is not described
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Warrior culture
+**Gender(s):** Male and Female (Surtr and Sinmara attested; Logi and Glöð attested as a fire-jötunn couple)
 
 ## One-line lore summary
 
-Primordial fire-embodied beings native to Muspellsheimr, present since before the creation of the ordered world and fated to march at Ragnarök to burn the Nine Realms to ash.
+Primordial fire giants who dwell in Múspellsheim and are fated to pour forth under Surtr's command at Ragnarök to burn the world.
 
 ## Specializations
 
-- `[signature]` **Elemental fire identity** — Eldjötnar do not wield fire as a weapon; they are fire in the cosmological sense. Surtr's sword is brighter than the sun; at Ragnarök his fires engulf all Nine Realms. This is not combat magic but the cosmological function of primordial heat — the destructive counterpart to the ice of Niflheimr that shaped creation.
+- `[signature]` Pyrogenesis — Eldjötnar radiate and channel intense fire as a natural property of their bodies; Surtr's sword shines brighter than the sun (*Gylfaginning*). No amount of training in another race could replicate this innate combustive power.
 
 ## Strengths
 
-- Physical power sufficient to overpower individual Æsir in direct combat (Surtr slays Freyr at Ragnarök)
-- Immunity to fire and extreme heat
-- Surtr is described as having guarded Muspellsheimr since before the world was made — implying an endurance that predates the current age
+- Immunity to heat and flame — bodies are sustained by fire, not harmed by it
+- Physical might commensurate with their giant stature
+- Military discipline — at Ragnarök they march as an organised, unified force under a single commander (*Gylfaginning*)
 
 ## Characteristics
 
-- Native to Muspellsheimr and do not travel to other realms until Ragnarök
-- Elemental counterpart to the Hrímþursar: where Hrímþursar embody primordial cold, Eldjötnar embody primordial heat — their interaction at the beginning shaped creation
-- Subtype of Jötnar; share the broader Jötunn cosmological role of entropy and opposition to the ordered world, but distinguished by fire-elemental identity
-- Only sparsely attested individually — Surtr dominates the record; other fire giants are unnamed in primary sources
+- Realm-bound to Múspellsheim, one of the two primordial worlds that preceded creation; they are its native inhabitants
+- *Múspellsmegir* ("sons of Múspell") is an alternate collective name used in Völuspá for the same beings
+- No attested peacetime activity; primary sources depict them solely in the context of Ragnarök
 
 ## Faults / Weaknesses
 
-- Fated outcomes at Ragnarök: even Surtr, who achieves total destruction of the worlds, does not survive
-- No specific vulnerabilities documented beyond the general Jötnar susceptibility to divine opposition
+- Dormant across the current age — no Eldjötnar are recorded entering other realms before Ragnarök; their role and mobility are effectively suspended until the appointed time
 
 ## Modifiers
 
-*None attested specific to the Eldjötnar as a race.*
+- Bound to Ragnarök's timing — *cosmic compulsion encoded in the structure of the Nine Realms; the fire giants wait in Múspellsheim until Ragnarök summons them forth (Gylfaginning)*
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Æsir | Enemy | March against the gods at Ragnarök; Surtr slays Freyr and his fires end the age | *Völuspá*; *Gylfaginning*, Prose Edda |
-| Jötnar (Hrímþursar) | Ally | Frost and fire Jötnar converge at Ragnarök to assault Ásgarðr alongside Loki; no systematic prior alliance is documented | *Völuspá* |
+| Æsir | Enemy | Surtr slays Freyr at Ragnarök; the march of the Eldjötnar breaks the Bifröst | Völuspá; Gylfaginning |
+| Vanir | Enemy | Freyr (Vanir) is slain by Surtr | Völuspá |
 
 ## Ecology
 
-**Prey:** N/A — primordial elemental beings; no food chain or predatory behaviour documented in primary sources
+**Prey:** N/A — primordial elemental beings; no food chain documented in primary sources
 
-**Predators:** N/A — no natural predators documented; Freyr alone among the gods is fated to fall to Surtr, not the reverse
+**Predators:** None attested
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Norse oral tradition, pre-Christian Scandinavia — unambiguously public domain
-- *Key source texts:* Poetic Edda, anonymous, c. 10th–13th century — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD
-- *Protected derivatives:* God of War series (Santa Monica Studio / Sony Interactive Entertainment, 2018+) — copyright and TM protected
+- *Source tradition:* Norse oral tradition, unambiguously PD
+- *Key source text(s):* Völuspá, Poetic Edda, anonymous, c. 10th century — PD; Gylfaginning, Prose Edda, Snorri Sturluson, c. 1220 — PD
+- *Protected derivatives:* None identified specifically for "Eldjötnar"
 
-**Notable trademarks to avoid:** "Surtr" as a character name is used across many games; no single entity holds exclusive rights to the mythological name, but individual depictions are protected. "Eldjötnar" has no known independent trademark.
+**Notable trademarks to avoid:** None known for the term "Eldjötnar" or "Eldjotnar"
 
-> **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
-
-## Game depictions (variants from the source mythology)
-
-### God of War (2018–2022)
-Surtr is depicted as a figure of immense power whose union with Sinmara creates a world-ending explosion. The cosmological destruction role is retained but the narrative framing is substantially altered from primary sources.
+> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
 ---
 
-> **Note on sources:** The word *Muspelheim* is recorded only in Snorri Sturluson's Prose Edda and cannot be taken at face value as representing unambiguously pre-Christian Norse tradition. However, cognates of *Múspell* appear in Old High German and Old Saxon texts, indicating the concept likely has Proto-Germanic roots. The Eldjötnar themselves are more consistently attested across both the Poetic Edda and Snorri's work.
+> **Note on sources:** Primary sources use two terms for the same beings: *Eldjötnar* ("fire giants") appears in Gylfaginning prose, while Völuspá calls them *Múspellsmegir* ("sons of Múspell"). Scholars treat these as synonymous. Logi (son of Fornjótr) is fire-elemental and appears in Gylfaginning, but his genealogical line via Fornjótr differs from the Múspellsheim Eldjötnar; his exact classification is debated — he is listed in the roster as an associated figure with a note. Sinmara appears only in Fjölsvinnsmál (a late Eddic poem not included in the core Codex Regius); her relationship to Surtr and her identity are contested in scholarship.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- `[PD]` *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — Múspellsmegir march at Ragnarök; Surtr named
-- `[PD]` *Vafþrúðnismál*, Poetic Edda — Múspell's hosts mentioned in the wisdom contest
-- `[PD]` *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220) — Muspelheim described; Surtr as guardian; role in creation and Ragnarök
+- `[PD]` Völuspá, Poetic Edda, anonymous, c. 10th century — describes "sons of Muspell" and Surtr's march at Ragnarök
+- `[PD]` Gylfaginning, Prose Edda, Snorri Sturluson, c. 1220 — Múspellsheim as homeland, Surtr as ruler, fire giants in creation and Ragnarök
+- `[PD]` Fjölsvinnsmál, late Eddic poem, anonymous — sole attestation of Sinmara; contested identity and relationship to Surtr
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Wikipedia: "Muspelheim"; "Surtr"
+- `[CC-BY-SA]` Wikipedia — Surtr, Muspelheim, Jötunn, Logi articles, https://en.wikipedia.org/wiki/Norse_mythology

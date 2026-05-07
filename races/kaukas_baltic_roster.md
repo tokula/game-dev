@@ -28,13 +28,14 @@ No named individuals to distinguish from the racial baseline.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
-- 16th–17th century Christian missionary accounts of Lithuanian folk belief
-- Lithuanian folk belief texts, compiled 19th century
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` 16th–17th century Christian missionary accounts of Lithuanian folk belief
+- `[PD]` Lithuanian folk belief texts, compiled 19th century
 
 ### Secondary sources
 
-- Pantheon.org: "Kaukas" — https://pantheon.org/articles/k/kaukas.html
-- Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
+- `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures

@@ -10,6 +10,8 @@
 
 **Biological Form:** Spirit
 
+**Entity type:** Race/Species
+
 **Gender(s):** Male and Female — males more common in primary accounts; both attested
 
 ## One-line lore summary
@@ -85,5 +87,3 @@ Tiny Lithuanian household spirits of fertility and wealth who dwell in the homes
 ### Secondary sources
 
 - `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- `[PD*]` Pantheon.org: "Kaukas" — https://pantheon.org/articles/k/kaukas.html
-- `[PD*]` "Lithuanian mythology and folklore," truelithuania.com — https://www.truelithuania.com/lithuanian-mythology-and-folklore-3474

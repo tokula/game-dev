@@ -1,89 +1,99 @@
-# Landvættir
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
 
 > See also: [landvaettir_norse_roster.md](landvaettir_norse_roster.md)
 
-**Native name / Etymology:** Landvættir (Old Norse: *land* "land, country, territory" + *vættir* "spirits, wights, supernatural beings"; singular *landvættr*; meaning "Land Spirits" or "Land Wights." The term *vættr* is cognate with Old English *wiht* "creature, being" and modern English "wight.")
+# Landvættir
+
+**Native name / Etymology:** Landvættir (Old Norse: "land-wights" or "land-spirits"; *land* "land" + *vættr* "wight, spirit, being", plural *vættir*. *Vættr* derives from Proto-Germanic *wihtiz*, cognate with Old English *wiht*. Singular: *landvættr*.)
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology and Icelandic practice — Landnámabók (anonymous, c. 1200); Heimskringla, Snorri Sturluson (c. 1220), *Óláfs saga Tryggvasonar*
+**Primary origin:** Norse mythology and Icelandic settlement-era practice — Landnámabók (c. 1200), Heimskringla / Óláfs saga Tryggvasonar (Snorri Sturluson, c. 1230), Egils saga (c. 13th century), Eyrbyggja saga (c. 13th century), Grágás (Icelandic law code, c. 12th–13th century)
 
-**Biological Form:** Spirit (shapeshifting; predominantly animal forms in primary source descriptions)
+**Biological Form:** Spirit
 
-**Gender(s):** Sexless / N/A — Landvættir do not appear with consistent biological sex in primary sources. The four Iceland guardian spirits take animal and giant forms without gendered attribution.
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Divine servants (as spirits of the natural order)
+**Gender(s):** Male and Female (the four Icelandic guardians are depicted in forms coded masculine in medieval sources; lesser landvættir are attested in both forms across saga accounts)
+
+**Common archetype/role in fiction:** Divine servants
 
 ## One-line lore summary
 
-Territorial spirit beings bound to specific landscapes — guardians of the land that they embody — whose wellbeing is inseparable from the fertility of the places they inhabit, and who fiercely repel any force that desecrates their territory.
+Territorial nature spirits bound to specific landscapes who protect the land and those who settle it through an ongoing covenant of ritual respect and offering.
 
 ## Specializations
 
-- `[signature]` **Territorial embodiment** — A Landvættr does not merely inhabit a territory; it *is* the living spiritual essence of that place. Its wellbeing directly governs the land's agricultural fertility, the safety of those living there, and the fortunes of arriving settlers. This is not metaphor but cosmological fact in the Norse framework.
-- `[major]` **Shapeshifting deterrence** — The four Iceland guardians in Heimskringla manifest as a massive dragon surrounded by serpents and lizards, a great eagle flanked by smaller birds, a bull followed by a herd of beasts, and a mountain giant carrying an iron staff — forms capable of turning back an entire raiding fleet through sheer intimidation.
+- `[signature]` Territory Guardianship — capable of repelling invasion at national scale; the four Icelandic landvættir manifested to block Harald Bluetooth's magical reconnaissance and turn back any planned assault (*Óláfs saga Tryggvasonar*, Heimskringla)
+- `[major]` Grand Manifestation — can materialise as enormous creatures dwarfing natural animals (dragon, eagle, bull, giant) each accompanied by a host of lesser spirits of its kind (*Óláfs saga Tryggvasonar*)
+- `[minor]` Curse-compellability — powerful practitioners can direct landvættir's attention via a níðstöng (curse pole), compelling them to drive enemies from a land (*Egils saga*)
 
 ## Strengths
 
-- Can manifest in forms of overwhelming scale and power
-- Not bound to a single form; manifestation adapts to context and purpose
-- Deep knowledge of their territory's geography, creatures, and spiritual condition
-- When properly propitiated, can provide exceptional agricultural fertility and long-term protection for communities
+- Shapeshifting into powerful animal, humanoid, or elemental forms
+- Command over lesser vættir within their territory
+- Perceptive of threats, violations of sacred space, and approaching hostile forces
 
 ## Characteristics
 
-- Each Landvættr is bound to and inseparable from a specific geographical location; they cannot be transferred or relocated
-- Independent of the divine hierarchy — not subjects of the Æsir, Vanir, Jötnar, or any other major faction
-- Responsive to human behaviour: honour and offerings build a cooperative relationship; desecration and aggression provoke fierce territorial defence
-- Can be actively driven away by hostile magic (attested in Heimskringla: a sorcerer sent by Harald Bluetooth scouts Iceland in whale-form and encounters all four guardians before being driven off)
-- Exist across all inhabited and wild lands; the Iceland account is detailed but the principle is cosmologically universal
+- Place-bound — each landvættr is tied to a specific geographic feature (mountain, fell, river, grove, stone, or region); their identity and power derive from their land
+- Reciprocity-dependent — willingness to protect requires ongoing ritual respect: regular offerings, blót sacrifice, and avoidance of defilement (*Landnámabók*; *Grágás*)
+- Hierarchical within territory — the four great Icelandic guardians each lead a retinue of lesser spirits of their form (*Heimskringla*)
+- Subcategory of the broader *vættr* class, which includes fjallvættir (mountain spirits), sjóvættir (sea spirits), skógvættir (forest spirits), and húsvættir (house spirits)
+- Attested most thoroughly in Icelandic and Norwegian contexts; related spirit traditions (tomte/nisse, huldra) suggest a broader pan-Scandinavian distribution in lived practice
 
 ## Faults / Weaknesses
 
-- Bound to their territory — a Landvættr's power is geographically limited and cannot pursue threats beyond its domain
-- Vulnerable to hostile magic specifically directed at driving them away
-- Can be turned against the communities they protect through disrespectful human behaviour, resulting in crop failure and misfortune
+- Cannot act beyond their bound territory — a landvættr of one region cannot protect another
+- Highly sensitive to defilement: offended by human waste near sacred sites, by dragon-prow imagery on approaching ships (*Grágás*), and by violations of ritual respect — withdraw protection when insulted (*Landnámabók*)
+- Compellable by skilled magic practitioners via níðstöng workings (*Egils saga*)
 
 ## Modifiers
 
-None documented in primary sources.
+- Protective function contingent on human reciprocity — *animistic covenant between land and settler: codified in Grágás (dragon prow law) and illustrated throughout Landnámabók settlement accounts*
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Humans (Midgard) | Ally / Charge | Settlers who propitiate the Landvættir through offerings and respectful conduct gain their protection and the land's fertility. The relationship is conditional on respect and honour. | Landnámabók; Heimskringla |
-| Foreign invaders | Enemy | Any force attempting to invade or desecrate a protected territory is opposed by the Landvættir in their full guardian manifestation. | Heimskringla (*Óláfs saga Tryggvasonar*) |
+| Respectful settlers | Charge | Landvættir actively protect those who honour them with offerings and ritual | Landnámabók |
+| Disrespectful settlers | Enemy | Withdraw protection; land becomes unsafe for habitation | Landnámabók |
 
 ## Ecology
 
-**Prey:** N/A — spirit beings; Landvættir do not hunt or consume food in the conventional biological sense.
+**Prey:** N/A — spirit beings; no food chain documented in primary sources
 
-**Predators:** N/A — spirit beings; they can be driven away by hostile magic but have no natural predator in the ecological sense.
+**Predators:** No biological predators; threatened by ritual defilement, disrespect, and magical compulsion
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Norse oral and literary tradition, pre-Christian Scandinavia and Iceland — unambiguously public domain
-- *Key source texts:* Landnámabók, anonymous, c. 1200 — PD; Heimskringla (*Óláfs saga Tryggvasonar*), Snorri Sturluson, c. 1220 — PD
-- *Protected derivatives:* None from the primary mythological tradition. The four Iceland guardians depicted on Iceland's current coat of arms and coinage are government symbols — not for commercial reproduction without authorisation from the Icelandic state.
+- *Source tradition:* Norse oral and legal tradition, unambiguously PD
+- *Key source text(s):* Landnámabók, anonymous, c. 1200 — PD; Heimskringla, Snorri Sturluson, c. 1230 — PD; Egils saga, anonymous, c. 13th century — PD; Grágás, various compilers, c. 12th–13th century — PD
+- *Protected derivatives:* The four landvættir appear on Iceland's coat of arms (state heraldry, public domain) and on Icelandic króna coins; neither creates a trademark barrier to game use of the mythological concept
 
-**Notable trademarks to avoid:** No active trademarks on "Landvættir" or "Land Wights" as general terms known to exist.
+**Notable trademarks to avoid:** None known for the term "Landvættir" or "Landvaettir"
 
-> **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
+> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
 ---
 
-> **Note on sources:** The Landvættir are described in detail in the Heimskringla account of Harald Bluetooth's attempted scouting of Iceland (*Óláfs saga Tryggvasonar*), where the four guardian spirits of Iceland's cardinal points are encountered and described. Landnámabók documents settler practices around propitiating land spirits during the colonisation of Iceland (c. 870 CE). Beyond these accounts, Landvættir are referenced broadly across Icelandic legal and saga literature as cosmological background — spirits that every farmer and settler was expected to respect — without further individual documentation. The four Iceland guardians remain a living cultural symbol: they appear on Iceland's national coat of arms and have been adopted as emblems of Icelandic national sports teams.
+> **Note on sources:** Medieval sources rarely give individual landvættir personal names; identity is typically tied to place (e.g., "the spirit of Helgafell") rather than to a personal name. The four Icelandic guardians are described by form and region in Heimskringla; the names Dreki, Gammur, Griðungur, and Bergrisi appear to be modern Icelandic identifications associated with the coat of arms rather than medieval attestations — they are treated as conventional labels in this file. Some sagas conflate landvættir with álfar (elves); scholars generally treat these as distinct but overlapping categories in the medieval sources.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- `[PD]` Landnámabók (anonymous, c. 1200)
-- `[PD]` Heimskringla (Snorri Sturluson, c. 1220) — *Óláfs saga Tryggvasonar*
+- `[PD]` Landnámabók, anonymous, c. 1200 — settlement-era ritual interactions with land spirits; Ingólf Arnarson's blót practice vs. Hjörleif's neglect
+- `[PD]` Heimskringla (incl. Óláfs saga Tryggvasonar), Snorri Sturluson, c. 1230 — four guardian spirits repelling Harald Bluetooth's magical reconnaissance of Iceland
+- `[PD]` Egils saga, anonymous, c. 13th century — níðstöng curse pole directs landvættir to drive out Eirik Bloodaxe and Gunnhild
+- `[PD]` Eyrbyggja saga, anonymous, c. 13th century — defilement norms; Þórólfr Mostrarskegg designates Dritsker to protect Helgafell from defilement
+- `[PD]` Grágás, various compilers, c. 12th–13th century — Icelandic law code mandating removal of dragon-prow figureheads before entering Icelandic harbours to avoid offending landvættir
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Landvættir — Wikipedia
-- `[PD*]` World History Encyclopedia — Norse land spirits
+- `[CC-BY-SA]` Wikipedia — Landvættir, Vættir articles, https://en.wikipedia.org/wiki/Landv%C3%A6ttir

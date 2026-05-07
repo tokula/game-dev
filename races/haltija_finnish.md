@@ -1,95 +1,93 @@
-# Haltija
-
 > See also: [haltija_finnish_roster.md](haltija_finnish_roster.md)
 
-**Native name / Etymology:** Haltija (Finnish: "holder," "possessor," "guardian" — from the verb *haltia* "to hold/possess/rule," related to *hallita* "to govern"; also the modern Finnish word for "holder" or "owner")
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
+# Haltija
+
+**Native name / Etymology:** *Haltija* (Finnish) — from Proto-Scandinavian *haldijaz* "holder, ruler", borrowed into Proto-Finnic during the Iron Age; related to Finnish *hallita* "to rule, to govern". Plural: *haltijat*. The word denotes one who holds authority over a domain.
 
 **Source Layer:** Finnish
 
-**Primary origin:** Finnish folk religion and mythology — Kalevala (Elias Lönnrot, 1849), Mythologia Fennica (Christfrid Ganander, 1789), and Kalevala-metre folk poetry (Suomen kansan vanhat runot, 1908–1948)
+**Primary origin:** Finnish folk religion and oral tradition — extensively attested in the Kalevala (Lönnrot, 1849), Mythologia Fennica (Ganander, 1789), and regional folk poetry in Suomen kansan vanhat runot (Finnish Literature Society, 1908–1948).
 
 **Biological Form:** Spirit
 
-**Gender(s):** Male and Female — both gendered and effectively genderless examples occur; specific subtypes (e.g. Metsänhaltija) manifest in male and female forms; household haltija are often described without clear gender in folk tradition
+**Entity type:** Race/Species
+
+**Gender(s):** Male and Female; female haltijat (especially forest and water types) are documented as holding greater religious and practical importance than their male counterparts in primary sources — Mielikki, for instance, was prayed to far more frequently than Tapio.
 
 **Common archetype/role in fiction:** Divine servants
 
 ## One-line lore summary
 
-Guardian spirits of Finnish folk religion, each bound to a specific domain — house, forest, water, animal, or person — whose benevolence depends entirely on the respect and offerings they receive from those sharing their territory.
+Guardian spirits of Finnish folk religion bound to specific places, objects, or people, who grant fortune and protection to those who honor them and visit misfortune on those who neglect them.
 
 ## Specializations
 
-- `[major]` **Domain embodiment** — a haltija can assume the likeness, mannerisms, or voice of the person, animal, or place it guards; this mimicry is tied to its identity as that domain's spirit, not a learned ability
-- `[minor]` **Etiäinen projection** — the precursor-spirit subtype (*etiäinen*) manifests ahead of its human counterpart, perceived as sound, shadow, or presence before the person physically arrives; no training in any other race could produce a genuine *etiäinen*
-- `[minor]` **Aarni flame** — the treasure-guardian subtype (*aarni*) appears as a blue flame or will-o'-wisp hovering above buried objects; this luminescence is intrinsic and untrainable
+- `[signature]` **Domain-bonding** — each haltija is ontologically bound to and governs a specific place (household, sauna, mill, forest, body of water), object, or individual person; this bond is constitutive of what the haltija is, not replicable by training or ritual in another race.
+- `[major]` **Fortune and misfortune control** — can grant or withhold hunting success, household wellbeing, health, and general luck within their domain; neglect triggers reliably negative outcomes up to and including death.
+- `[minor]` **Selective visibility / shape-shifting** — ordinarily invisible to humans; can reveal themselves in various forms (human, animal, or domain-specific appearance) at will.
 
 ## Strengths
 
-- Natural attunement to the health, luck, and fortune of whatever falls within their domain
-- Able to communicate omens and warnings to perceptive humans
-- Exceptionally observant within their territory
+- Healing ability: forest- and hunt-class haltijat actively treat injured animals — healing wounds, rescuing fallen chicks, treating mating injuries in game birds.
+- Environmental perception — acute, constant awareness of all behavior occurring within their domain.
 
 ## Characteristics
 
-- Each haltija is bound to a single specific domain: a household, a forest stretch, a water body, a particular animal herd, or an individual person
-- Typically invisible to humans; can make themselves visible by choice
-- Long-lived, with existence tied to the persistence of their domain — they do not wander
-- Exist on a continuum from minor household spirit to near-divine nature deity; Tapio and Mielikki represent the upper apex of the forest-haltija hierarchy
-- Subtypes include: *kotihaltija* (house spirit), *metsänhaltija* (forest guardian), *saunahaltija* (sauna spirit), *vedenhaltija* (water guardian), *maan haltija* (land/field spirit), *etiäinen* (precursor double), and *aarni* (treasure guardian)
+- Internally diverse: subtypes include *kotihaltija* (household), *saunatonttu* (sauna), *myllytonttu* (mill), *maanhaltija* (homestead land), *metsänhaltija* (forest), *vedenhaltija* (water), and *metsänneitsyt* (forest maiden); each governs the wellbeing of its specific domain.
+- Reciprocal economy with humans: offerings of special beer, rye cakes, water, bread, money, and charcoal earn protection and fortune; neglect and disrespect earn capricious mischief or active harm.
+- Hierarchical family structures are attested among forest haltijat: Tapio (king of forests) and Mielikki (mistress of forests) head the Tapiola realm, with offspring Tellervo, Tuulikki, and Nyyrikki beneath them.
+- Worshipped at specific sites — *tapionpöytä* (Tapio's table), a formation of spruce trees where hunters knelt, lay prone, and made offerings before hunts.
 
 ## Faults / Weaknesses
 
-- Bound to their domain — destruction of the guarded place, death of the guarded person or animal, or prolonged abandonment of a homestead weakens or extinguishes the haltija
-- Easily offended by neglect or disrespect; an offended haltija withdraws protection and causes misfortune, illness, or active harm to the household
-- Require regular propitiation through offerings (milk, bread, salt, first portions of food, tobacco); failure to observe these rites reliably triggers hostility
+- Dependent on human acknowledgment for vitality: haltijat who are forgotten, no longer honored, or abandoned in a vacated dwelling weaken over time.
+- Capricious: the same haltija can shift from protective to harmful in response to perceived disrespect — there is no neutral state once offended.
+
+## Modifiers
+
+- **Reciprocity compulsion** — bound to respond to proper offerings and respectful conduct with favor, and to neglect or transgression with punishment; this behavioral pattern is consistent and predictable across primary sources. — *Finnish folk belief tradition, attested throughout the Kalevala and Suomen kansan vanhat runot*
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Tapio (forest deity) | Superior | Forest-domain haltija fall under Tapio's authority in the forest spirit hierarchy | *Kalevala*; *Mythologia Fennica* |
-| Mielikki (forest goddess) | Superior | Lady of the forest, consort of Tapio; presides over forest creatures and their guardian spirits | *Kalevala* |
-| Ukko (sky god) | Superior | Chief deity of Finnish folk religion; haltija spirits operate within his cosmic order | Finnish folk tradition |
-| Humans | Charge | Households and individuals under a haltija's protection are its charges; relationship reverses to Rival or Enemy upon disrespect | Widespread folk tradition |
+| Humans | Charge | Haltijat protect and govern the wellbeing of households, hunting parties, and individuals within their domain; the relationship is reciprocal and conditional on proper conduct | Kalevala; *Mythologia Fennica*; *Suomen kansan vanhat runot* |
+
+> **Note:** Relationships between haltijat and other Finnish spirit categories (maahiset, vedenväki, etc.) are not well-attested in the available open primary sources. The internal hierarchy of forest haltijat (Tapio, Mielikki, and offspring) is documented in the companion roster.
 
 ## Ecology
 
-**Prey:** N/A — spirit beings; sustain themselves through ritual offerings (milk, bread, salt, first portions of food, tobacco) left by humans
+**Prey:** N/A — spirit beings; receive ritual offerings (special beer, rye cakes, water, bread, money, charcoal) from human charges as spiritual sustenance; no physical prey consumption documented.
 
-**Predators:** N/A — spirit beings; their principal threat is neglect and the destruction or abandonment of their domain
+**Predators:** No natural predators documented in primary sources. Haltijat can be weakened by neglect, abandonment, and the cessation of offerings — a form of attrition rather than predation.
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Finnish and Baltic-Finnic oral/folk tradition — unambiguously public domain
-- *Key source text(s):* Kalevala, Elias Lönnrot, 1835/1849 — PD; Mythologia Fennica, Christfrid Ganander, 1789 — PD; Suomen kansan vanhat runot, Finnish Literature Society, 1908–1948 — PD
-- *Protected derivatives:* UnReal World (Enormous Elk, 1992–present) — copyright protected; Please the Gods (Steam, 2019) — copyright protected; Adventurers of the North: Kalevala Heroes (Nelospelit, 1988) — copyright protected; AITTA — Finnish Folktales (Steam) — copyright protected. None constitute a registered trademark on the word "Haltija" itself.
+- *Source tradition:* Finnish oral folk tradition — unambiguously public domain
+- *Key source text(s):* Kalevala, Elias Lönnrot (compiler), final ed. 1849 — PD; Mythologia Fennica, Christfrid Ganander, 1789 — PD; Suomen kansan vanhat runot, Finnish Literature Society, 1908–1948 — PD
+- *Protected derivatives:* None identified
 
-**Notable trademarks to avoid:** None known for the word "Haltija" in game/entertainment categories.
+**Notable trademarks to avoid:** None known. "Haltija" is a living Finnish word (meaning "holder, guardian, owner") in general linguistic use and a traditional folklore term with no identified trademark protection.
 
-> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
-
----
-
-> **Note on sources:** The haltija category encompasses a wide spectrum of Finnish spirit beings and the boundaries between subtypes are fluid in primary sources. Ganander's *Mythologia Fennica* names specific haltija (Aarni, Äkräs, Hongatar, Etelätär/Suvetar, Pihlajatar, Etiäinen, Kivi-Kimmo) that are not always discussed under the "haltija" heading in secondary literature. The distinction between a *haltija* and a fully divine being (*jumala*) is contested: Pulkkinen and other scholars treat the difference as one of degree rather than kind, with haltija tending to be more domain-specific and less cosmologically prominent than the major gods.
+> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, PRH, etc.) before any commercial use.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[GFDL]` GNU Free Documentation License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- `[PD]` Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; Tapio, Mielikki, and haltija-class spirits appear throughout; public domain
-- `[PD]` Mythologia Fennica, Christfrid Ganander (1789) — systematic 430-entry encyclopedia of Finnish mythology; names specific haltija types and individuals; public domain
-- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — ~100,000 Kalevala-metre folk poems; names water-haltija cattle and attests widespread haltija belief; public domain
+- `[PD]` Kalevala, Elias Lönnrot (compiler), final edition 1849
+- `[PD]` Mythologia Fennica, Christfrid Ganander, 1789
+- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (compiler), 1908–1948
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Wikipedia: "Haltija" — https://en.wikipedia.org/wiki/Haltija
-- `[CC-BY-SA]` Wikipedia: "Baltic Finnic paganism" — https://en.wikipedia.org/wiki/Baltic_Finnic_paganism
-- `[CC-BY-SA]` Wikipedia: "Etiäinen" — https://en.wikipedia.org/wiki/Eti%C3%A4inen
-- `[PD*]` godsandmonsters.info: "Haltija: Finnish Nature Spirits" — https://godsandmonsters.info/haltija/
-- `[PD*]` AncientScholar: "Haltija Spirits: Finnish Folklore's Guardians and Symbols" — https://ancientscholar.org/haltija-spirits-finnish-folklores-guardians-and-symbols/
-- `[PD*]` worldmythos.com: "Metsänhaltija" — https://worldmythos.com/metsanhaltija/
-- `[CC-BY-SA]` Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
-- `[CC-BY-SA]` Wikipedia: "Mielikki" — https://en.wikipedia.org/wiki/Mielikki
-- `[PD*]` random-times.com: "Metsänhaltija, the forest spirits of Finnish Mythology" — https://random-times.com/2022/04/27/metsanhaltija-the-forest-spirits-of-finnish-mythology/
+- `[CC-BY-SA]` Wikipedia — Haltija, https://en.wikipedia.org/wiki/Haltija
+- `[CC-BY-SA]` Wikipedia — Tapio (spirit), https://en.wikipedia.org/wiki/Tapio_(spirit)
+- `[CC-BY-SA]` Wikipedia — Mielikki, https://en.wikipedia.org/wiki/Mielikki

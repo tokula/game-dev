@@ -1,87 +1,105 @@
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
 # Dvergar
 
 > See also: [dvergar_norse_roster.md](dvergar_norse_roster.md)
 
-**Native name / Etymology:** Dvergr (Old Norse: singular), Dvergar (plural); Proto-Germanic *\*dwergaz* (reconstructed). Old English *dweorg*, Old High German *twerg* — the term spans the Germanic language family. Etymology uncertain: possibly from a root meaning "something that diminishes" or "that which is deceptive." Physical smallness is not central to the oldest usage; the emphasis on short stature was amplified in later European folklore.
+**Native name / Etymology:** Dvergar (Old Norse: plural; singular Dvergr); from Proto-Germanic *\*dwergaz*. Etymology uncertain — possibly related to a root meaning something small that moves quickly underground, or cognate with Sanskrit *dhrajas* "a gliding motion." Modern English "dwarf" descends from the same Germanic root via Old English *dweorg*.
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century), *Völuspá* (Dvergatal); Prose Edda, Snorri Sturluson (c. 1220), *Gylfaginning* and *Skáldskaparmál*
+**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220)
 
 **Biological Form:** Humanoid
 
-**Gender(s):** Male — female dwarves are not attested in primary Norse sources; all documented Dvergar are male. This likely reflects the limits of the surviving record rather than an exclusively male biology.
+**Entity type:** Race/Species
+
+**Gender(s):** Predominantly male in primary sources. No female Dvergar are named in the Poetic or Prose Edda. All named individuals attested in the dvergatal (*Völuspá*), *Álvíssmál*, and *Skáldskaparmál* are male.
 
 **Common archetype/role in fiction:** Scholarly, Merchant civilization
 
 ## One-line lore summary
 
-Master craftsmen of the Nine Worlds — formed from maggots in the body of the primordial giant Ymir and given reason by the gods, the Dvergar have forged every legendary artifact in Norse cosmology, from Odin's spear to Thor's hammer.
+The foremost craftspeople of Norse cosmology — subterranean beings who forged the gods' greatest weapons and treasures, possess encyclopaedic knowledge spanning all Nine Worlds, and turn to stone in sunlight.
 
 ## Specializations
 
-- `[signature]` **Supreme craftsmanship** — The Dvergar are the pre-eminent artificers of the Nine Worlds; no other race has produced anything comparable to Mjölnir, Gungnir, Gleipnir, or Skíðblaðnir. This mastery extends to metal, stone, wood, and immaterial binding — Gleipnir is woven from impossible things: a cat's footfall, a mountain's roots, a fish's breath, a bird's spittle, a bear's sinews, a woman's beard.
-- `[major]` **Intrinsic enchantment** — Every artifact the Dvergar forge carries inherent magical properties: Gungnir never misses its mark; Skíðblaðnir folds to the size of a handkerchief when not in use; Draupnir spawns eight rings of equal weight every nine nights. This enchantment is intrinsic to their craft, not a separately applied skill.
+- `[signature]` **Master craftsmanship** — the Dvergar produced the most powerful objects in the Nine Worlds: Mjölnir (Thor's hammer), Gungnir (Odin's unerring spear), Gleipnir (the magical ribbon binding Fenrir), Skiðblaðnir (a ship that folds into a pocket), Draupnir (Odin's gold ring that multiplies every ninth night), Brísingamen (Freyja's necklace), and Gríðarvölr (a magical staff). No other race approaches this scope or power of creation — *Skáldskaparmál*; *Gylfaginning*
+- `[major]` **Encyclopaedic cosmological knowledge** — Alvíss (*Álvíssmál*) recites the name of every object in the Nine Worlds in every language spoken by gods, elves, dwarves, giants, and the dead. This knowledge is framed as inherent to his nature as a Dvergr, not as an individual achievement
+- `[minor]` **Brewing the mead of poetry** — the Dvergar Fjalarr and Galarr brewed the mead of poetry from the blood of Kvasir; whoever drinks it acquires the gift of skaldic eloquence and wisdom. No other race has replicated this — *Skáldskaparmál*
 
 ## Strengths
 
-- Resilient physical constitution adapted to underground environments
-- Deep accumulated knowledge of materials, metals, and the cosmological properties of the world
-- Competitive and prideful — this disposition drives them to extraordinary creative results when challenged
-- Capable of binding from conceptually impossible or non-physical materials (Gleipnir)
+- Geological mastery: ability to work deep inside rock and mountains, shaping the hardest materials
+- Metallurgical and magical artifice surpassing any other race — their work is the standard by which divine weapons are measured throughout the primary sources
+- Riddle-cunning and negotiation skill: Dvergar regularly extract binding concessions from the gods through wagers and contracts
+- Long-lived; implied by their accumulated cosmic knowledge across ages
 
 ## Characteristics
 
-- Formed from maggots in the flesh of the primordial frost giant Ymir; given human form and reason by the gods — *Prose Edda* account; *Völuspá* implies a separate divine assembly gathered to create them
-- Dwell underground: in Niðavellir, within mountains, and in Svartálfheimr (which may be the same realm under different names — see [svartalfar_norse.md](svartalfar_norse.md))
-- Four named Dvergar (Norðri, Suðri, Austri, Vestri — North, South, East, West) hold the four corners of the sky — a cosmological function assigned at creation and permanent
-- Associate with the Æsir primarily as contracted craftsmen; the relationship is transactional and occasionally contentious, involving coercion as well as payment
+- Inhabit Svartálfaheimr and Niðavellir; dwell inside mountains, hills, and deep underground caverns
+- Short stature is implied throughout the primary sources but not precisely quantified in older Eddic texts; the association with very small size is strongest in later and secondary accounts
+- Listed by the hundreds in the dvergatal ("Tally of Dwarves") section of *Völuspá*, establishing a vast and named population
+- Origin described differently across sources: the Prose Edda's retelling of *Völuspá* describes them as maggots animated in Ymir's flesh and granted shape and intellect by the gods; the Codex Regius text of *Völuspá* itself is less explicit and may imply they were simply found in the earth and given life
+- Frequently enter binding agreements with the Æsir — agreements the gods then subvert through trickery or outright force
 
 ## Faults / Weaknesses
 
-- Turned to stone upon exposure to direct sunlight — attested in *Alvíssmál*: Thor kept the dwarf Alvíss in riddle-contest until dawn, at which point the rising sun petrified him
-- Morally capable of predatory violence: Fjalarr and Galarr murdered the being Kvasir to brew the Mead of Poetry from his blood, then killed a giant couple for sport
+- **Turned to stone by sunlight** — the primary-source attestation is *Álvíssmál*, where Thor delays Alvíss through riddles until dawn, at which point the dwarf is petrified. Whether this applies to all Dvergar universally or specifically to the exposed individual is not made fully explicit, but scholars treat it as a general racial vulnerability
+- Susceptible to contractual exploitation: the Dvergar's pride in craftsmanship and appetite for wagers is repeatedly used against them — the gods commission work and then find technical grounds to avoid the agreed payment (e.g. Loki's interference ruining the agreed terms of Mjölnir's commission)
+- Treasures they create become prizes in conflicts they cannot control — Odin stole the mead of poetry from them; their artifacts repeatedly appear as theft-targets in sagas
 
 ## Modifiers
 
-- **Sunlight petrification** — direct sunlight turns a Dvergar to stone; attested specifically for Alvíss in *Alvíssmál*, implied as a general Dvergar trait by context. Whether biological or an imposed cosmological law is not specified in primary sources. — *Alvíssmál*, Poetic Edda
+None race-wide attested in primary sources.
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Æsir | Ally | Contractual craftsmen relationship: Dvergar forge the gods' most powerful artifacts. Generally aligned with the Æsir against chaos, though the relationship involves coercion and payment as often as goodwill. | Prose Edda (*Skáldskaparmál*) |
-| Jötnar | Enemy | Mountain and underground territory; Jötnar threaten Dvergar holdings. Some individual Jötnar interact with dwarves but no systematic alliance exists in primary sources. | Prose Edda (*Skáldskaparmál*) |
+| Æsir | Charge | The gods commission the Dvergar's greatest works and hold structural authority over them; the Dvergar sometimes exact a steep price but cannot ultimately refuse divine authority | *Gylfaginning*; *Skáldskaparmál* |
+| Jötnar | Enemy | Jötnar steal the Dvergar's crafted treasures and disrupt their work; the Dvergar lack the military power to resist directly | *Skáldskaparmál* |
 
 ## Ecology
 
-**Prey:** Not explicitly documented as hunters. Fjalarr and Galarr's murder of Kvasir (for his blood to brew the Mead of Poetry) and their subsequent killing of the giant couple Gilling and his wife indicate predatory or violent tendencies, but no consistent diet is described in primary sources.
+**Prey:** Stone, ore, and underground minerals — the Dvergar's raw material and implied subsistence. No conventional predator-prey food chain is documented; they are craftspeople, not hunters.
 
-**Predators:** The Æsir can and do coerce or threaten Dvergar; Loki manipulates them repeatedly. The sunlight vulnerability makes open daylight terrain hostile. No dedicated natural predator is documented.
+**Predators:** No natural predators documented. The Æsir's structural authority and the Jötnar's theft of their work are the primary threats to their creations and autonomy; neither constitutes biological predation.
 
 ## Trademark status
 
 **Public domain status:**
 - *Source tradition:* Norse oral and literary tradition, pre-Christian Scandinavia — unambiguously public domain
-- *Key source texts:* Poetic Edda, anonymous, c. 10th–13th century — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD
-- *Protected derivatives:* None from the primary mythological tradition. Tolkien's Dwarves (*The Hobbit*, 1937; *The Lord of the Rings*, 1954–55) are copyright of the Tolkien Estate; related film rights held by Warner Bros. and MGM — do not reproduce Tolkien's specific character portrayals, names, or lore.
+- *Key source texts:* Poetic Edda (anonymous, c. 10th–13th century) — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Völsunga saga (anonymous, c. 13th century) — PD
+- *Protected derivatives:* Tolkien's dwarves (*The Hobbit*, *The Lord of the Rings*) derive conceptually from Norse Dvergar (Tolkien borrowed many names directly from the dvergatal, including Gandálfr as "Gandalf") but are protected by the Tolkien Estate — do not reproduce Tolkien-specific traits. D&D 5e SRD Dwarf and Duergar (`[SRD]`, CC-BY-4.0) are open-licensed adaptations.
 
-**Notable trademarks to avoid:** No active trademarks on "Dvergar" as a general term known to exist. "Dwarf" as a generic fantasy archetype is widely used and unregisterable; individual game and literary depictions carry their own copyright.
+**Notable trademarks to avoid:** No active trademark on "Dvergar," "Dvergr," or "Dvergen" (Old Norse forms) identified. "Dwarf" as a generic English term has no trademark. Individual game-property dwarves (e.g. Games Workshop Warhammer Dwarfs) carry studio-specific IP — do not reproduce their specific traits or aesthetic.
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
 
+## Game depictions (variants from the source mythology)
+
+### D&D 5e Dwarf `[SRD]`
+
+The D&D 5e SRD dwarf (CC-BY-4.0) preserves the core Norse traits — stout build, underground habitation, master smithcraft, strong constitution — while adding formalized subrace mechanics (Hill Dwarf, Mountain Dwarf), darkvision, and proficiencies not attested in Norse sources. Culturally presented as a clan-based society with deep ancestral grudges.
+
+### D&D 5e Duergar `[SRD]`
+
+The D&D 5e SRD Duergar (grey dwarves, CC-BY-4.0) represent a subrace of dwarves who live deep underground, have grey skin, and possess limited psionic abilities — elements not attested in Norse primary sources. The name derives from "duergar," an anglicisation of *dvergr*, but the creature is a substantially developed fantasy invention.
+
 ---
 
-> **Note on sources:** The relationship between Dvergar and Svartálfar ("Black Elves") is unresolved in primary sources. When Loki visits Svartálfheimr in *Skáldskaparmál*, the beings he encounters are identified as dwarves. Many scholars conclude Snorri used "Svartálfar" as an alternate term for Dvergar when naming the realm, and that the original tradition recognised only one class of underground beings. See [svartalfar_norse.md](svartalfar_norse.md) for the full debate.
+> **Note on sources:** Snorri Sturluson equates Svartálfar (black elves) with the Dvergar in several passages of the Prose Edda, treating Svartálfaheimr and Niðavellir as the same or overlapping realm. Scholarly consensus (Simek, Lindow) generally treats Snorri's Svartálfar as another name for the Dvergar, and his separate Dökkálfar as a further potentially spurious distinction. The Poetic Edda does not draw these distinctions, using *álfar* and *dvergar* as separate categories without the Svartálfar/Dökkálfar overlay. | **Svartálfar absorbed into this profile:** The term "Svartálfar" is entirely absent from the Poetic Edda — it is Snorri's own label, appearing only in the Prose Edda. The decisive passage is *Skáldskaparmál*: when Loki travels to Svartálfaheimr to commission replacements for Sif's golden hair, the craftsmen he finds (the Sons of Ivaldi) are identified as dwarves — the inhabitants of Svartálfaheimr *are* the Dvergar. Snorri also uses the identical physical descriptor *svartari en bik* ("blacker than pitch") for both Svartálfar and Dökkálfar, with no distinguishing detail between the two. A separate Svartálfar profile (svartalfar_norse.md) was previously maintained and has been retired; all content is subsumed here. The cosmological contrast between dark-underground beings and the Ljósálfar is not independently attested for the Dvergar-as-craftsmen and lives in [dokkalfar_norse.md](dokkalfar_norse.md). | Tolkien borrowed extensively from the dvergatal for dwarf-names in *The Hobbit*: Gandálfr, Þráinn, Dvalinn, Durinn and many others appear in *Völuspá* centuries before Tolkien's use of them. These names are public domain in the Old Norse originals; Tolkien's specific characterisations remain protected.
 
 ## Sources
 
 ### Primary sources
 
-- `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá* (Dvergatal / Catalogue of Dwarves), *Alvíssmál* (sunlight petrification), *Hymiskviða*
-- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* (creation account; cosmological realm); *Skáldskaparmál* (Mjölnir, Gungnir, Gleipnir, Mead of Poetry, and other crafting feats)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá* (dvergatal), *Álvíssmál*, *Lokasenna*
+- `[PD]` Prose Edda — *Gylfaginning*, *Skáldskaparmál* (Snorri Sturluson, c. 1220)
+- `[PD]` Völsunga saga (anonymous, c. 13th century) — Andvari's cursed gold; dwarf-forged artifacts in the heroic cycle
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Dwarf (folklore) — Wikipedia
-- `[PD*]` World History Encyclopedia — Elves and Dwarves in Norse Mythology
+- `[CC-BY-SA]` Dvergar — Wikipedia
+- `[CC-BY-SA]` Dvergatal — Wikipedia

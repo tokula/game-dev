@@ -12,7 +12,9 @@ Build structured Markdown profiles of mythological and fictional races for game-
 1. **Parse input** — accept a single name, comma-separated list, or newline-separated list. Treat each entry independently.
 2. **Validate each entry** — distinguish races from individual figures and from unique beings (see "Input validation").
 3. **For each valid race entry, identify source variants** — if the race appears in multiple distinct mythologies (e.g. Dwarves in Norse vs. Slavic), produce one file per source. See "Multiple source mythologies".
-4. **Research each variant** — before any web search, read `.claude/skills/race-categorizer/references/sources_registry.md`. For any source you plan to cite that already appears in the registry, use its registered `Tag` and `URL` directly — do not mark `*` or re-research its status. Sources listed under **Known blocked sources** in the registry are automatically excluded. Only run web searches for provenance of sources genuinely absent from the registry.
+4. **Research each variant** — before any web search, read `.claude/skills/race-categorizer/references/sources_registry.md`. For any source you plan to cite that already appears in the registry, use its registered `Tag` and `URL` directly — do not mark `*` or re-research its status. Only run web searches for provenance of sources genuinely absent from the registry.
+
+   **4a — Extract blocked domains first (mandatory, before any fetch or subagent call).** Read the `## Blocked sources` table from `sources_registry.md` and build a domain blocklist. Do not visit, fetch, or search any URL whose domain matches a blocked entry — even if a search result links to it. When delegating research to a subagent, copy the full blocklist into the subagent prompt explicitly so it cannot visit blocked domains either. This step must happen before spawning any agent or issuing any web call.
 
    Sources listed in the `## Blocked sources` section of the registry are excluded immediately without re-researching. Sources tagged `[CC-BY-NC*]` or `[CC-BY-NC-ND]` are research-only — use them to confirm facts but never cite them in race files; always attribute the fact to its PD primary source instead. After the registry check, use web search for general details, etymology, named individuals attested in primary sources, and trademark verification. Flag conflicting sources.
 
@@ -88,10 +90,19 @@ Three categories of input:
 - Zeus → suggest Olympians / Greek gods
 - Anubis → suggest Egyptian gods
 
-**(c) Unique being with no parent race** — there is no "race" to categorize, but suggest the closest race-like grouping(s). Ask inline: "There's no race for [X]. Closest groupings: [A], [B], [C]. Use one of these? (pick one or skip)".
+**(c) Unique being with no parent race** — two sub-types:
+
+**(c1) Monstrous unique beings** — no race, but a closest racial grouping exists. Ask inline: "There's no race for [X]. Closest groupings: [A], [B], [C]. Use one of these? (pick one or skip)".
 - Fenrir → "jötnar offspring" or "monstrous wolves of Norse myth"
 - Jörmungandr → "jötnar offspring" or "primordial serpents"
 - Cerberus → "monstrous hounds of Greek underworld"
+
+**(c2) Singular deities and cosmological personifications** — ontologically unique beings with no parent race and no meaningful racial grouping. Distinguish three grades:
+- **Singular Deity** — a named divine individual who governs a domain and can act, be offended, or be appeased (e.g. Peckols, Veliona, Zemes Māte)
+- **Cosmological Personification** — a being that *is* a concept rather than inhabiting it; impersonal, non-interactable as a person (e.g. Giltinė, Thanatos, Ananke, Kala)
+- **Primordial Being** — predates or constitutes the cosmic order; may be either personal or impersonal (e.g. God in Abrahamic theology)
+
+Ask inline: "There's no race for [X] — [X] is a [Singular Deity / Cosmological Personification / Primordial Being]. Create a deity profile in `deities/` instead? (y/n)". If yes, proceed with the same template (set `Entity type` accordingly) but skip the roster file. If no, skip.
 
 If the user is unsure or the input is ambiguous, ask before proceeding rather than guessing.
 
@@ -128,17 +139,23 @@ If unsure how many variants to produce, list the candidates to the user and conf
 - Single-origin races still get the source suffix (e.g. `valkyrie_norse.md`, `leprechaun_celtic.md`)
 
 **Examples:**
-- Valkyries → `valkyrie_norse.md`
-- Tieflings (D&D SRD) → `tiefling_modern_literary.md` *(open-licensed via D&D 5e SRD / CC-BY-4.0)*
-- Kitsune → `kitsune_east_asian.md`
+- Valkyries → `races/valkyrie_norse.md`
+- Tieflings (D&D SRD) → `races/tiefling_modern_literary.md` *(open-licensed via D&D 5e SRD / CC-BY-4.0)*
+- Kitsune → `races/kitsune_east_asian.md`
+- Giltinė (deity profile) → `deities/giltine_baltic.md`
+- Thanatos (deity profile) → `deities/thanatos_greek.md`
 
 ## Output folder
 
 Default: `./races/` in the current working directory. Create it if it doesn't exist. If the user specifies a different folder, use that instead.
 
+**Deity profiles** (`Entity type` is not `Race/Species`) go in `./deities/` instead. Create it if it doesn't exist.
+
 ## Roster file
 
 Every race profile gets a companion `{name}_{source}_roster.md` written alongside it. Cross-link both files with a `> See also:` line at the top of each.
+
+**Deity profiles** (`Entity type: Singular Deity`, `Cosmological Personification`, or `Primordial Being`) are singular by definition — skip the roster file entirely.
 
 **Filename:** same base as the race file with `_roster` appended — e.g. `valkyrie_norse_roster.md`, `dwarf_norse_roster.md`.
 
@@ -174,6 +191,8 @@ saga, religious texts, or historical accounts — public domain, culturally auth
 for game design use. For original creations: names from the definitive source work (first
 published appearance or authorial canon).
 
+Sort rows alphabetically by Name (A → Z).
+
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
 | {Name} | {Primary text, e.g. *Völuspá*} | {Rank or function} | {One line} |
@@ -193,6 +212,8 @@ Primary and original-canon individuals only. Game-invented figures have their ow
 Do not treat these as equivalent to primary-source attestation.
 **IP filter applies:** only include entries from public domain, CC0, or explicitly open-licensed sources (e.g. D&D 5e SRD / CC-BY-4.0). Omit this section entirely if no qualifying entries exist.
 
+Sort rows alphabetically by Name (A → Z).
+
 | Name | Game | Role | Notes |
 |------|------|------|-------|
 | {Name} | {Game title (studio)} | {Role in game} | {One line} |
@@ -202,6 +223,8 @@ Do not treat these as equivalent to primary-source attestation.
 **Derivative.** Names from novels, comics, or other non-game fiction, included for
 cross-reference only.
 
+Sort rows alphabetically by Name (A → Z).
+
 | Name | Work | Role | Notes |
 |------|------|------|-------|
 | {Name} | {Title, author} | {Role} | {One line} |
@@ -210,13 +233,17 @@ Omit any section that has no entries.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- {Folklore, mythology, saga, religious text, or historical account — title, author if known, date}
+- `[PD]` {Folklore, mythology, saga, religious text, or historical account — title, author if known, date}
 
 ### Secondary sources
 
-- {Encyclopedia entry, academic overview, or web source — title and URL if applicable}
+- `[CC-BY-SA]` {Encyclopedia entry, academic overview, or web source — title and URL if applicable}
 ```
 
 ## Existing file handling
@@ -229,9 +256,18 @@ Before writing, check if the target file already exists. If it does:
 
 Use `git diff --no-index --word-diff` via PowerShell for the diff output (Bash has no access to Windows paths; `diff -u` will not work). Exit code 1 from `git diff --no-index` means files differ — it is not an error. If the new content is identical to the existing file, skip silently and note it in the final summary.
 
-## Web search policy
+## Online operations policy
 
-Use web search for:
+**Online budget:** Every call to `WebSearch` or `WebFetch` — regardless of who makes it (main session or a spawned subagent) — counts as **1 operation** against a limit of **3 per race or deity variant**. There is no separate budget for fetches vs. searches; they draw from the same pool. After 3 operations total, present what was found and ask: "Used 3 online operations for [Name]. Use up to 3 more? (y/n)". If the user declines, proceed with available data and note any gaps in the file.
+
+**Blocked domains apply to all operations.** The domain blocklist built in step 4a governs every online action without exception:
+- `WebSearch`: pass the blocklist as `blocked_domains` parameter; never follow a search result link whose domain is blocked.
+- `WebFetch`: before calling, check the target URL's domain against the blocklist. If it matches, skip the fetch and note the gap.
+- Subagent delegation: when spawning an agent to do research, pass (a) the full domain blocklist and (b) the remaining operation count explicitly in the prompt. The subagent's tool calls count against the parent's budget — track the total across all agents.
+
+**CC-BY-NC content** retrieved via any operation (search result or fetched page) is research-only — never cite it or reproduce its expression in output files; always attribute the underlying fact to its PD primary source.
+
+Use online operations for:
 - Etymology and native-language names when not obvious
 - Trademark verification (search "{race name} trademark", check registered marks in major game/IP categories)
 - Copyright/public domain status of the key source text(s): check the publication date and author (for post-1700 works: author's death year + 70 years in most jurisdictions). Also search "{race name} game adaptation" or "{source title} game" to identify notable modern derivatives that carry their own IP protection — list these under "Protected derivatives" in the template.

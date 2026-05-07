@@ -4,84 +4,56 @@
 
 ## Command hierarchy
 
-Odin (Æsir) → Valkyries → Einherjar (the chosen slain of Valhöll)
+Valkyries operate directly under Odin's authority. No internal hierarchy among Valkyries themselves is documented in primary sources — no captain, leader, or tiered rank among them is named. The chain of authority runs: Odin → Valkyries → Einherjar.
 
-Valkyries answer directly to Odin; no internal hierarchy among them is documented in primary sources. They act collectively and individually on his behalf. The einherjar are under the Valkyries' care in Valhöll but are not subordinate to them in any military sense — they are guests and future warriors.
+**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
 
-**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts)
-are the authoritative origin. Games and fiction derive from them. Always populate
-`— Primary sources` first and most completely. Derivative sections exist for cross-reference
-only — they should never displace or reframe the original cultural record.
-
-**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or
-mythological base. Use `— Original canon` instead when the race has no such precedent and the
-authoritative record is a specific creative work that is public domain, CC0, or explicitly
-open-licensed (e.g. Tieflings → D&D 5e SRD / CC-BY-4.0). Proprietary-only races are blocked
-entirely by the IP filter and never reach this label. The label signals whether you're citing
-a cultural tradition or an open creative work.
+**Section naming rule:** Used `— Primary sources` because the Valkyries have a real-world Norse mythological base.
 
 ## Named individuals — Primary sources
 
+Names consolidated from *Grímnismál* stanza 36, *Völuspá* stanza 30, *Darraðarljóð* (Njáls saga), *Sigrdrífumál*, and *Helgakviða Hundingsbana I–II*. Many names overlap across sources with minor spelling variants; duplicates have been merged.
+
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Skuld | *Völuspá*, Poetic Edda | Valkyrie | Named among six riding to choose the slain |
-| Skögul | *Völuspá*; *Grímnismál*, Poetic Edda | Valkyrie | Named in both Völuspá and Grímnismál lists |
-| Göndul | *Völuspá*; *Darraðarljóð* | Valkyrie | Appears in both the cosmological and battle-fate lists |
-| Geirskögul | *Völuspá*, Poetic Edda | Valkyrie | "Spear-Skögul"; named in the six |
-| Hildr | *Völuspá*; *Grímnismál*; *Darraðarljóð* | Valkyrie | One of the most frequently attested names; "Battle" |
-| Herfjötur | *Grímnismál*; *Völuspá* | Valkyrie | "Army-fetter"; associated with binding warriors |
-| Hrist | *Grímnismál*, Poetic Edda | Valkyrie | "Shaker" |
-| Mist | *Grímnismál*, Poetic Edda | Valkyrie | "Mist" |
-| Skeggjöld | *Grímnismál*, Poetic Edda | Valkyrie | "Axe-age" |
-| Þrúðr | *Grímnismál*, Poetic Edda | Valkyrie | "Strength"; also the name of Thor's daughter — possible overlap |
-| Hlökk | *Grímnismál*, Poetic Edda | Valkyrie | "Noise, battle" |
-| Göll | *Grímnismál*, Poetic Edda | Valkyrie | "Screaming, battle-din" |
-| Geirahöð | *Grímnismál*, Poetic Edda | Valkyrie | "Spear-battle" |
-| Randgríðr | *Grímnismál*, Poetic Edda | Valkyrie | "Shield-truce" |
-| Ráðgríðr | *Grímnismál*, Poetic Edda | Valkyrie | "Counsel-truce" |
-| Reginleif | *Grímnismál*, Poetic Edda | Valkyrie | "Power-truce" or "Gods' legacy" |
-| Hjörþrimul | *Darraðarljóð*, Njáls saga | Valkyrie | "Sword-noise"; weaves battle-fate at Clontarf |
-| Sanngríðr | *Darraðarljóð*, Njáls saga | Valkyrie | "Very violent" |
-| Svipul | *Darraðarljóð*, Njáls saga | Valkyrie | "Changeable" |
-| Guðr | *Darraðarljóð*, Njáls saga | Valkyrie | "Battle" |
-| Sigrún | *Helgakviða Hundingsbana I & II*, Poetic Edda | Named Valkyrie | Chose Helgi Hundingsbane; said to be a reincarnation of Sváva |
-| Brynhildr / Sigrdrífa | *Sigrdrífumál*, Poetic Edda; *Völsunga saga* | Exiled Valkyrie | Punished by Odin; imprisoned in a circle of fire |
+| Brynhildr / Sigrdrífa | *Sigrdrífumál*; *Völsunga saga* | Valkyrie; punished by Odin | Punished for awarding victory to the wrong king; put to sleep surrounded by fire; her case is the primary attestation for Odin's punishment of a defiant Valkyrie; see Individual distinctions |
+| Geirönul | *Grímnismál* st. 36 | Serves ale in Valhöll | Name attested only in *Grímnismál* |
+| Geirskögul | *Völuspá* st. 30; *Darraðarljóð* | Battle-fate assignment; serves Valhöll | Named in both *Völuspá* and *Darraðarljóð* |
+| Göll | *Grímnismál* st. 36 | Serves ale in Valhöll | — |
+| Göndul | *Völuspá* st. 30; *Darraðarljóð* | Battle-fate assignment | Named in both sources |
+| Guðr | *Darraðarljóð* | Battle-fate weaving | Named among the twelve in *Darraðarljóð* |
+| Gunnr | *Völuspá* st. 30 | Battle-fate assignment | — |
+| Herfjötur | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | Name means "host-fetter"; implies she can bind warriors |
+| Hildr | *Völuspá* st. 30; *Grímnismál* st. 36; *Darraðarljóð*; *Helgakviða* | Battle-fate assignment; serves Valhöll | One of the most widely attested Valkyrie names; also appears as a mortal name in saga tradition |
+| Hlökk | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | Name means "noise / battle" |
+| Hrist | *Grímnismál* st. 36 | Serves ale in Valhöll | Name means "the shaker" |
+| Mist | *Grímnismál* st. 36 | Serves ale in Valhöll | Name means "cloud / mist" |
+| Ráðgríðr | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | — |
+| Randgríðr | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | — |
+| Reginleif | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | Name means "legacy of the gods" |
+| Sigrún | *Helgakviða Hundingsbana I–II* | Valkyrie; loves Helgi Hundingsbane | Reincarnated after death; her love for Helgi drives the narrative of *Helgakviða Hundingsbana*; see Individual distinctions |
+| Skeggjöld | *Grímnismál* st. 36 | Serves ale in Valhöll | — |
+| Skögul | *Völuspá* st. 30; *Grímnismál* st. 36; *Darraðarljóð* | Battle-fate assignment; serves Valhöll | One of the most frequently attested Valkyrie names across sources |
+| Skuld | *Völuspá* st. 30; *Grímnismál* st. 36 | Battle-fate assignment; also listed among the Nornir | Double attestation as Valkyrie and Norn; see note and [nornir_norse_roster.md](nornir_norse_roster.md) |
+| Þrúðr | *Grímnismál* st. 36; *Darraðarljóð* | Serves Valhöll; battle-fate | The name *Þrúðr* also appears as a daughter of Thor in *Skáldskaparmál* — whether they are the same figure is unresolved |
 
 ## Individual distinctions — Primary sources
 
-**Brynhildr (also called Sigrdrífa)**
-- `[Modifier]` Exiled from Valhöll by Odin as punishment for choosing the wrong battle-victor (she gave victory to Agnar over Hjalmgunnar, whom Odin favoured); sentenced to sleep within a wall of fire until a fearless man woke her — *Sigrdrífumál, Poetic Edda; Völsunga saga*
-- `[Specialization-major]` Possessed runic wisdom that she imparted to Sigurðr — knowledge of victory-runes, wave-runes, word-runes, and thought-runes — exceeding what the racial profile grants the typical Valkyrie — *Sigrdrífumál*
-- `[Strength]` Superior personal warrior skill; her martial ability was attested even in her mortal exile, where she was described as a shieldmaiden of outstanding prowess
+**Brynhildr / Sigrdrífa**
+- `[Specialization-major]` Possesses extensive runic knowledge beyond the typical Valkyrie function — teaches Sigurðr victory-runes, ale-runes, birth-runes, wave-runes, and branch-runes in *Sigrdrífumál*, implying a depth of wisdom that exceeds the standard battlefield role
+- `[Modifier]` Enchanted sleep and fire-wall imposed by Odin as punishment for awarding victory to King Agnarr contrary to his will; the sleep is reversible by a mortal hero willing to ride through the fire — *Sigrdrífumál* (Poetic Edda)
 
 **Sigrún**
-- `[Modifier]` Identified in primary sources as a reincarnation — described as the same soul as the Valkyrie Sváva, reborn — suggesting a cycle of reincarnation specific to her — *Helgakviða Hundingsbana II*
-- `[Characteristic]` Explicitly chose a mortal man (Helgi Hundingsbane) as her beloved and aided him in battle, blurring the line between psychopomp and active combatant
+- `[Characteristic]` Falls in love with the mortal warrior Helgi Hundingsbane and acts as his protector — one of the clearest primary-source cases of a Valkyrie's romantic attachment influencing her battlefield role — *Helgakviða Hundingsbana I* (Poetic Edda)
+- `[Characteristic]` Reborn after death (she and Helgi are reincarnated in a later generation), making her one of the few figures in primary Norse sources explicitly described as undergoing reincarnation — *Helgakviða Hundingsbana II*
 
-## Named individuals — Games
-
-*IP filter applied: no qualifying public-domain or CC0/open-licensed game entries identified.*
-
-## Named individuals — Modern literary
-
-| Name | Work | Role | Notes |
-|------|------|------|-------|
-| Brynhildr | *Nibelungenlied* (anonymous, c. 1200) — PD | Queen of Iceland, supernatural warrior | Adapted from Norse Brynhildr; loses explicit Valkyrie status but retains supernatural strength and warrior role |
+**Skuld**
+- `[Characteristic]` Named in both the Valkyrie roll-call (*Grímnismál* stanza 36) and among the three great Nornir (*Völuspá* stanza 20) — the only figure to appear in both categories across primary sources; see also [nornir_norse_roster.md](nornir_norse_roster.md)
 
 ## Sources
 
 ### Primary sources
 
-- *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century)
-- *Grímnismál*, Poetic Edda
-- *Darraðarljóð*, embedded in *Njáls saga* (anonymous, c. 13th century)
-- *Helgakviða Hundingsbana I & II*, Poetic Edda
-- *Sigrdrífumál*, Poetic Edda
-- *Nafnaþulur*, in *Skáldskaparmál*, Prose Edda, Snorri Sturluson (c. 1220)
-- *Gylfaginning*, Prose Edda, Snorri Sturluson (c. 1220)
-- *Völsunga saga* (anonymous, c. 13th century)
-
-### Secondary sources
-
-- Wikipedia: "Valkyrie"; "List of valkyrie names"
-- Viking Archaeology: "Names of the Valkyries" — archeurope.com
+- `[PD]` Poetic Edda — *Völuspá*, *Grímnismál*, *Sigrdrífumál*, *Helgakviða Hundingsbana I–II* (anonymous, Codex Regius, c. 10th–13th century)
+- `[PD]` Njáls saga — *Darraðarljóð* (anonymous, c. 13th century)
+- `[PD]` Prose Edda — *Gylfaginning* (Snorri Sturluson, c. 1220)

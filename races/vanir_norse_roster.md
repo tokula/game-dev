@@ -4,43 +4,41 @@
 
 ## Command hierarchy
 
-No internal Vanir hierarchy is documented in primary sources. After the Æsir–Vanir War, Freyr, Freyja, and Njörðr took up residence in Ásgarðr and integrated into the Æsir's divine community. Vanaheimr itself has no named ruler in surviving texts.
+No documented internal hierarchy among the Vanir. Njörðr, Freyr, and Freyja are the only Vanir with substantial narrative roles in surviving primary sources; which of them, if any, held authority in Vanaheimr is never stated. After the hostage exchange, all three are integrated into Ásgarðr under Odin's broad authority as Allfather — though they act with considerable independence.
 
-**Source priority:** Primary sources (Poetic Edda, Prose Edda, sagas) are authoritative. All individuals listed here are attested in those texts.
+**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
+
+**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or mythological base.
 
 ## Named individuals — Primary sources
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Freyr | *Skírnismál*; Prose Edda (*Gylfaginning*); Ynglinga Saga | God of fertility, harvest, sunshine, rain; ruler of Álfheimr | Gave his magical sword to win Gerðr's love; will face Surtr weaponless at Ragnarök; subject of the most widespread male fertility cult in pre-Christian Scandinavia |
-| Freyja | *Völuspá*; *Lokasenna*; Prose Edda (*Gylfaginning*) | Goddess of love, war, seiðr, gold, and the honoured dead | Receives half of all battle-slain in Fólkvangr; owner of the falcon-feather cloak and Brísingamen; taught seiðr to Odin; wept gold tears for Óðr |
-| Njörðr | *Lokasenna*; Prose Edda (*Gylfaginning*) | God of sea, wind, fishing, and maritime wealth | Father of Freyr and Freyja; married Skaði but they separated due to incompatible preferences (sea vs mountain); patron of sailors and merchants |
-| Skaði | Prose Edda (*Gylfaginning*, *Skáldskaparmál*) | Goddess of winter, mountains, skiing, and hunting | Jötunn by birth (daughter of Þjazi); came to the divine sphere through compensation after her father's death; married Njörðr |
+| Njörðr | *Gylfaginning*; *Skáldskaparmál* (Prose Edda); *Vafþrúðnismál* (Poetic Edda) | God of sea, winds, and coastal wealth; father of Freyr and Freyja | Sent as hostage to Æsir; briefly married Skaði (giantess), but the marriage ended over incompatible home preferences — mountain vs. coast |
+| Freyr | *Völuspá*; *Gylfaginning*; *Skírnismál* (Poetic Edda) | God of fertility, kingship, sunshine, and prosperity; received Álfheimr as a tooth-gift | "Foremost among the gods, hated by none" (*Gylfaginning*); surrendered his magical sword to win Gerðr; fated to fall to Surtr at Ragnarök |
+| Freyja | *Gylfaginning*; *Skáldskaparmál*; *Völuspá* (as Gullveig/Heiðr); *Lokasenna* | Goddess of love, fertility, seiðr, and war; receives half of all battle-slain | Foremost seiðr practitioner in the Nine Worlds; the other half of the battle-slain go to Odin; her arrival in Ásgarðr as "Gullveig" is identified by scholars as the event that triggered the Æsir-Vanir War |
+| Gullveig / Heiðr | *Völuspá*, stanzas 21–22 | Disputed figure whose burning by the Æsir ignited the war | Burned three times; reborn each time; widely identified with Freyja by scholars based on context, but not confirmed in any primary source |
 
 ## Individual distinctions — Primary sources
 
 **Freyr**
-- `[Fault]` Weaponless at Ragnarök — surrendered his self-wielding sword to Skírnir to win Gerðr; has no weapon at the final battle and falls to Surtr as a direct consequence — *Skírnismál*
-- `[Specialization-major]` Harvest sovereignty — his divine presence directly governs agricultural fertility across Midgard; attested by Ynglinga Saga cult accounts
+- `[Modifier]` Loss of magical sword — surrendered to Skírnir as payment for wooing Gerðr on his behalf; the sword could fight giants of its own accord — *Skírnismál* (Poetic Edda)
+- `[Fault]` Ragnarök fate — without his sword, Freyr fights Surtr with only a deer antler and falls — *Gylfaginning*; *Vafþrúðnismál*
 
 **Freyja**
-- `[Specialization-signature]` Seiðr — originated and mastered the most powerful fate-manipulation and spirit-travel magic in Norse cosmology; taught it to Odin after the war
-- `[Specialization-minor]` Fólkvangr — independently receives and governs half of all battle-slain, equal in scale to Odin's Valhöll, without being subordinate to him
-
-**Skaði**
-- `[Modifier]` Cross-faction status — Jötunn by birth, granted standing among the divine community as compensation for Þjazi's death; her presence among the Vanir is a negotiated settlement, not an intrinsic characteristic — *Prose Edda (Gylfaginning)*
+- `[Specialization-signature]` Seiðr mastery beyond racial baseline — she is described as the foremost seiðr practitioner among all divine beings, not merely among the Vanir, and personally taught the art to Odin — *Ynglinga saga*
+- `[Characteristic]` Dual claim on the battle-slain — Freyja takes half of all warriors killed in battle to Fólkvangr; the other half go to Odin's Valhöll. No other deity shares this prerogative with Odin — *Gylfaginning*
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed
+
 ### Primary sources
 
-- Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá*, *Skírnismál*, *Lokasenna*, *Vafþrúðnismál*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
-- Ynglinga Saga, in Heimskringla (Snorri Sturluson, c. 1220)
-- Landnámabók (anonymous, c. 1200)
-- Íslendingabók (Ari Þorgilsson, c. 1125)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — *Völuspá*, *Vafþrúðnismál*, *Skírnismál*, *Lokasenna*
+- `[PD]` Prose Edda — *Gylfaginning*, *Skáldskaparmál* (Snorri Sturluson, c. 1220)
+- `[PD]` Heimskringla — *Ynglinga saga* (Snorri Sturluson, c. 1220)
 
 ### Secondary sources
 
-- Vanir — Wikipedia
-- World History Encyclopedia — Freyr, Freyja, Njörðr
+- `[CC-BY-SA]` Vanir — Wikipedia

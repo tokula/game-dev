@@ -4,7 +4,7 @@
 
 ## Command hierarchy
 
-Raganos gather collectively under the authority of the goddess Ragana ([ragana_baltic.md](ragana_baltic.md)) at Winter Solstice. No internal hierarchy among the raganos themselves is documented in primary sources — they appear to function as a coordinated collective under the goddess rather than a ranked organization. Individual raganos operate autonomously within their local territory between gatherings. The male variant (*raganius / ragainis*) exists in folk sources but holds no documented authority over female raganos.
+Raganos gather collectively under the authority of the goddess Ragana ([deities/ragana_baltic.md](../deities/ragana_baltic.md)) at Winter Solstice. No internal hierarchy among the raganos themselves is documented in primary sources — they appear to function as a coordinated collective under the goddess rather than a ranked organization. Individual raganos operate autonomously within their local territory between gatherings. The male variant (*raganius / ragainis*) exists in folk sources but holds no documented authority over female raganos.
 
 **Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
 
@@ -26,16 +26,17 @@ Folk sources consistently describe raganos as a type rather than naming individu
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
 ### Primary sources
 
-- Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
-- Lithuanian and Latvian *pasakos / pasakas* (folk tales), oral tradition
-- Krišjānis Barons, *Latvju dainas*, 1894–1915
-- Andrejs Pumpurs, *Lāčplēsis*, 1888 — PD
-- 16th–18th century Christian missionary and trial records (use with caution — hostile framing)
+- `[PD]` Lithuanian and Latvian *dainos* (folk songs), oral tradition — compiled 19th century
+- `[PD]` Lithuanian and Latvian *pasakos / pasakas* (folk tales), oral tradition
+- `[PD]` Krišjānis Barons, *Latvju dainas*, 1894–1915
+- `[PD]` Andrejs Pumpurs, *Lāčplēsis*, 1888
+- `[PD]` 16th–18th century Christian missionary and trial records (use with caution — hostile framing)
 
 ### Secondary sources
 
-- Wikipedia: "Ragana" — https://en.wikipedia.org/wiki/Ragana
-- Bernd Gliwa, "Witches in Baltic Fairy Tales," *Onomasiology Online* 4, 2003 — freely accessible
-- Medievalists.net: "Witches in Baltic Fairy Tales" — https://www.medievalists.net/2011/01/witches-in-baltic-fairy-tales/
+- `[CC-BY-SA]` Wikipedia: "Baltic mythology" (Ragana covered therein) — https://en.wikipedia.org/wiki/Baltic_mythology
+- `[CC-BY-SA]` Wiktionary: "ragana" (etymology) — https://en.wiktionary.org/wiki/ragana

@@ -10,6 +10,8 @@
 
 **Biological Form:** {One of: Humanoid, Beastfolk, Elemental, Spirit, Giantkin, Undead, Construct/Artificial, Plantfolk, Aberration/Eldritch}
 
+**Entity type:** {Race/Species | Singular Deity | Cosmological Personification | Primordial Being}
+
 **Gender(s):** {Female | Male | Male and Female | Sexless / N/A | other. Capture both biological sex and social gender expression; if they align write one value. Game-variant divergences go in Game depictions only — do not alter this field.}
 
 **Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable.}

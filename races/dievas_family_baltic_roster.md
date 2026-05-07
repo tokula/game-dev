@@ -1,51 +1,55 @@
-# Dievas-Family Deities — Baltic Roster
+# Dievas Family — Baltic Roster
 
 > See also: [dievas_family_baltic.md](dievas_family_baltic.md)
 
 ## Command hierarchy
 
-Dievas (sky god, ruler of all gods) → Saulė (sun goddess) and Mėnulis (moon god) as co-governing celestial powers → Dievo sūneliai / Ašvieniai (divine twins, sons of Dievas) and Saulės dukterys (daughters of the sun — Austenė, Vakarinė) as subordinate celestial beings
+Dievas (Dievs) holds supreme authority as sky-father and ruler of cosmic order. His sons — the Dievo sūneliai / Dieva dēli, also called Ašvieniai in their horse form — serve as celestial laborers and protectors, pulling Saulė's chariot and maintaining the heavenly farmstead. Saulė governs her own parallel household but cooperates closely with the Dievas family; her daughters (Saulės dukros / Saules meitas) interact with the sons as companions. Aušrinė, daughter of Saulė, serves as dawn herald and fire-kindler. Mėnulis (Mēness) governs the night sky independently but is bound to the family through marriage to Saulė.
 
-The family has no strict military hierarchy; relationships are dynastic and relational rather than ranked by power. Dievas holds ultimate authority but rarely exercises it actively — Perkūnas (thunder god, closely allied) is the primary active enforcer of celestial order on the family's behalf.
+Perkūnas acts as enforcer of divine law with delegated authority from Dievas — not a subordinate, but an ally who punishes divine misconduct, including within the Dievas family itself.
 
-**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely.
+No formal rank structure among the sons is attested in primary sources; they function as a pair or collective.
+
+**Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
 
 ## Named individuals — Primary sources
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Dievas / Dievs | *Dainos*; Łasicki (1582) | Sky god; ruler of all gods; lord of light, moral order, and prosperity | Sometimes visits mortals as an old man or travelling nobleman; passive in conflicts with Velnias |
-| Saulė | Lithuanian *dainos*; Latvian *dainas* | Sun goddess; mother figure; keeper of the cosmic hearth and the amber sea | Weeps at sunset; her tears become amber; dances at the summer solstice; associated with healing and comfort |
-| Mėnulis / Mēness | Lithuanian *dainos*; Latvian *dainas* | Moon god; consort of Saulė; keeper of night and the calendar | Permanently estranged from Saulė for infidelity; his waxing and waning reflects the mythological punishment |
-| Dievo sūneliai / Dieva dēli (the Divine Twins) | *Dainos*; Latvian *dainas*; Britannica | Sons of Dievas; rescue figures; associated with dawn and dusk | Also called Ašvieniai; parallel to Vedic Aśvins and Greek Dioscuri; attested rescuing Saulė's crown from the sea at sunset |
-| Austenė | Lithuanian *dainos* | Daughter of Saulė; morning star | Tends Saulė's horse and prepares her departure at dawn |
-| Vakarinė | Lithuanian *dainos* | Daughter of Saulė; evening star | Prepares Saulė's bed and lights the hearth at sunset |
+| Dievas (Lith.) / Dievs (Latv.) | Latvju dainas; Lithuanian dainos; Łasicki | Supreme sky-father; patriarch of the celestial household | Dwells on a silver mountain; maintains cosmic law; rarely intervenes directly |
+| Dievo sūneliai (Lith.) / Dieva dēli (Latv.) | Latvju dainas; Lithuanian dainos | Heavenly Twins; sons of Dievas | Collective; individual names not attested; known also as Ašvieniai in horse form |
+| Ašvieniai | Lithuanian folk tradition; Lithuanian dainos | Divine horse twins; equine manifestation of the Dievo sūneliai | Cognates of Vedic Ashvins and Greek Dioscuri; appear as white horses with golden manes |
+| Saulė (Lith.) / Saule (Latv.) | Latvju dainas; Lithuanian dainos; Rėza 1825 | Sun goddess; ruler of the adjacent celestial farmstead | Married to Mėnulis; rescued from the sea by the Dievo sūneliai |
+| Aušrinė | Lithuanian dainos; Rėza 1825 | Morning star; daughter of Saulė; dawn herald | Kindles fire for Saulė each morning; appears as star, maiden, or mare |
+| Mėnulis (Lith.) / Mēness (Latv.) | Latvju dainas; Lithuanian dainos | Moon god; husband of Saulė | Infidelity with Aušrinė led to disfigurement by Perkūnas; explains lunar phases |
 
 ## Individual distinctions — Primary sources
 
-**Saulė**
-- `[Specialization-major]` Her weeping transforms into amber — a natural phenomenon (Baltic amber deposits) mythologized as divine grief; no other member of the family holds this creative mourning power
-- `[Characteristic]` Wears a wreath of rue; her cosmic dress is woven from rays of light; these attributes belong to her alone among the celestial family
+**Dievas**
+- `[Specialization-signature]` Supreme cosmic authority — sole arbiter of celestial order above all other Baltic deities
+- `[Characteristic]` Non-interventionist — holds supreme power but governs through established order rather than direct action; delegates enforcement to Perkūnas
+
+**Aušrinė**
+- `[Specialization-minor]` Liminal triple form — can appear as a star in the sky, a maiden on land, or a mare in the sea; the only family member who crosses all three cosmic realms in this way
+- `[Characteristic]` Herald role — kindles the dawn fire and opens the sky gates for Saulė each morning
 
 **Mėnulis**
-- `[Modifier]` His perpetual waxing and waning is a divine consequence of marital infidelity — *imposed condition; origin: mythological divine punishment, folk tradition*
-
-**Dievo sūneliai**
-- `[Specialization-major]` Explicitly attested rescuing Saulė's crown from the sea at dusk — a celestial intervention with no mortal parallel
-- `[Characteristic]` Associated with the morning and evening stars; their daily appearances signal cosmic transitions
+- `[Modifier]` Lunar disfigurement — face split or marked by Perkūnas as punishment for infidelity with Aušrinė; the visible phases and markings of the moon are attributed to this punishment — *attested in Lithuanian dainos and Latvju dainas*
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
-- Matthäus Prätorius, *Deliciae Prussicae* (c. 1690s)
-- Krišjānis Barons, *Latvju dainas* (1894–1915, 6 vols.)
-- Lithuanian *dainos*, oral tradition — compiled 19th century
+- `[PD]` De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum, Jan Łasicki, 1582 (published 1615)
+- `[PD]` Deliciae Prussicae oder Preussische Schaubühne, Matthäus Prätorius, c. 1690s
+- `[PD]` Dainos oder Litthauische Volkslieder, L. J. Rėza (Rhesa), 1825 — https://archive.org/details/RhesaDainas1825
+- `[PD]` Latvju dainas (6 vols.), Krišjānis Barons (compiler), 1894–1915
+- `[PD]` Lithuanian dainos (folk songs), oral tradition compiled 19th century
 
 ### Secondary sources
 
-- Wikipedia: "Dievas" — https://en.wikipedia.org/wiki/Dievas
-- Wikipedia: "Dieva Dēli" — https://en.wikipedia.org/wiki/Dieva_D%C4%93li
-- Britannica: "Dievs" — https://www.britannica.com/topic/Dievs
-- Britannica: "Dieva dēli" — https://www.britannica.com/topic/Dieva-deli
+- `[CC-BY-SA]` Wikipedia — Baltic mythology articles, https://en.wikipedia.org/wiki/Baltic_mythology

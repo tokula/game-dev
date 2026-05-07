@@ -10,6 +10,8 @@
 
 **Biological Form:** Humanoid (variable — some aspects of Giantkin and Elemental depending on lineage)
 
+**Entity type:** Race/Species
+
 **Gender(s):** Male and Female — giantesses (*gýgr*, singular; *gýgjar*, plural) are prominent throughout primary sources as independent agents, mothers of divine children, and possessors of cosmological wisdom.
 
 **Common archetype/role in fiction:** Warrior culture, Corrupted/exiled
@@ -90,4 +92,3 @@ The primal race of Norse cosmology — predating the gods themselves, embodying 
 
 - `[CC-BY-SA]` Jötunn — Wikipedia
 - `[CC-BY-SA]` List of jötnar in Norse mythology — Wikipedia
-- `[PD*]` World History Encyclopedia — Norse Giants, Surtr, Ragnarök

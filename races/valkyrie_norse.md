@@ -1,104 +1,91 @@
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
 # Valkyrie
 
 > See also: [valkyrie_norse_roster.md](valkyrie_norse_roster.md)
 
-**Native name / Etymology:** Valkyrja (Old Norse, singular), Valkyrjur (plural); from *valr* "the battlefield slain" + *kjósa* "to choose" — literally "chooser of the slain"
+**Native name / Etymology:** Valkyrja (Old Norse, plural *Valkyrjur*); from *valr* "the battle-slain" + *kjósa* "to choose" — "choosers of the slain". Cognate with Old English *wælcyrge*.
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220); also Völsunga saga and Njáls saga (both c. 13th century)
+**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century); Prose Edda, *Gylfaginning*, Snorri Sturluson (c. 1220); *Darraðarljóð* (Njáls saga, anonymous, c. 13th century)
 
-**Biological Form:** Spirit
+**Biological Form:** Humanoid
 
-**Gender(s):** Female — consistently female in all primary sources, both biologically and socially
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Divine servants, Warrior culture
+**Gender(s):** Female — all named and described Valkyries in primary sources are female.
+
+**Common archetype/role in fiction:** Warrior culture, Divine servants
 
 ## One-line lore summary
 
-Female divine figures serving Odin who ride over battlefields choosing which warriors will die, then escort the chosen slain to Valhöll to serve as einherjar.
+Odin's battle-maidens who ride through the sky, determine which warriors fall in combat, and escort the chosen dead to Valhöll — where they serve them mead until Ragnarök demands their hosts.
 
 ## Specializations
 
-- `[signature]` **Fate-weaving** — In Darraðarljóð, twelve Valkyries weave the outcome of a battle on a loom strung with entrails and weighted with severed heads. The battle's result is not predicted but fixed by their weaving; no mortal agency can override it.
-- `[major]` **Sovereign selection of the slain** — Valkyries choose which individual warriors fall on a given battlefield. The choice is active and deliberate, not passive. Brynhildr's exile proves the selection carries real consequences for its maker.
+- `[major]` **Fate-assignment in battle** — Valkyries do not merely collect the dead after combat; they actively determine, under Odin's direction, which warriors die in a given battle before or during the fighting; this is a pre-combat fate-setting function, not post-hoc selection — *Völuspá*; *Grímnismál*; *Darraðarljóð*
+- `[minor]` **Shapeshifting into bird form** — some Valkyries can take swan or raven form; attested in *Völundarkviða* (three Valkyries arrive as swan-maidens and shed their feather-cloaks) and implied in raven associations elsewhere in saga tradition
 
 ## Strengths
 
-- Ride supernatural horses through air, over sea, and across the sky
-- Serve as psychopomps — they guide chosen souls to Valhöll and cannot be intercepted
-- Function as divine intermediaries between the battlefield and Odin's hall
-- Some individuals possess formidable personal warrior skill (Brynhildr, Sigrún)
+- Ride through air and over sea on divine horses, unimpeded by mortal terrain or weather
+- Hold direct authority over battlefield death under Odin's command — their choices determine the outcome of wars
+- Some possess prophetic and runic knowledge: Sigrdrífa teaches Sigurðr victory-runes, ale-runes, birth-runes, and wave-runes in *Sigrdrífumál*
 
 ## Characteristics
 
-- Exclusively female in all primary sources
-- Typically armoured with spears and shields; depicted riding in groups of six, nine, or thirteen
-- Act as extensions of Odin's will — their selection of the slain is his selection
-- Origin varies by individual: some are divine-born, some are of Jötunn lineage, some are mortal women elevated to the role
-- Associated with both ravens (battlefield scavengers) and swans (swan-maiden transformation appears in later sources)
+- Serve directly under Odin's command; their battlefield function is an extension of his will and his preparation for Ragnarök
+- Serve mead to the Einherjar in Valhöll after escorting the chosen dead — a dual role as fate-agents and cup-bearers
+- Some are of mortal or semi-divine origin (daughters of kings) elevated to the role; others appear to be intrinsically divine; primary sources are inconsistent on this point
+- Named in large numbers across the Eddas: over twenty individual names are attested (see Roster)
+- In *Darraðarljóð* (Njáls saga), twelve Valkyries are seen weaving battle-fate on a loom strung with human intestines, weighted with human skulls, and threaded with human entrails — a vivid depiction of fate-work as active craft
 
 ## Faults / Weaknesses
 
-- Subordinate to Odin — a Valkyrie who defies his will can be stripped of her status, powers, and immortality
-- No independent authority over who lives or dies; their choices must align with Odin's design
+- Subject to Odin's authority in a way that exceeds ordinary divine subordination: a Valkyrie who assigns victory contrary to Odin's will is punished directly with loss of immortality and enforced sleep — unlike the Æsir, who can at times argue or deceive Odin, a defiant Valkyrie faces immediate sanction (*Sigrdrífumál*)
+- Capable of romantic attachment to specific mortal warriors; this creates an intrinsic tension with their function as impartial fate-assigners; in attested cases it has led directly to defying Odin — *Sigrdrífumál*; *Helgakviða Hundingsbana I*
 
 ## Modifiers
 
-- **Odin's compulsion** — Valkyries choose the slain according to Odin's will, not their own preference. Their individual judgment operates only within the bounds he permits. — *Gylfaginning, Prose Edda*
-- **Exile and mortality** — A Valkyrie who selects the wrong battle-victor is punished by exile from Valhöll and loss of her powers; she may be condemned to mortal life until rescued. Brynhildr is the primary attested case. — *Sigrdrífumál, Poetic Edda; Völsunga saga*
+- **Odin's sleep-punishment** — a Valkyrie who assigns victory contrary to Odin's will is put into an enchanted sleep, surrounded by a wall of fire, and stripped of divine status until a mortal hero can reach her; Sigrdrífa/Brynhildr's case in *Sigrdrífumál* is the primary attestation; the punishment is imposed by Odin and in principle reversible by a hero's intervention — *Sigrdrífumál* (Poetic Edda)
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Odin (Æsir) | Superior | Valkyries act under Odin's direct authority as agents of his battlefield will | *Gylfaginning*, Prose Edda; *Völuspá* |
-| Einherjar | Charge | The chosen slain are escorted to Valhöll and served mead by Valkyries; they prepare the einherjar for Ragnarök | *Gylfaginning*, Prose Edda |
-| Æsir | Ally | Valkyries serve the gods' war-preparation for Ragnarök; their selection of the finest warriors builds Odin's army | *Gylfaginning* |
+| Odin / Æsir | Superior | Valkyries operate under Odin's direct command; they choose the slain on his behalf and answer to him for their decisions; the punishment of Sigrdrífa demonstrates the nature of this authority | *Grímnismál*; *Gylfaginning*; *Sigrdrífumál* |
+| Einherjar | Charge | Valkyries select warriors on the battlefield, escort them to Valhöll, and serve them mead; the Einherjar are the direct product and ongoing responsibility of the Valkyrie function | *Grímnismál*; *Gylfaginning* |
 
 ## Ecology
 
-**Prey:** N/A — divine beings with no documented food chain
+**Prey:** N/A — divine servants; no food chain role attested.
 
-**Predators:** N/A — divine beings not subject to natural predation; their primary vulnerability is Odin's authority, not any external threat
+**Predators:** N/A — no natural predators attested; divine status places them outside the mortal food chain.
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Norse oral tradition, pre-Christian Scandinavia — unambiguously public domain
-- *Key source texts:* Poetic Edda, anonymous, c. 10th–13th century — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Völsunga saga, anonymous, c. 13th century — PD; Njáls saga, anonymous, c. 13th century — PD
-- *Protected derivatives:* God of War series (Santa Monica Studio / Sony Interactive Entertainment, 2018+) — copyright and TM protected; Marvel's Valkyrie character (Marvel Comics / Marvel Studios) — copyright and TM protected
+- *Source tradition:* Norse oral and literary tradition, pre-Christian Scandinavia — unambiguously public domain
+- *Key source texts:* Poetic Edda (anonymous, c. 10th–13th century) — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Njáls saga (anonymous, c. 13th century) — PD
+- *Protected derivatives:* VALKYRIE PROFILE (Square Enix, US TM reg. 2514477, filed 2000) and VALKYRIE ELYSIUM (Square Enix) are registered compound marks for specific game titles — avoid using those exact title strings. The standalone word "Valkyrie" is not trademarked as a standalone game term.
 
-**Notable trademarks to avoid:** "Valkyrie" as a race name is not exclusively trademarked; the name appears widely across gaming and fiction. Individual character designs, names, and story-specific portrayals from the above properties are protected.
+**Notable trademarks to avoid:** "VALKYRIE PROFILE" (Square Enix, TM reg. 2514477); "VALKYRIE ELYSIUM" (Square Enix). Do not reproduce the specific game titles, character designs, or adapted lore from these properties.
 
-> **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
-
-## Game depictions (variants from the source mythology)
-
-### God of War (2018–2022)
-Valkyries are depicted as corrupted, imprisoned warrior-beings that serve as elite boss encounters. Their role as Odin's agents is retained but twisted: Odin has imprisoned them and corrupted their purpose. This diverges from primary sources, which show no imprisonment or corruption narrative.
-
-### Marvel Cinematic Universe / Marvel Comics
-Valkyrior are a warrior caste of Asgardian women, not exclusively divine agents selecting the slain. Their battlefield role is retained but divorced from the fate-weaving and soul-escorting functions that define them in primary sources.
+> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
 ---
 
-> **Note on sources:** The term *valkyrja* in very early skaldic poetry may refer simply to a type of supernatural battlefield spirit (similar to the later *dísir* or *fylgjur*) without the developed Valhöll-serving role. The fully elaborated function — selection, escort, mead-service in Valhöll, role in Ragnarök preparation — is most clearly set out in Gylfaginning and the named Eddic poems. Some scholars argue the swan-maiden tradition (Valkyries removing swan cloaks to become mortal) is a later Norse-Celtic syncretism rather than original Norse myth.
+> **Note on sources:** Skuld is named both as one of the three great Norns in *Völuspá* stanza 20 and as a Valkyrie in *Grímnismál* stanza 36. This double attestation is genuine. Some scholars interpret it as reflecting a functional identity between Norns and Valkyries — both assign fate, Norns at birth and Valkyries on the battlefield — others see loose oral-tradition categorisation. Both this file and [nornir_norse.md](nornir_norse.md) flag the overlap. | The *Darraðarljóð* weaving scene (Njáls saga ch. 157) depicts fate-working by Valkyries using a loom — structurally parallel to the Norns' thread-spinning at Urðarbrunnr — which further supports the scholarly view that the two groups share an underlying fate-function.
 
 ## Sources
 
 ### Primary sources
 
-- `[PD]` *Völuspá*, Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — six Valkyries named; cosmological role in the cycle leading to Ragnarök
-- `[PD]` *Grímnismál*, Poetic Edda — thirteen Valkyries listed by name
-- `[PD]` *Darraðarljóð*, embedded in Njáls saga (c. 13th century) — six Valkyries weave the fate of the Battle of Clontarf
-- `[PD]` *Helgakviða Hundingsbana I & II*, Poetic Edda — Sigrún featured as a named Valkyrie
-- `[PD]` *Sigrdrífumál*, Poetic Edda — Sigrdrífa (Brynhildr) as exiled Valkyrie; rune-wisdom
-- `[PD]` *Nafnaþulur*, Skáldskaparmál, Prose Edda, Snorri Sturluson (c. 1220) — extended name list
-- `[PD]` *Gylfaginning*, Prose Edda — Valkyrie function in Valhöll described
-- `[PD]` *Völsunga saga* (anonymous, c. 13th century) — Brynhildr's history as exiled Valkyrie
+- `[PD]` Poetic Edda — *Völuspá*, *Grímnismál*, *Sigrdrífumál*, *Völundarkviða*, *Helgakviða Hundingsbana I* (anonymous, Codex Regius, c. 10th–13th century)
+- `[PD]` Njáls saga — *Darraðarljóð* (anonymous, c. 13th century)
+- `[PD]` Prose Edda — *Gylfaginning* (Snorri Sturluson, c. 1220)
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Wikipedia: "Valkyrie" — overview with primary source citations
-- `[PD*]` World History Encyclopedia: "Valkyrie"
+- `[CC-BY-SA]` Wikipedia — Valkyrie article

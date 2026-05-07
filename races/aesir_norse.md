@@ -1,100 +1,100 @@
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
 # Æsir
 
 > See also: [aesir_norse_roster.md](aesir_norse_roster.md)
 
-**Native name / Etymology:** Æsir (Old Norse: singular *áss* masc., *ásynja* fem.; etymology disputed — possibly from Proto-Germanic *ansuz* "life/vitality" or from Proto-Indo-European *h₂ems-u-* cognate with Sanskrit *asura* "lord/god"; Snorri Sturluson's "men of Asia" derivation is rejected by modern scholarship)
+**Native name / Etymology:** Æsir (Old Norse: plural; singular Áss, feminine Ásynja); from Proto-Germanic *\*ansiwaz*, possibly related to a root meaning "beam" or "vital breath/spirit" — the gods as structural supports of the cosmos. Exact etymology disputed. The feminine collective is Ásynjur.
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 800–1270 CE) and Prose Edda, Snorri Sturluson (c. 1220)
+**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220); Heimskringla — Ynglinga saga, Snorri Sturluson (c. 1220)
 
 **Biological Form:** Humanoid
 
-**Gender(s):** Male and Female — Both biologically and socially gendered; male members (Æsir) and female members (Ásynjur) hold distinct titles and domains but neither is subordinate in authority. Loki demonstrates shapeshifting between biological sexes across multiple narratives, reflecting Norse cosmological ideas about gender fluidity.
+**Entity type:** Race/Species
+
+**Gender(s):** Male and Female — male gods are Æsir (singular Áss); female gods are Ásynjur (singular Ásynja). Both genders are named and prominent throughout primary sources.
 
 **Common archetype/role in fiction:** Warrior culture, Divine servants
 
 ## One-line lore summary
 
-The principal pantheon of Norse gods — immortal only so long as Iðunn's golden apples are safe, bound by fate they cannot escape, yet defiant unto Ragnarök.
+The ruling divine race of Ásgarðr, who maintain cosmic order and hold authority over the Nine Worlds — bound by fate to fall collectively at Ragnarök and, in part, to be reborn in the world that follows.
 
 ## Specializations
 
-- `[signature]` **Conditional immortality via divine sustenance** — Consuming Iðunn's golden apples and Heiðrún's mead suspends aging entirely. Without them the gods age and physically collapse at normal mortal rate; no training or lineage in any other race could replicate this effect.
-- `[major]` **Authority over cosmic order** — The Æsir collectively uphold the structure of the Nine Realms, restraining the entropy embodied by the Jötnar. Their defeat at Ragnarök corresponds directly to the world's dissolution.
-- `[major]` **Prophetic access** — Æsir can receive or actively seek foreknowledge of events (including the apocalypse) through völvur, Mímir's well, runes, and seiðr. This exceeds anything achievable by mortal divination.
+- `[signature]` **Immortality through Iðunn's apples** — the Æsir do not age as long as they consume Iðunn's golden apples. Without them they visibly grey and weaken, as demonstrated when Þjazi abducted Iðunn and the gods began to fail. This is a biological dependency, not innate immortality — *Skáldskaparmál* (Prose Edda)
+- `[major]` **Seiðr and galdr magic** — several Æsir command seiðr (shamanic/fate-magic) and galdr (runic/incantation magic), enabling prophecy, shapeshifting, mind-influence, and manipulation of fate. Odin hung on Yggdrasill nine nights to obtain the runes — *Hávamál*
+- `[major]` **Shapeshifting** — attested for multiple Æsir: Odin takes eagle, snake, and wanderer forms; Loki shifts into fly, salmon, mare, and woman. Not universal, but common enough across primary sources to qualify as a major racial specialization — *Gylfaginning*; *Lokasenna*
 
 ## Strengths
 
-- Physically and martially superior to mortals and most beings in the Nine Realms
-- Resilient to wounds that would kill mortals, though not invulnerable
-- Collective wisdom accumulated across eons, with direct knowledge of cosmic systems
-- Individual command over natural phenomena tied to their domain (storm, thunder, sun, fertility)
+- Physical capability surpassing ordinary humans; the strongest Æsir (Thor, Víðarr) can overcome Jötnar in direct combat
+- Command over cosmological domains: Odin over war and death, Thor over storms and protection, Týr over law and justice, Heimdall over vigilance and threshold-keeping
+- Access to Valhöll and the Einherjar — a standing host of the chosen dead, trained daily for Ragnarök
+- Foreknowledge through seiðr, the Norns, and counsel with Mímir's preserved head
 
 ## Characteristics
 
-- Anthropomorphic in form — behave, feud, celebrate, and grieve like humans but on a divine scale
-- Long-lived community with deep personal histories, alliances, and enmities stretching back to creation
-- Consume food and drink as a social and ritual act, not merely for survival; feasting is sacred and bond-forming
-- Bound by sworn oaths that carry cosmic weight and cannot be broken without consequence
-- Reside in Ásgarðr, connected to the Nine Realms via Yggdrasil and the Bifröst bridge
+- Bound by wyrd (fate): even the gods cannot escape the fated sequence culminating in Ragnarök; Odin spends his existence gathering warriors precisely because he knows the outcome
+- Extensive kinship with the Jötnar — Odin's mother is the giantess Bestla; Thor's mother is Jörð (Earth, a Jötunn personification); Loki is Jötunn-born and counted Æsir by oath of blood-brotherhood with Odin
+- After the Æsir–Vanir War, three Vanir — Njörðr, Freyr, and Freyja — were exchanged as hostages and are counted among the Æsir throughout primary sources; the boundary between the two divine tribes is porous
+- Hold Ásgarðr as their stronghold, connected to other realms via Yggdrasill and Bifröst
+- Governed by informal assembly (þing) where Odin typically holds highest authority, though others act independently
 
 ## Faults / Weaknesses
 
-- Mortal without Iðunn's apples — rapid aging and physical decline begins immediately upon deprivation (demonstrated when Þjazi kidnaps Iðunn)
-- Can be permanently killed — Baldr's death and the prophesied Ragnarök deaths confirm individual mortality
-- Weaker in seiðr magic than the Vanir; martial power is the Æsir's primary mode
-- Bound by fate — the Norns' decree and the prophecy of Ragnarök cannot be averted, only faced
+- Not intrinsically immortal — dependent on Iðunn's apples; their apparent agelessness is a maintained condition, not an absolute property
+- Bound by oaths; an Æsir who breaks a sworn oath suffers divine disfavour and loss of standing
+- Susceptible to trickery: Útgarða-Loki's illusions defeated Thor and Loki; Loki engineered Baldr's death through Höðr; oath-binding has been exploited against the gods repeatedly
+- Fated to die at Ragnarök: Odin falls to Fenrir; Thor and Jörmungandr kill each other; Freyr falls to Surtr (having given away his sword); Týr and Garmr kill each other
 
 ## Modifiers
 
-- **Bound by Ragnarök** — a cosmological prophecy, not a personal curse; cannot be lifted by any being within the Nine Realms. All major Æsir face fated deaths (Odin to Fenrir, Thor to Jörmungandr, Freyr weaponless to Surtr). — *Völuspá; cosmological law of Norse myth*
-- **Oath-binding** — sworn oaths between Æsir and any other being carry magical compulsion; breaking them causes cosmic damage and opens the oath-breaker to retribution. — *established across multiple Eddic narratives*
+- **Baldr's conditional invulnerability** — Frigg extracted oaths of protection from every thing in the world save the mistletoe, which she judged too young to swear. Loki exploited the gap to orchestrate Baldr's death via Höðr. Applies to Baldr specifically, not all Æsir — *Gylfaginning* (Prose Edda)
+- **Loki's blood-brotherhood oath** — Odin and Loki swore blood-brotherhood, binding the Æsir to accept Loki among them despite his Jötunn origin. This imposed social standing persists until Loki's crimes against the Æsir dissolve it — *Lokasenna* (Poetic Edda)
 
 ## Allies / Rivals / Enemies
 
-Source: primary sources and original canon only.
-
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Vanir | Ally | Former enemies; integrated after the Æsir–Vanir War via hostage exchange (Freyr, Freyja, Njörðr to Æsir; Hœnir, Mímr to Vanir). Now treated as a single divine community. | *Völuspá*; Prose Edda (*Gylfaginning*) |
-| Jötnar (Giants) | Enemy | Perpetual antagonism; the Æsir hold chaos at bay against the giants. Paradoxically, individual Æsir also intermarry with Jötnar. At Ragnarök the giants prevail. | *Völuspá*; *Þrymskviða*; Prose Edda (*Gylfaginning*) |
-| Dwarves (Dvergr) | Ally | Craftsmen of the gods' greatest artifacts (Mjölnir, Gungnir, Gleipnir, Brisingamen); generally aligned with the Æsir against chaos. | Prose Edda (*Skáldskaparmál*) |
-| Álfar (Light Elves) | Ally | Ljósálfar are depicted as close to divine; Freyr rules Álfheimr. Relationship is cooperative. | Prose Edda (*Gylfaginning*) |
-| Humans (Midgard) | Charge | Mortals worship and sacrifice to the Æsir; the gods reciprocate with blessings. The Æsir actively intervene in human affairs. | Poetic Edda; Prose Edda |
-| Norns | Superior | The three Norns (Urðr, Verðandi, Skuld) weave fate that even the Æsir cannot override. | *Völuspá*; Prose Edda (*Gylfaginning*) |
+| Vanir | Ally | Post-war treaty sealed by hostage exchange (Njörðr, Freyr, Freyja to Æsir; Hœnir and Mímir to Vanir); subsequent cooperation attested throughout primary sources | *Völuspá*; *Gylfaginning* |
+| Jötnar | Enemy | Structural cosmological opposition; individual alliances and marriages coexist with collective enmity — the Jötnar bring about the Æsir's end at Ragnarök | *Völuspá*; *Gylfaginning* |
+| Einherjar | Charge | The warrior-dead chosen by the Valkyries, gathered in Valhöll under Odin's authority, and trained to fight alongside the Æsir at Ragnarök | *Grímnismál*; *Gylfaginning* |
+| Humans (Miðgarðr) | Charge | The Æsir created Ask and Embla (first humans) and oversee Midgard through Heimdall's watch and Thor's active protection of mankind against Jötnar | *Völuspá*; *Gylfaginning* |
+| Dvergar | Superior | The Æsir commission the Dvergar's craft and at times compel their work; the dwarves forged the Æsir's greatest weapons and are structurally subordinate to divine authority | *Gylfaginning*; *Skáldskaparmál* |
 
 ## Ecology
 
-**Prey:** Sæhrímnir — a divine boar slaughtered nightly in Valhöll by the cook Andhrímnir and miraculously reborn each morning; supplemented by mead from Heiðrún (the goat who feeds on Yggdrasil's leaves). Hunting for sport is also implied by the domains of Ullr and others.
+**Prey:** N/A — divine beings; the Æsir feast at Valhöll (Sæhrímnir, the boar slaughtered and restored nightly) and drink mead, but this is ritual sustenance rather than predation in a food-chain sense.
 
-**Predators:** The Jötnar are the existential predator of the Æsir — at Ragnarök, Fenrir swallows Odin, Jörmungandr poisons Thor, and Surtr burns the worlds. The loss of Iðunn (through kidnapping or death) functions as a biological predator through deprivation, causing immediate age-collapse.
+**Predators:** No natural predators. Existential threats are cosmological: Jötnar collectively at Ragnarök; Fenrir (Odin's fate), Jörmungandr (Thor's fate), Surtr (Freyr's fate), and Garmr (Týr's fate) each claim a specific Áss at the end of the age.
 
 ## Trademark status
 
 **Public domain status:**
 - *Source tradition:* Norse oral and literary tradition, pre-Christian Scandinavia — unambiguously public domain
-- *Key source texts:* Poetic Edda, anonymous, c. 800–1270 CE — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Heimskringla (*Ynglinga Saga*), Snorri Sturluson, c. 1220 — PD
-- *Protected derivatives:* None from the primary sources themselves
+- *Key source texts:* Poetic Edda (anonymous, c. 10th–13th century) — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Heimskringla, Snorri Sturluson, c. 1220 — PD
+- *Protected derivatives:* Too Human (Silicon Knights / Microsoft, 2008) — sci-fi retelling; copyright protected but does not affect use of the underlying mythological term. Northgard (Shiro Games) — "Northgard" is a registered trademark of Shiro Games; the Norse mythological terms are unaffected.
 
-**Notable trademarks to avoid:** A USPTO filing for "ÆSIR" in computer/software products (serial #79102719, ÆSIR Copenhagen ApS) was **abandoned as of 2021** — no active block on the term. Individual game interpretations (God of War's character designs and dialogue; Assassin's Creed Valhalla's world design) carry copyright protection for those specific creative expressions, not for the mythological names or concepts.
+**Notable trademarks to avoid:** No active trademark on the term "Æsir" itself identified. Individual game titles and specific character designs carry their own IP — do not reproduce those specific renditions.
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
 
 ---
-> **Note on sources:** All primary Æsir sources post-date the Christianisation of Scandinavia by roughly two centuries (earliest surviving manuscripts c. 1270 CE). Snorri Sturluson's Prose Edda, while the richest single source, is a scholastic compilation by a Christian author and may reflect editorial interpretation layered over older oral tradition. Scholars debate which elements represent authentic pre-Christian belief versus medieval literary invention. For game design purposes, the Eddic tradition as written is the accepted authority.
+
+> **Note on sources:** Snorri Sturluson's Heimskringla (*Ynglinga saga*) presents the Æsir euhemeristically — as historical kings from Asia Minor who were deified after death. This interpretation conflicts with the cosmological theology of the Poetic Edda and is widely treated by scholars as Snorri's rationalisation rather than a faithful reflection of pre-Christian belief. | The boundary between Æsir and Vanir is porous: Njörðr, Freyr, and Freyja are Vanir by birth but are counted among the Æsir by convention in most primary source contexts after the hostage exchange. This profile treats them as Æsir in accordance with primary source usage.
 
 ## Sources
 
 ### Primary sources
 
-- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century, compiled c. 1270 CE) — especially *Völuspá*, *Grímnismál*, *Hávamál*, *Þrymskviða*, *Lokasenna*
-- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning* and *Skáldskaparmál*
-- `[PD]` Heimskringla, *Ynglinga Saga* (Snorri Sturluson, c. 1220)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Grímnismál*, *Hávamál*, *Lokasenna*, *Vafþrúðnismál*, *Þrymskviða*, *Hymiskviða*, *Skírnismál*
+- `[PD]` Prose Edda — *Gylfaginning*, *Skáldskaparmál* (Snorri Sturluson, c. 1220)
+- `[PD]` Heimskringla — *Ynglinga saga* (Snorri Sturluson, c. 1220)
 
 ### Secondary sources
 
 - `[CC-BY-SA]` Æsir — Wikipedia
-- `[PD*]` Norse Mythology for Smart People — norse-mythology.org
-- `[PD*]` World History Encyclopedia — articles on Nine Realms, Ragnarök, elves and dwarves
-- `[PD*]` History Cooperative — "The Aesir Gods of Norse Mythology"
+- `[CC-BY-SA]` Ásynjur — Wikipedia

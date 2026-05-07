@@ -1,110 +1,103 @@
-# Yao / Yaoguai
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
 
 > See also: [yao_east_asian_roster.md](yao_east_asian_roster.md)
 
-**Native name / Etymology:** 妖 (yāo) — Chinese: "eldritch/seductive supernatural being; one who transgresses natural order through transformation." The compound 妖怪 (yāo guài) combines 妖 (seductive/eldritch supernatural power) + 怪 (monster/aberrant creature). Related registers: 妖精 (yāo jīng, ascended nature spirit; gentler connotation, often benevolent), 妖仙 (yāo xiān, yao who has achieved immortal cultivation). Earliest historical attestation of 妖怪 as a formal term: *Book of Han* (Ban Gu, c. AD 82).
+# Yaoguai
+
+**Native name / Etymology:** 妖怪 (Yāoguài) — from 妖 (*yāo*, "strange, bewitching, calamitous") + 怪 (*guài*, "strange, unusual, monster"); also used as 妖 (*yāo*) alone. Japanese cognate: 妖怪 (*yōkai*); Korean cognate: 요괴 (*yoguae*).
 
 **Source Layer:** East Asian
 
-**Primary origin:** Chinese mythology and literature — earliest systematic documentation in *Shanhaijing* (Classic of Mountains and Seas, c. 475–100 BCE); codified as a cultivation system most fully in *Journey to the West* (Wu Cheng'en, c. 1592) and *Fengshen Yanyi* (Xu Zhonglin, c. 1620).
+**Primary origin:** Chinese mythology and folklore — *Hanshu* (Book of Han, c. AD 82) contains the earliest formal use of 妖怪 as a term; extensively elaborated in Ming dynasty literary and mythological works (*Xiyouji*, *Fengshen Yanyi*) and Qing-era literary fiction (*Liaozhai Zhiyi*)
 
-**Biological Form:** Spirit (variable — animal, plant, or object origin; advanced yao adopt Humanoid or Beastfolk form through cultivation)
+**Biological Form:** Spirit
 
-**Gender(s):** Male and Female — yao reflect the gender appropriate to their origin form or cultivated persona; primary sources attest both extensively.
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Nomadic, Divine servants, Corrupted/exiled
+**Gender(s):** Male and Female
+
+**Common archetype/role in fiction:** Corrupted/exiled, Warrior culture
 
 ## One-line lore summary
 
-Supernatural beings born when animals, plants, or objects accumulate sufficient qi through cultivation to gain intelligence, transformation, and power — occupying a contested middle ground between mortal creatures and immortals in the Chinese cosmic hierarchy.
+Supernatural beings born of accumulated cosmic energy who can take any form, ranging from predatory monsters to powerful cultivators capable of challenging the gods themselves.
 
 ## Specializations
 
-Signature, rule-breaking abilities no other race could develop through training or breeding. Tag each entry `[minor]`, `[major]`, or `[signature]`. Omit this section if there are none.
-
-- `[signature]` **Shapeshifting (biànhuà, 變化)** — any yao with sufficient cultivation can transform into human form or any other shape, including perfect imitation of specific individuals; this capacity is innate to yao-hood and not replicable by mortal training. Attested throughout *Journey to the West* and *Fengshen Yanyi*.
-- `[major]` **Elemental domain power** — advanced yao command elemental forces tied to their origin form at a scale that shatters normal biological limits: weather control, mass illusion, pocket dimensional domains. Attested in *Journey to the West*.
+- `[signature]` Shapeshifting (变化, *biàn huà*) — can transform into any animal, human, or object; a sufficiently cultivated yaoguai can perfectly replicate another person's appearance and voice
+- `[major]` Spiritual cultivation (*xiū liàn*, 修炼) — through centuries of absorbing cosmic energy (*jīng*, 精), yaoguai accumulate supernatural power capable of rivalling celestial officials
+- `[minor]` Illusion projection — can cast sensory illusions to deceive mortals and lesser immortals
 
 ## Strengths
 
-Positive intrinsic attributes within normal biological or cognitive range — things this race naturally does better than baseline, but matchable by a peak member of another race with training or luck.
-
-- **Passive qi accumulation** — yao absorb spiritual energy from their environment over centuries without active cultivation practice, giving them a natural developmental advantage over human cultivators.
-- **Origin-form resilience** — yao retain the physical durability and species instincts of their origin form even while transformed.
-- **Natural cultivation aptitude** — yao advance faster than most mortals along the cultivation path once awakened, due to their innate connection to natural qi flows.
+- Broad supernatural abilities tied to their origin form (fire, water, poison, wind, and others)
+- Able to perceive and move through the spiritual realm invisible to ordinary mortals
+- Resilient to mundane weapons; ordinary iron or steel cannot harm most cultivated yaoguai
 
 ## Characteristics
 
-Neutral defining features — neither clearly advantageous nor clearly disadvantageous. Omit this section if there are none.
-
-- **Heterogeneous appearance** — no unified physical form; each yao reflects its species of origin (fox ears and tail, serpentine scales, simian features, metallic sheen from an object origin, etc.) and cultivation level.
-- **Cultivation spectrum** — yao exist on a continuous power gradient from newly awakened (near-bestial intelligence) to near-immortal (heavenly-court-level power), determined entirely by accumulated practice and time.
-- **Moral ambiguity** — not inherently evil; primary sources include benevolent, mischievous, neutral, and malevolent yao. Alignment reflects individual choices and allegiances, not species nature.
-- **Extended lifespan** — scales with cultivation level from centuries to millennia; immortality is the goal of advanced practice, not a birthright.
+- Formed from animals, plants, objects, or elemental forces that absorbed sufficient cosmic energy over centuries
+- Hierarchically organised: more cultivated yaoguai command weaker ones; demon kings (*yāowáng*, 妖王) rule defined territories
+- Exist at the boundary between mortal society and celestial order — neither fully admitted to heaven nor wholly apart from human life
+- Amoral rather than inherently evil; individual disposition and cultivation path determine alignment
 
 ## Faults / Weaknesses
 
-Intrinsic negative attributes or vulnerabilities baked into the species' nature. Removing the fault would mean the creature is no longer that race.
-
-- **Daoist and Buddhist suppression** — yao are categorically vulnerable to Daoist exorcism rites, Buddhist sacred texts, and divine weapons wielded by celestial officials; this vulnerability is intrinsic to their nature as beings who exist outside sanctioned cosmic order. Attested extensively in *Journey to the West* and *Fengshen Yanyi*.
-- **Origin-form exposure** — a yao's cultivated power is tied to their original form; destruction of or forced reversion to the origin form (severing a fox's tails, destroying the possessing object) disrupts or dispels their transformation. Attested in *Journey to the West*.
-- **Involuntary reversion** — at lower cultivation levels, yao cannot sustain transformed shapes under extreme stress, contact with cold iron, or exposure to sacred light; true form surfaces involuntarily.
+- True form can be forcibly revealed by holy practitioners, purified bronze mirrors, or Taoist talismans
+- Celestial divine authority supersedes even the most powerful yaoguai — heavenly edicts can compel, seal, or destroy them
+- Vulnerable to Buddhist sutras recited by spiritually pure monks, sanctified weapons, and Taoist exorcism rites
+- Yaoguai with strong animal or object origins may retain compulsive behavioral traces of their base nature even in cultivated form — instinctive hungers, habitual behaviors, or emotional drives that cultivation can suppress but rarely eliminates entirely
 
 ## Modifiers
 
-Imposed conditions (curses, blessings, compulsions, oaths, luck patterns) that could in principle be lifted by a god, ritual, or story-event without changing what the species fundamentally is. Include the origin of each condition. Omit this section if there are none.
-
-- **Celestial commission (封神 / 天命)** — yao formally enrolled in the Jade Emperor's heavenly bureaucracy are bound by their office, title, and duties until released or demoted by divine authority — *imposed by the Jade Emperor's authority*. Attested in *Journey to the West* (yao holding celestial titles) and *Fengshen Yanyi* (the Investiture assigns demon figures to divine offices).
+- Some are sealed beneath mountains, inside rivers, or within objects by Buddhist or Taoist immortals — *origin: divine judgment for transgressions against the celestial order*
+- Some are compelled to serve celestial officials or demon kings through oaths sworn after defeat in battle — *origin: conquest or formal submission*
 
 ## Allies / Rivals / Enemies
 
-Source: primary sources and original canon only. Game-specific relationships → Roster Games table. Omit this section if nothing is attested.
-
-Standing values: **Ally** (cooperative, mutual benefit, roughly equal standing) | **Superior** (has authority over this race) | **Charge** (under this race's authority or protection — link their race file if it exists) | **Rival** (competes for territory, role, or resource without necessarily fighting) | **Enemy** (actively opposes or fights)
-
-Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources; Rival in [source] — see Sources note".
-
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Jade Emperor's Heavenly Court (天庭) | Superior | Governs cosmic order; unregistered or transgressive yao face celestial enforcement | *Journey to the West*; *Fengshen Yanyi* |
-| Xian / Celestial Immortals (仙) | Superior | Immortals occupy a higher tier of the cosmic hierarchy; yao who cultivate sufficiently may petition to join their ranks | *Journey to the West* |
-| Daoist and Buddhist practitioners | Enemy | Exorcists, monks, and clergy actively hunt, bind, and destroy yao who transgress mortal boundaries | *Journey to the West*; *Fengshen Yanyi* |
-| Mortal humans | Rival | Compete for spiritual resources and territory; individual relationships range from predatory to symbiotic | *Shanhaijing*; *Journey to the West* |
-| Other yao factions | Rival | Yao frequently war over territory, cultivation resources, and cosmic rank; sworn brotherhoods exist but alliances are unstable | *Journey to the West*; *Fengshen Yanyi* |
+| Heavenly Court (天庭, *Tiāntíng*) | Superior | Celestial officials hold divine authority over yaoguai; the Jade Emperor's edicts can compel, seal, or destroy them | *Xiyouji* |
+| Buddhist hierarchy (Bodhisattvas, Guanyin) | Superior | Can convert, bind, or destroy yaoguai; frequently intervene in mortal–yaoguai conflicts | *Xiyouji* |
+| Mortal humans | Rival / Charge | Variable by individual: yaoguai may prey on, coexist with, or protect humans; disposition determines the relationship | *Xiyouji*; *Liaozhai Zhiyi* |
 
 ## Ecology
 
-**Prey:** Variable — predatory yao consume human qi, life essence, or flesh; those seeking rapid cultivation advancement specifically target spiritually potent prey. Nature-cultivating yao subsist on ambient qi, sacred herbs, moonlight, or elemental energy and do not prey on living beings. (*Journey to the West*; *Fengshen Yanyi*)
+**Prey:** Varies by cultivation path — many consume qi (spiritual energy) drawn from humans or animals; carnivorous forms (e.g. Nine-tailed Fox) documented eating human flesh (*Shanhaijing*); highly cultivated yaoguai may subsist on cosmic energy alone
 
-**Predators:** Celestial marshal-generals and their armies pursue unregistered or transgressive yao; Daoist exorcists and Buddhist monks hunt yao on behalf of mortal communities; more powerful yao may also prey on weaker yao for their accumulated qi.
+**Predators:** Taoist and Buddhist practitioners wielding sanctified weapons or ritual texts; Heavenly Court soldiers dispatched to subdue them; powerful mortal heroes bearing divine weapons
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Ancient Chinese oral and written tradition — 妖 as a supernatural category is attested from the Warring States period (c. 475 BCE onward); unambiguously PD.
-- *Key source text(s):* *Shanhaijing* (anonymous, c. 475–100 BCE — PD); *Hanshu / Book of Han* (Ban Gu, c. AD 82 — PD); *Xiyouji / Journey to the West* (Wu Cheng'en, c. 1592 — PD); *Fengshen Yanyi / Investiture of the Gods* (Xu Zhonglin, c. 1620 — PD); *Liaozhai Zhiyi / Strange Tales from a Chinese Studio* (Pu Songling, c. 1740 — PD).
-- *Protected derivatives:* None identified for the terms 妖 (yāo), 妖怪 (yāo guài), "Yao," or "Yaoguai" as standalone race/species designations.
+- *Source tradition:* Ancient Chinese oral and written tradition — unambiguously public domain
+- *Key source text(s):* Shanhaijing (Anonymous, c. 475–100 BCE — PD); Hanshu (Ban Gu, c. AD 82 — PD); Xiyouji (attr. Wu Cheng'en, c. 1592 — PD); Fengshen Yanyi (attr. Xu Zhonglin, c. 1620 — PD); Liaozhai Zhiyi (Pu Songling, c. 1740 — PD)
+- *Protected derivatives:* Black Myth: Wukong (Game Science, 2024) — copyright and trademark protected; Nioh series (Team Ninja / Koei Tecmo, 2017–2021) — uses the parallel Japanese *yōkai* tradition under the same characters, copyright protected
 
-**Notable trademarks to avoid:** None known for the general terms 妖, 妖怪, or their romanizations as race/species designations.
+**Notable trademarks to avoid:**
+- Black Myth: Wukong character designs and associated visual identity (Game Science, 2024)
+- No registered trademark found for the generic term "Yaoguai" or "Yao" (妖) in entertainment
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
 ---
 
-> **Note on sources:** 妖 (yāo) is a broad categorical term, not a single discrete species — this profile covers the umbrella category as documented in Chinese primary sources. Yao are distinct from adjacent spirit categories: 鬼 (guǐ, ghost/spectre arising from a deceased human), 魔 (mó, spiritually corrupt demon born to depravity rather than cultivated into power), and 仙 (xiān, immortal celestial being who has fully transcended the mortal realm). The defining difference: yao originate as natural, living beings — animals, plants, objects — and gain supernatural power through qi accumulation, rather than arising from death (gui) or divine origin (xian). These categorical boundaries are attested in the primary sources and confirmed by secondary sources [6]–[8], which add no content beyond the primary texts. Japanese *yōkai* (妖怪) shares the same characters and overlapping mythology but is a culturally distinct tradition that developed in parallel — this profile covers the Chinese tradition only.
+> **Note on sources:** The characters 妖怪 are shared between Chinese (*yāoguài*) and Japanese (*yōkai*) traditions, but the two developed as distinct cultural layers. This profile covers the Chinese yaoguai tradition; the Japanese *yōkai* tradition, shaped by Shinto, Heian-period literature, and distinct regional folklore, warrants a separate profile. The *Xiyouji* and *Fengshen Yanyi* are Ming literary works rather than raw folklore, but they systematise and transmit oral folk tradition rooted in the Hanshu period and earlier.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- `[PD]` *Shanhaijing* (Classic of Mountains and Seas), anonymous, compiled c. 475–100 BCE
-- `[PD]` *Hanshu* (Book of Han), Ban Gu, c. AD 82 — earliest historical record using 妖怪 as a formal term
-- `[PD]` *Xiyouji* (Journey to the West), attributed to Wu Cheng'en, c. 1592
-- `[PD]` *Fengshen Yanyi* (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
-- `[PD]` *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio), Pu Songling, c. 1740 — authored literary fiction reflecting Qing-era folk tradition; not a folklore chronicle
+- `[PD]` Shanhaijing (Classic of Mountains and Seas), Anonymous, compiled c. 475–100 BCE
+- `[PD]` Hanshu (Book of Han), Ban Gu, c. AD 82
+- `[PD]` Xiyouji (Journey to the West), attributed to Wu Cheng'en, c. 1592
+- `[PD]` Fengshen Yanyi (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
+- `[PD]` Liaozhai Zhiyi (Strange Tales from a Chinese Studio), Pu Songling, c. 1740
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Yaoguai — Wikipedia (terminology distinctions and attestation dates)
-- `[PD*]` "How demons, spirits, ghosts and monsters are separated" — South China Morning Post (yao vs. gui vs. mo categorical boundaries)
-- `[PD*]` "Yaoguai and Mogui Explained" — Yin Leong (terminology analysis: 妖 vs. 妖怪 vs. 妖精)
+- `[CC-BY-SA]` Wikipedia — "Yaoguai", https://en.wikipedia.org/wiki/Yaoguai

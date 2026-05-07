@@ -1,93 +1,90 @@
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
 # Vanir
 
 > See also: [vanir_norse_roster.md](vanir_norse_roster.md)
 
-**Native name / Etymology:** Vanir (Old Norse: singular *Vanr*; etymology uncertain — possibly from Proto-Indo-European *wen-* "to desire, strive for"; the name is not glossed by Snorri and the root remains debated among scholars)
+**Native name / Etymology:** Vanir (Old Norse: plural; singular Vani or Vanr); from Proto-Germanic *\*waniz* — meaning uncertain, possibly "friend" or related to a root for desire and abundance. Their realm is Vanaheimr ("Home of the Vanir"). The feminine form is unattested; primary sources name both male and female Vanir without a collective feminine term.
 
 **Source Layer:** Norse
 
-**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220)
+**Primary origin:** Norse mythology — Poetic Edda (anonymous, c. 10th–13th century) and Prose Edda, Snorri Sturluson (c. 1220); Heimskringla — *Ynglinga saga*, Snorri Sturluson (c. 1220)
 
 **Biological Form:** Humanoid
 
-**Gender(s):** Male and Female — both biologically and socially gendered; female members (Freyja, Skaði) are prominent as independent agents with distinct divine domains equal in standing to the male members.
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Divine servants, Scholarly (seiðr tradition)
+**Gender(s):** Male and Female — both are named and prominent throughout primary sources. Njörðr and Freyr are male; Freyja is female. No Vanir-specific gender norms are described beyond those shared with the broader Norse divine world.
+
+**Common archetype/role in fiction:** Divine servants, Nomadic
 
 ## One-line lore summary
 
-The second tribe of Norse gods — masters of seiðr magic and the powers of fertility and sea-wealth, who fought the Æsir to a standstill before uniting with them through a hostage exchange that reshaped both pantheons.
+Elder gods of fertility, abundance, and seiðr magic who waged and then ended a war with the Æsir through a hostage exchange that brought three Vanir — Njörðr, Freyr, and Freyja — permanently into Ásgarðr.
 
 ## Specializations
 
-- `[signature]` **Seiðr mastery** — The Vanir are the originators of seiðr, a fate-manipulation magic involving prophetic trance, spirit-travel, and the weaving of outcomes. Freyja taught it to the Æsir after the war. No other race is described as independently developing it in primary sources.
-- `[major]` **Fertility and harvest sovereignty** — Freyr's divine presence directly governs agricultural abundance, rainfall, and solar warmth in Midgard. This function is not merely symbolic: the Ynglinga Saga describes his cult image being carried through fields to bless harvests.
+- `[signature]` **Seiðr mastery** — seiðr is explicitly a Vanir tradition. *Ynglinga saga* states that Freyja first practised seiðr among the Æsir, having brought it from the Vanir. Seiðr enables divination, fate-weaving, mind-influence, and shapeshifting — capabilities more subtle and penetrating than the Æsir's galdr and direct power.
+- `[major]` **Fertility and natural abundance** — the Vanir hold direct influence over crops, animal reproduction, weather at sea, and sexual prosperity. Freyr is called "foremost among the gods" and "hated by none" in *Gylfaginning*; prayers and sacrifices for good harvests and marriages were directed to Freyr and Freyja throughout the Old Norse world.
 
 ## Strengths
 
-- Combat capability sufficient to fight the Æsir to a true stalemate — the Æsir–Vanir War ended in peace, not Vanir defeat
-- Command over weather patterns essential to agriculture (rain, sunshine, calm seas)
-- Politically skilled — chose negotiated peace and hostage exchange over endless war
-- Association with wealth generation: Njörðr is explicitly the patron of maritime trade and fishing prosperity
+- Command over fair winds and the wealth of the sea (Njörðr's domain); sailors and fishermen invoke Njörðr for safe passage
+- Prophetic and divinatory gifts through seiðr, conferring foreknowledge unavailable through mere force
+- Diplomatic resilience: the Vanir negotiated an equal peace with the Æsir rather than accepting subjugation — the only divine tribe to do so in primary sources
 
 ## Characteristics
 
-- Peace, fertility, and abundance are their primary domains; warfare is a capability, not a defining identity
-- Inhabit Vanaheimr, one of the Nine Worlds, though the three primary Vanir reside in Ásgarðr after the war
-- Sibling marriage was practised among the Vanir (Freyr and Freyja were siblings and, in some accounts, formerly consorts) — a custom regarded as taboo among the Æsir
-- Cult worship in Iron Age Scandinavia focused on agricultural blót at planting and harvest seasons
+- Dwell in Vanaheimr, one of the Nine Worlds; after the hostage exchange, three prominent Vanir relocated to Ásgarðr and are counted as Æsir in most subsequent primary-source contexts
+- Associated with natural fertility cycles and prosperity rather than war, law, or cosmic governance
+- Accepted sibling unions as normal Vanir custom — Freyr and Freyja are siblings; *Lokasenna* frames this as distinctly Vanir practice, not shared by the Æsir
+- Among the least-described divine groups: Vanaheimr is barely mentioned after the hostage exchange, and no ruler of Vanaheimr is named in surviving texts
 
 ## Faults / Weaknesses
 
-- Less individually powerful in direct melee than the greatest Æsir champions; their strength lies in magic and domain authority rather than martial supremacy
-- The three primary representatives (Freyr, Freyja, Njörðr) became hostages of the Æsir after the war, structurally binding them to Ásgarðr
-- Freyr surrendered his magical self-fighting sword for love of the giantess Gerðr — an irreversible loss that leaves him weaponless at Ragnarök
+- Limited attestation: far fewer Vanir than Æsir survive in the primary record; Vanaheimr's geography, population, and power structures are almost entirely undocumented
+- Freyr surrendered his magical sword for love of the giantess Gerðr; without it, he is fated to fall to Surtr at Ragnarök — *Gylfaginning*; *Vafþrúðnismál*
 
 ## Modifiers
 
-- **Peace-oath with the Æsir** — sealed through hostage exchange and the joint creation of the being Kvasir from mingled divine spittle; binding on both pantheons for the remaining age of the world. — *Völuspá*; Prose Edda (*Gylfaginning*)
-- **Freyr's unarmed fate** — by giving away his sword, Freyr made himself fated to fall to Surtr at Ragnarök. Self-imposed and irreversible. — *Skírnismál*; Prose Edda (*Gylfaginning*)
+None race-wide attested in primary sources.
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Æsir | Ally | Former enemies; integrated after the Æsir–Vanir War via mutual hostage exchange. Now treated as a single divine community. | *Völuspá*; Prose Edda (*Gylfaginning*) |
-| Jötnar | Rival | Individual Vanir negotiate with or wed Jötnar (Njörðr wed Skaði; Freyr wed Gerðr) rather than waging collective war; no systematic enmity in primary sources. | *Skírnismál*; Prose Edda |
-| Humans (Midgard) | Charge | Freyr and Freyja commanded the most widespread cult worship in pre-Christian Scandinavia; Njörðr was patron of sailors and merchants. | Landnámabók; Íslendingabók |
+| Æsir | Ally | Post-war treaty sealed by hostage exchange (Njörðr, Freyr, and Freyja to Æsir; Hœnir and Mímir to Vanir); subsequent cooperation attested throughout primary sources — see [aesir_norse.md](aesir_norse.md) | *Völuspá*; *Gylfaginning* |
+| Jötnar | Rival | Mixed: Njörðr briefly married the giantess Skaði; Freyr married the giantess Gerðr (*Skírnismál*). Yet Freyr is fated to die to the fire giant Surtr at Ragnarök, having surrendered the sword that could have saved him. No collective hostility approaching the Æsir-Jötnar dynamic is documented. | *Gylfaginning*; *Skírnismál* |
 
 ## Ecology
 
-**Prey:** N/A — divine beings participating in the shared feast culture of Ásgarðr. Freyr's golden boar Gullinbursti is associated with Yule sacrifice but is not prey consumed by the Vanir themselves.
+**Prey:** N/A — divine beings; the Vanir feast and drink as the gods do, but this is ritual sustenance, not predation in a food-chain sense.
 
-**Predators:** N/A — divine beings. At Ragnarök, Freyr falls to Surtr specifically due to his self-imposed weaponless condition, not predation.
+**Predators:** No natural predators. Existential threat is cosmological: Freyr's fate against Surtr at Ragnarök is the sole documented mortal threat to an individual Vanir.
 
 ## Trademark status
 
 **Public domain status:**
 - *Source tradition:* Norse oral and literary tradition, pre-Christian Scandinavia — unambiguously public domain
-- *Key source texts:* Poetic Edda, anonymous, c. 10th–13th century — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Landnámabók, anonymous, c. 1200 — PD; Íslendingabók, Ari Þorgilsson, c. 1125 — PD; Gesta Danorum, Saxo Grammaticus, c. 1200 — PD
-- *Protected derivatives:* None from the primary mythological tradition
+- *Key source texts:* Poetic Edda (anonymous, c. 10th–13th century) — PD; Prose Edda, Snorri Sturluson, c. 1220 — PD; Heimskringla, Snorri Sturluson, c. 1220 — PD
+- *Protected derivatives:* God of War series (Sony Interactive Entertainment) — proprietary; specific character depictions are copyright-protected. Freyr and Freyja as mythological figures are public domain; game-specific renderings are not.
 
-**Notable trademarks to avoid:** No active trademarks on "Vanir," "Freyr," "Freyja," or "Njörðr" as general terms known to exist. Individual game depictions (character designs, story-specific lore) are copyright of their respective studios and not usable without licence.
+**Notable trademarks to avoid:** No active trademark on the term "Vanir" as a generic mythological category identified. Individual game titles and specific character designs carry their own IP.
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with USPTO TESS, EUIPO, and other relevant trademark databases before any commercial use.
 
 ---
 
-> **Note on sources:** The Vanir are comparatively under-documented relative to the Æsir in surviving texts. The primary account of the Æsir–Vanir War and hostage exchange comes almost entirely from Snorri Sturluson's Prose Edda (c. 1220) — a Christian author writing two centuries after Christianisation. Some scholars (notably Georges Dumézil) have argued the war reflects a mythologised memory of the merging of two distinct pre-Christian cults. The boundary between Vanir and Æsir blurs significantly after the war: later sources sometimes list Freyr and Freyja as Æsir rather than Vanir.
+> **Note on sources:** Snorri Sturluson's *Ynglinga saga* (Heimskringla) presents the Vanir euhemeristically — as a historical people from "Vanaland" (perhaps eastern Europe or Asia Minor) who came to be worshipped as gods. This conflicts with the cosmological theology of the Poetic Edda, which situates the Vanir in Vanaheimr as a coequal divine tribe from the world's beginning. Modern scholarship treats Snorri's euhemerism as his own rationalisation. | Kvasir was created from the combined spittle of the Æsir and Vanir at the peace treaty — a joint creation; he is not classified as Vanir in this profile. | The three Vanir hostages (Njörðr, Freyr, Freyja) are conventionally counted as Æsir in primary-source contexts after the exchange; see [aesir_norse.md](aesir_norse.md). The Poetic Edda contains only scattered references to the Vanir collectively; most detail comes from Snorri.
 
 ## Sources
 
 ### Primary sources
 
-- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá*, *Skírnismál*, *Lokasenna*, *Vafþrúðnismál*
-- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*
-- `[PD]` Landnámabók (anonymous, c. 1200)
-- `[PD]` Íslendingabók (Ari Þorgilsson, c. 1125)
-- `[PD]` Gesta Danorum (Saxo Grammaticus, c. 1200)
+- `[PD]` Poetic Edda (anonymous, Codex Regius, c. 10th–13th century) — especially *Völuspá* (Æsir-Vanir War passage, stanzas 21–24), *Vafþrúðnismál* (Njörðr and Freyr mentioned), *Skírnismál* (Freyr and Gerðr)
+- `[PD]` Prose Edda — *Gylfaginning*, *Skáldskaparmál* (Snorri Sturluson, c. 1220)
+- `[PD]` Heimskringla — *Ynglinga saga* (Snorri Sturluson, c. 1220)
 
 ### Secondary sources
 
 - `[CC-BY-SA]` Vanir — Wikipedia
-- `[PD*]` World History Encyclopedia — Freyr, Freyja, Njörðr

@@ -73,7 +73,9 @@ Inconsistent naming causes lookup errors and bad cross-references. Follow these 
 
 ## Race profiles
 
-When researching or writing race profiles (any file under `races/`), use only commercially usable data — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content drawn from proprietary game rules, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be consulted to confirm facts but must never be cited in race files — attribute the fact to its PD primary source instead. If a source is ambiguous, omit the data and note the gap in the file.
+When researching or writing race profiles (any file under `races/`), use only commercially usable data — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content drawn from proprietary game rules, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC/ND-licensed sources may be used for research only if the resulting output contains no protected expression traceable to them — never attribute or cite them in race files; attribute confirmed facts to their PD primary source instead. If a source is ambiguous, omit the data and note the gap in the file.
+
+**Blocked sources — no fetches, ever:** Before any web search or subagent call during race research, read the `## Blocked sources` table in `.claude/skills/race-categorizer/references/sources_registry.md` and build a domain blocklist. Never visit or fetch a blocked domain — not even via a search-result link. Pass the full blocklist explicitly into every research subagent prompt.
 
 ## Diffing files on Windows
 

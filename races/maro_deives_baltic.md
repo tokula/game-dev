@@ -2,90 +2,93 @@
 
 > See also: [maro_deives_baltic_roster.md](maro_deives_baltic_roster.md)
 
-**Native name / Etymology:** Maro deivės (Lithuanian) — *maras* ("plague, pestilence, death-fever") + *deivės* (plural of *deivė*, "goddess"); also called Maro mergos ("plague maidens"), Pamėklės ("pale female ghosts"), or simply Maros; *maras* shares a Proto-Baltic root with concepts of dying and wasting, distinct from the standard death-word (*mirtis*)
+**Native name / Etymology:** Maro deivės (Lithuanian: "plague goddesses"; singular *Maro deivė*); alternate names: **Maro mergos** ("plague maidens"; *mergos* = maidens/girls), **Pamėklės** ("pale female ghosts/apparitions"; from *mėkla*, "shade, ghost, apparition"); the root *maras* is Lithuanian for "plague, pestilence," sharing PIE ancestry with Latin *mors* ("death") and Lithuanian *miręs* ("dead"); *deivės* is the feminine plural of *deivė* ("goddess"); the Polish-language rendering *morowa dziewica* ("plague maiden") appears in Mickiewicz's notes (1828) and Siemieński's compilation (1845), reflecting the same Lithuanian folk stratum
 
 **Source Layer:** Baltic
 
-**Primary origin:** Lithuanian oral tradition — *dainos* (folk songs) and folk narratives; fragmentary 16th–17th century Christian missionary records; no single named primary text gives them extended treatment, but plague-spirit belief is widely distributed across Lithuanian oral sources
+**Primary origin:** Lithuanian oral tradition — *dainos* (folk songs) and folk belief; Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (1903–1904); noted in Adam Mickiewicz, *Konrad Wallenrod* (1828, notes) and Lucjan Siemieński, *Podania i legendy polskie, ruskie i litewskie* (1845)
 
 **Biological Form:** Spirit
 
-**Gender(s):** Female
+**Gender(s):** Female — consistently attested across all sources and variants
 
-**Common archetype/role in fiction:** Divine servants (plague agents, death emissaries)
+**Common archetype/role in fiction:** Divine servants
 
 ## One-line lore summary
 
-A collective of Lithuanian plague goddesses — white-clad riders who sweep through settlements spreading pestilence, burning their grim harvest of skulls and bones on hilltops to mark where death will strike next.
+White-clad Lithuanian plague-spirit riders who spread pestilence on Giltinė's behalf — and in their Pamėklės aspect, methodically count out every death per household with ritual strikes and burn skulls on hilltops to signal where pestilence will travel next.
 
 ## Specializations
 
-- `[signature]` Plague-spreading — their passage through a settlement causes epidemic disease; the direction of smoke rising from their hilltop bonfires indicates the next target; this is not incidental but directed
-- `[minor]` Mounted transit — ride between towns at unnatural speed on horseback; move through inhabited areas invisibly or in disguise; conventional pursuit cannot catch them
+- `[major]` Plague transmission — in the mounted *Maro deivės* aspect: spread pestilence through afflicted settlements by riding through them; presence alone is the vector; in the *Pamėklės* aspect: strike the exterior of each house a specific number of times corresponding exactly to the number of victims who will die inside; call out the names of those who will die, who then die instantly
+- `[minor]` Smoke divination — collect skulls, hair, horns, and antlers and burn them on hilltops; the direction the smoke travels indicates which settlement will next be struck by plague
 
 ## Strengths
 
-- Collective action — multiple beings operating simultaneously accelerates transmission across a region; no single point of failure
-- Cannot be fought conventionally — their nature as divine agents makes direct combat ineffective; plague is their weapon and their body
-- The advance warning given by the smoke signals is a feature, not a flaw — it compounds the terror
+- Cannot be stopped or outrun by ordinary mortals
+- Operate with complete impunity within their assigned territory
+- The advance smoke signal adds deliberate psychological terror beyond the physical death toll
+- Precise accounting of death — the *Pamėklės* aspect delivers exactly the right number of house-strikes; no over- or under-kill
 
 ## Characteristics
 
-- White-clad female figures mounted on horseback
-- Carry skulls, hair, horns, and antlers taken from the dead; these are burned on hilltops between towns; the smoke's direction signals the next destination
-- Some accounts describe them as beastly or monstrous beneath the white robes, revealed only momentarily
-- Night-active; associated with the dark half of the year and with seasons of famine or communal sin
-- Move between towns in transit — they do not dwell in any fixed place; passage itself is the act of harm
-- Related to but distinct from Giltinė: Giltinė claims individual souls; the Maro deivės claim communities
+- White garments — the single most consistently attested physical trait across all variants; described as "beastly women cloaked in white"
+- Mounted on horses (*Maro deivės* proper); the *Pamėklės* aspect travels on foot or in carriages
+- Plural, unnamed class — no canonical fixed number; the term *deivės* is inherently plural and no source specifies a count
+- The *Maro mergos* / *morowa dziewica* sub-tradition (Mickiewicz 1828; Siemieński 1845) depicts one plague-maiden carrying a red handkerchief as a transmission instrument; she is vulnerable to a man bearing a sword consecrated with holy names — suggesting a variant layer of the tradition with different rules for engagement
+- Act on Giltinė's authority; primary sources do not describe them as exercising independent judgment within their plague mandate
 
 ## Faults / Weaknesses
 
-- Bound to Giltinė's authority — they are agents of directed death, not autonomous plague; they carry a mandate, not a desire
-- Propitiation at crossroads (a liminal space in Lithuanian folk belief where boundary-spirits can be addressed) can divert or slow their transit; the ritual must be performed before their passage, not during
-- Their advance signal (hilltop smoke) can be read by knowledgeable communities, allowing ritual preparation
+- Can be contained by magical barriers — a furrow plowed around a village, or linen cloth stretched across all access roads, is attested as a means of preventing entry
+- In the *morowa dziewica* ballad layer (Mickiewicz 1828; Siemieński 1845): one individual plague-maiden was killed by a man with a consecrated sword; the village she had targeted was permanently spared afterward
 
 ## Modifiers
 
-- Serve under Giltinė (death goddess) — *divine hierarchy; origin: Lithuanian folk tradition; Maro deivės are agents of Giltinė's mass-death mandate, not independent actors*
-- Associated with periods of divine displeasure or communal transgression — *folk-theological framework; origin: Lithuanian oral tradition; plagues are understood as directed punishment, not random events; the Maro deivės carry the community's accumulated transgression made visible*
+- Bound servants of Giltinė — *act as plague-executors under the death goddess Giltinė's authority; no independent will is attested in primary sources; origin: Lithuanian folk tradition*
+- Containable by ritual barriers — *a furrow plowed around a settlement or linen cloth stretched across access routes can prevent entry; origin: Lithuanian folk practice*
+- Post-Christianization reframing — *trial and missionary records associate plague-spirits with demonic agency rather than their original role as divine plague-executors under a pre-Christian death goddess; origin: 16th–18th century records*
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Giltinė ([giltine_baltic.md](giltine_baltic.md)) | Superior | Giltinė is the death goddess who directs the Maro deivės as agents of mass death | Lithuanian folk tradition |
+| Giltinė (death goddess) | Superior | Primary deity of death; the Maro deivės function as her plague-executing servants; no source describes them acting outside her authority | Lithuanian folk tradition |
 
 ## Ecology
 
-**Prey:** Human communities — epidemic disease spreads through their passage; skulls and remains are their harvest
+**Prey:** Mortal populations of afflicted settlements — pestilence execution is their function, not individual predation; the deaths they cause are assigned, not chosen
 
-**Predators:** N/A — supernatural agents; not subject to natural predation
+**Predators:** Ritual barriers (furrow, linen cloth) can contain them; in the *morowa dziewica* ballad layer, a single individual was killed by a consecrated sword — implying vulnerability under specific ritual conditions
 
 ## Trademark status
 
 **Public domain status:**
 - *Source tradition:* Lithuanian oral tradition — pre-Christian, unambiguously PD
-- *Key source text(s):* Lithuanian *dainos*, oral tradition compiled 19th century — PD; fragmentary 16th–17th century missionary records — PD
+- *Key source text(s):* Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių*, 1903–1904 — PD; Adam Mickiewicz, *Konrad Wallenrod*, 1828 (notes) — PD (Mickiewicz died 1855); Lucjan Siemieński, *Podania i legendy polskie, ruskie i litewskie*, 1845 — PD (Siemieński died 1877)
 - *Protected derivatives:* None identified
 
-**Notable trademarks to avoid:** None known for "Maro deivės" or "Maro mergos" in game or entertainment categories.
+**Notable trademarks to avoid:** None known for "Maro deivės" or "Pamėklės" in game or entertainment categories.
 
 > **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
 
 ---
 
-> **Note on sources:** The Maro deivės have no medieval primary attestation — no 16th–18th century chronicle, missionary report, or synodal record names them specifically. The earliest traceable named source is Jonas Basanavičius's late 19th-century folklore collections. The motif of white-clad mounted plague-women burning skulls on hilltops crystallized in the 19th century through the work of Lithuanian folklore collectors rather than surviving from a medievally documented tradition. This does not invalidate the folk belief — it is genuine Lithuanian oral tradition — but it means the characterization reflects 19th-century consolidation of distributed folk memory, not a directly attested pre-Christian ritual practice. Comparative support comes from better-documented parallel traditions: the Latvian *Mara* (death-goddess aspect), the Serbian *Čuma* (plague personified as a white-clad woman), and the Slavic *Morana* (goddess of winter, death, and pestilence). These parallels suggest the motif has genuine pre-Christian roots even where direct Lithuanian documentation is thin.
+> **Note on sources:** The designations *Maro deivės*, *Pamėklės*, and *Maro mergos* are partially overlapping labels for related plague-spirit types. The skull-burning and house-striking behaviors are associated specifically with the *Pamėklės* in the primary secondary source (Wikipedia, drawing on Lithuanian folk belief); the mounted riders spreading plague by passage are the *Maro deivės* proper; the red-handkerchief and consecrated-sword elements belong to the *morowa dziewica* ballad layer preserved by Mickiewicz and Siemieński. All three are treated as aspects of the same folk category in this profile. Asta Skujytė-Razmienė ("Origins of Plague and Cholera," *Tautosakos darbai* 52, 2016) examines the anthropomorphic female plague-figures in the Lithuanian folk belief corpus. The crossroads-propitiation claim circulates in popular summaries but could not be confirmed from a citable PD or CC-BY(-SA) primary source and is omitted. The Latvian *Mēra māte* ("Mother of Plague") is a structurally parallel single deity in the Latvian *mātes* system but is a distinct figure not included here.
 
 ## Sources
 
 ### Primary sources
 
-- `[PD]` Jonas Basanavičius folklore collections, late 19th–early 20th century — the earliest specifically traceable named source for the plague-goddess material; the Jonas Basanavičius Folklore Library (~7,000 texts) is digitized and accessible at the Lithuanian Folklore Archive (tautosakos-rankrastynas.lt)
-- `[PD]` Lithuanian *dainos* (folk songs), oral tradition — compiled 19th century; the mounted white-clad plague-maiden motif is preserved in ballads and folk belief texts
+- `[PD]` Jonas Basanavičius, *Iš gyvenimo vėlių bei velnių* (6 vols., 1903–1904)
+- `[PD]` Lithuanian dainos (folk songs), oral tradition, compiled 19th century
+- `[PD]` Adam Mickiewicz, *Konrad Wallenrod* (1828) — notes document Lithuanian plague-maiden (*Maro mergos* / *morowa dziewica*) folk belief
+- `[PD]` Lucjan Siemieński, *Podania i legendy polskie, ruskie i litewskie* (1845) — "Morowa dziewica" text
+- `[PD]` Jan Łasicki, *De diis Samagitarum caeterorumque Sarmatarum et falsorum Christianorum* (1582)
+- `[PD]` Matthäus Prätorius, *Deliciae Prussicae oder Preussische Schaubühne* (c. 1690s)
 
 ### Secondary sources
 
-- `[PD*]` Algirdas Julien Greimas, *Of Gods and Men: Studies in Lithuanian Mythology*, Indiana University Press, 1992 — the major scholarly synthesis of Lithuanian mythology; freely accessible on Internet Archive at https://archive.org/details/algirdas-j.-greimas-of-gods-and-men-studies-in-lithuanian-mythology-midland-book/
 - `[CC-BY-SA]` Wikipedia: "List of Lithuanian gods and mythological figures" — https://en.wikipedia.org/wiki/List_of_Lithuanian_gods_and_mythological_figures
-- `[PD*]` Baltic Pagan Blog: "Deivės Valdytojos" — https://balticpagan.wordpress.com/gods/deives-valdytojos/
-- `[PD*]` Niina Pekantytär, "Lithuanian Deities of the Underworld," *Medium* — https://littlewomen.medium.com/lithuanian-deities-of-the-underworld-36e9d7a48afc
+- `[CC-BY]` Asta Skujytė-Razmienė, "Origins of Plague and Cholera according to the Lithuanian Folklore," *Tautosakos darbai* 52 (2016) — https://doi.org/10.51554/TD.2016.28871
+- `[PD]` Jacob Grimm, *Teutonic Mythology*, vol. 3, trans. James Steven Stallybrass (1883)

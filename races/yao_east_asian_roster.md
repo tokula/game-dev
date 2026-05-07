@@ -1,91 +1,84 @@
-# Yao / Yaoguai — East Asian Roster
+# Yaoguai — East Asian Roster
 
 > See also: [yao_east_asian.md](yao_east_asian.md)
 
 ## Command hierarchy
 
-No formal internal hierarchy is attested in primary sources. De facto authority is determined entirely by cultivation power level.
-
-**Above all yao:**
-- Jade Emperor (玉皇大帝) and the Heavenly Court (天庭) — supreme cosmic authority; yao must serve, evade, or directly oppose the court
-- Celestial marshal-generals (Li Jing the Pagoda-Bearing Heavenly King, Nezha, Erlang Shen, etc.) enforce the court's will and pursue transgressive yao
-
-**Among yao:**
-- Territorial kingship — sufficiently powerful yao claim mountain or sea domains and rule lesser yao within that territory (e.g., Flower Fruit Mountain, Bull Demon King's Fire Cloud Cave)
-- Sworn brotherhoods (義兄弟) — loose voluntary alliances between powerful yao; the Seven Great Demon Kings of *Journey to the West* are the most documented example; based on mutual respect rather than rank, and unstable
-
-No bureaucratic rank structure among yao is documented. Power speaks.
-
----
+No fixed hierarchy spans all yaoguai as a category. Demon kings (*yāowáng*, 妖王) hold authority over lesser yaoguai within a territory through demonstrated power. Above all yaoguai stands the Heavenly Court (Jade Emperor and celestial officials) and the Buddhist hierarchy (Bodhisattvas), both of which can issue binding commands or deploy forces to subdue any yaoguai regardless of individual strength. No formal democratic or meritocratic structure is documented in primary sources — rank is determined entirely by cultivated power.
 
 **Source priority:** Primary sources (folklore, mythology, religious texts, historical accounts) are the authoritative origin. Games and fiction derive from them. Always populate `— Primary sources` first and most completely. Derivative sections exist for cross-reference only — they should never displace or reframe the original cultural record.
 
-**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or mythological base. Use `— Original canon` instead when the race has no such precedent and the authoritative record is a specific creative work.
+**Section naming rule:** Use `— Primary sources` when the race has a real-world folkloric or mythological base. Use `— Original canon` instead when the race has no such precedent and the authoritative record is a specific creative work that is public domain, CC0, or explicitly open-licensed (e.g. Tieflings → D&D 5e SRD / CC-BY-4.0). Proprietary-only races are blocked entirely by the IP filter and never reach this label. The label signals whether you're citing a cultural tradition or an open creative work.
 
 ## Named individuals — Primary sources
 
-**Origin layer.** Names attested in folklore, mythology, historical records, and primary-era literary sources — public domain, culturally authentic, preferred for game design use.
-
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Kui (夔) | *Shanhaijing* | Mountain demon / primordial spirit | One-legged dragon-like spirit; associated with thunder; Huangdi made a drum from its skin; said to have invented music and dance |
-| Sun Wukong (孫悟空) | *Xiyouji* | Great Sage Equal to Heaven; later Victorious Fighting Buddha (鬥戰勝佛) | Stone monkey from Flower Fruit Mountain; born of stone infused with heaven and earth's essence; central figure of the pilgrimage |
-| Zhu Bajie / Zhu Wuneng (豬八戒) | *Xiyouji* | Former Heavenly Marshal Canopy (天蓬元帥); second pilgrim disciple | Former celestial general reincarnated as a pig yao; wields the Nine-Toothed Rake |
-| Sha Wujing (沙悟淨) | *Xiyouji* | Former Curtain-Lifting General (捲簾大將); third pilgrim disciple | Former celestial general reincarnated as a river sand demon |
-| Bull Demon King (牛魔王, Niu Mowang) | *Xiyouji* | Regional king; Sun Wukong's sworn brother | Powerful ox yao; king of Fire Cloud Cave; one of the Seven Great Demon Kings |
-| Lady Iron Fan (鐵扇公主, Tiě Shàn Gōngzhǔ) | *Xiyouji* | Queen of Plantain Cave | Fox yao; wife of the Bull Demon King; wields the Banana Leaf Fan capable of extinguishing Flaming Mountain |
-| Red Boy (紅孩兒, Hóng Hái'ér) | *Xiyouji* | Demon prince; later dharma-protector under Guanyin | Son of the Bull Demon King and Lady Iron Fan; fire yao; commands Samadhi Fire |
-| White Bone Demon (白骨精, Bái Gǔ Jīng) | *Xiyouji* | Skeletal yao | Master of transformation into innocent humans; lured pilgrims by disguising as a village girl, an old woman, and an old man |
-| Silver Horn King (銀角大王) | *Xiyouji* | Demon king | Commands stolen heavenly artifacts including the Five-Treasure Gourd; defeated in ch. 33 |
-| Gold Horn King (金角大王) | *Xiyouji* | Demon king; brother to Silver Horn | Paired with Silver Horn; both originally spirit-boys in the Daoist court |
-| Six-Eared Macaque (六耳獼猴, Liù Ěr Míhóu) | *Xiyouji* | One of the Four Celestial Primates | Perfectly impersonated Sun Wukong in the "Double Sun Wukong" arc; only the Buddha could tell them apart |
-| Daji (妲己) | *Fengshen Yanyi*; *Shang shu* historical tradition | Concubine of King Zhou of Shang; primary antagonist | Nine-tailed fox spirit dispatched by Nüwa to corrupt and topple the Shang dynasty |
-| Gaoming (高明) | *Fengshen Yanyi* | Demon general of King Zhou | Ancient peach tree demon; served as a minister in King Zhou's forces |
-| Gaojue (高覺) | *Fengshen Yanyi* | Demon general of King Zhou | Ancient willow tree demon; companion and counterpart to Gaoming |
-| Ying-ning (嬰寧) | *Liaozhai Zhiyi* | Fox spirit | Celebrated for her constant laughter; marries a human scholar; one of Pu Songling's most humanized yao portraits |
+| Nine-tailed Fox (九尾狐, Jiǔ wěi hú) | *Shanhaijing* | Spirit predator | Fox with nine tails; carnivorous; cry resembles a human infant; eating its flesh said to ward off poison |
+| Sun Wukong (孫悟空, Sūn Wùkōng) | *Xiyouji* | Demon King → Celestial rebel → Pilgrim disciple | Born of a cosmic stone; declared himself "Great Sage Equal to Heaven"; sealed under Five Elements Mountain 500 years; ultimately transcends the yaoguai category through the pilgrimage |
+| Zhu Bajie (豬八戒, Zhū Bājiè) | *Xiyouji* | Marshal of the Heavenly Canopy (banished), pig demon | Formerly a celestial official; exiled to earth and reborn in pig form; gluttony and lust dominate his nature |
+| Sha Wujing (沙悟淨, Shā Wùjìng) | *Xiyouji* | Curtain-Raising General (banished), river demon | Formerly a celestial official; exiled for shattering a jade cup; dwelt in Flowing Sand River preying on travellers |
+| White Bone Demon (白骨精, Báigǔ Jīng) | *Xiyouji* | Skeleton yaoguai | Transforms successively into a young woman, an old woman, and an old man to deceive the monk Xuanzang; paradigm case of deceptive shapeshifting |
+| Red Boy (紅孩兒, Hóng Háir) | *Xiyouji* | Holy Infant King, Demon Prince | Son of Bull Demon King; commands Samādhi Fire; subdued by Guanyin and became her attendant |
+| Bull Demon King (牛魔王, Niú Mó Wáng) | *Xiyouji* | Demon King | Father of Red Boy; husband of Lady Iron Fan; rules a mountain territory; immense strength in ox-demon true form |
+| Silver Horn King (银角大王, Yín Jiǎo Dà Wáng) | *Xiyouji* | Great King of Silver Horn, paired treasure-demon | Formerly Laozi's furnace attendant; commands a set of celestial treasures including a gourd that traps any being whose name is called; operates in tandem with Gold Horn King |
+| Gold Horn King (金角大王, Jīn Jiǎo Dà Wáng) | *Xiyouji* | Great King of Gold Horn, paired treasure-demon | Formerly Laozi's golden vessel attendant; commands the same celestial treasure set as his brother; operates in tandem with Silver Horn King |
+| Six-Eared Macaque (六耳猕猴, Liù Ěr Míhóu) | *Xiyouji* | Yaoguai impersonator | Perfectly replicates Sun Wukong in appearance, voice, staff, and all cultivated abilities; only the Buddha could distinguish them |
+| Lady Iron Fan (铁扇公主, Tiě Shān Gōngzhǔ) | *Xiyouji* | Princess Iron Fan, demon consort | Wife of Bull Demon King; possesses the Plantain Fan, which can extinguish the Flaming Mountains or generate destructive storms |
+| Daji (妲己, Dá Jǐ) | *Fengshen Yanyi* | Fox spirit / royal consort | Nine-tailed fox sent by the goddess Nüwa to possess the body of the Shang concubine Daji; her manipulations precipitate the fall of the Shang dynasty |
+| Gaoming (高明) | *Fengshen Yanyi* | Thousand-Li Eye (千里眼); later celestial god | Yaoguai born from a mulberry tree; sees across 1,000 *lǐ* (~500 km); apotheosised as a celestial god of sight after defeat in battle |
+| Gaojue (高覺) | *Fengshen Yanyi* | Wind-Following Ear (顺风耳); later celestial god | Yaoguai born from a peach tree; hears across vast distances; apotheosised as a celestial god of hearing; always paired with Gaoming |
+| Ying-ning (嬰寧, Yīng Níng) | *Liaozhai Zhiyi* | Fox spirit / mortal bride | Fox spirit raised among ghosts by her deceased human mother; marked by compulsive, uncontrollable laughter; eventually marries a mortal and gradually adopts human grief |
 
 ## Individual distinctions — Primary sources
 
-Only individuals who deviate meaningfully from what the racial profile already grants all yao members.
-
 **Sun Wukong**
-- `[Specialization-signature]` 72 Transformations (七十二變) — transforms into any creature, object, or person with complete fidelity; can spawn functional duplicates from plucked fur; far exceeds standard yao shapeshifting in range and precision
-- `[Specialization-signature]` Staff of Cosmic Power (如意金箍棒) — divine weapon can expand to fill the cosmos or shrink to a needle; intrinsically bound to him
-- `[Specialization-signature]` Indestructible body — after surviving Laozi's Eight Trigrams Furnace, his flesh became impervious to ordinary weapons and fire; transcends yao biological limits
-- `[Modifier]` Golden headband (金箍) — fitted by Guanyin Bodhisattva; tightens painfully when Xuanzang recites the Band-Tightening Spell, controlling Sun Wukong's conduct — *imposed by Guanyin as condition of his release from the Five Elements Mountain*
-- `[Modifier]` Five Elements Mountain imprisonment — held 500 years beneath Buddha's mountain until Xuanzang's arrival — *imposed by Buddha Tathagata as punishment for his heavenly rebellion*
-- `[Characteristic]` One of the Four Celestial Primates (四大靈猴) — born of stone infused with primordial essence; transcends all ten standard cosmic categories; NOT a normal yao subtype. The other three Celestial Primates are the Six-Eared Macaque, the Red-Buttocked Baboon (赤尻馬猴), and the Arm-Interconnected Gibbon (通臂猿猴).
+- `[Specialization-signature]` 72 Transformations (七十二变, *Qīshí'èr biàn*) — can assume any of 72 distinct forms, far exceeding standard yaoguai shapeshifting
+- `[Specialization-signature]` Invulnerable body — hardened by celestial peaches, pills of immortality, and Laozi's Eight Trigrams Furnace; cannot be harmed by most weapons or elements
+- `[Specialization-major]` Cloud-stepping somersault — a single leap covers 108,000 *lǐ* (~54,000 km)
+- `[Modifier]` Sealed under Five Elements Mountain for 500 years — *punishment by the Buddha following Sun Wukong's assault on the Heavenly Court*
+- `[Modifier]` Golden Headband (*Jīn Gū Zhòu*, 紧箍咒) — placed by Guanyin; tightened by Xuanzang's chant to enforce obedience
 
 **Zhu Bajie**
-- `[Modifier]` Pig reincarnation — former Heavenly Marshal Canopy (天蓬元帥) reborn as a pig yao after drunkenly accosting Chang'e — *imposed by the Jade Emperor as punishment*
-- `[Specialization-major]` Nine-Toothed Rake (九齒釘耙) — divine weapon retained from his celestial rank; far above standard yao weaponry
+- `[Fault]` Gluttony and lust intrinsic to his pig-demon nature and resistant to all cultivation effort — unlike Sun Wukong, he never fully overcomes these drives
+- `[Modifier]` Exiled and reborn in pig form — *punishment by the Jade Emperor for drunken misconduct during the Peach Banquet in heaven*
 
-**Sha Wujing**
-- `[Modifier]` River demon reincarnation — former Curtain-Lifting General (捲簾大將) reborn as a sand demon after accidentally shattering a crystal cup at a heavenly banquet — *imposed by the Jade Emperor as punishment*
+**Red Boy**
+- `[Specialization-major]` Samādhi Fire (三昧真火, *Sānmèi Zhēn Huǒ*) — an inextinguishable sacred fire that water cannot quench; neutralised Sun Wukong's water-based countermeasures
 
-**Red Boy (Hóng Hái'ér)**
-- `[Specialization-signature]` Samadhi Fire (三昧真火) — Buddhist/Daoist sacred flame that cannot be extinguished by ordinary water; uniquely powerful even among fire yao; eventually subdued by Guanyin who made him a dharma-protector child
+**Silver Horn King & Gold Horn King**
+- `[Specialization-major]` Celestial treasure set — includes a gourd and jade flask capable of trapping any being whose name is called aloud, plus a golden rope; these artefacts collectively overcame Sun Wukong on multiple encounters
+- `[Modifier]` Fell from celestial service and became demon kings — *formerly Laozi's furnace attendant and golden vessel boy respectively; descended from heaven and cultivated as yaoguai*
 
 **Six-Eared Macaque**
-- `[Specialization-signature]` Perfect duplication — can replicate Sun Wukong's appearance, voice, memories, and combat power with such fidelity that heaven's instruments, Guanyin, and the Dragon Kings could not distinguish them; only the Buddha could tell them apart
-- `[Characteristic]` One of the Four Celestial Primates — same transcendent-category status as Sun Wukong
+- `[Specialization-signature]` Perfect identity replication — perfectly copies Sun Wukong's appearance, voice, Ruyi Staff, and the full 72 Transformations; goes categorically beyond standard shapeshifting (any form) into exact replication of a specific individual's complete power set; only the Buddha could distinguish them
 
-**Daji**
-- `[Specialization-major]` Nine-tailed fox form — nine tails mark the highest tier of fox yao cultivation; attained after 1,000+ years of practice; rare even among senior fox yao
-- `[Modifier]` Mission of dynastic destruction — dispatched by Nüwa specifically to seduce King Zhou and accelerate the Shang dynasty's collapse — *imposed by Nüwa's divine decree* (*Fengshen Yanyi*)
+**Lady Iron Fan**
+- `[Modifier]` Possesses the Plantain Fan (芭蕉扇, *Bājiāo Shàn*) — a cosmological artefact attuned to the fires of the Flaming Mountains; can smother or amplify them and generate storms; central to her power but not intrinsic to her body — *origin: the fan predates Lady Iron Fan and is tied to the Flaming Mountains' cosmic fire rather than to her cultivation*
+
+**Daji (fox spirit)**
+- `[Modifier]` Possession of a mortal body rather than direct transformation — *sent by Nüwa as an instrument of the Shang dynasty's destined downfall; inhabits rather than fully replaces the historical concubine*
+
+**Gaoming & Gaojue**
+- `[Specialization-major]` Thousand-Li Eye (*Qiānlǐ Yǎn*, 千里眼) — Gaoming sees across 1,000 *lǐ* (~500 km), far beyond mortal or standard yaoguai sensory range
+- `[Specialization-major]` Wind-Following Ear (*Shùnfēng Ěr*, 顺风耳) — Gaojue hears sounds across comparable vast distances; together their combined senses formed an unmatched early-warning system
+
+**Ying-ning**
+- `[Fault]` Compulsive laughter — cannot suppress laughter regardless of social context; persists at funerals, rebukes, and scenes of grief; a residual fox-nature trace that cultivation and marriage gradually soften but do not erase
+- `[Characteristic]` Hybrid ghost-and-fox origin — raised among ghosts by her deceased human mother after her fox mother's death; neither fully fox-spirit nor ghost; her dual origin produces emotional detachment unusual even among fox spirits
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
 ### Primary sources
 
-- *Shanhaijing* (Classic of Mountains and Seas), anonymous, compiled c. 475–100 BCE
-- *Hanshu* (Book of Han), Ban Gu, c. AD 82
-- *Xiyouji* (Journey to the West), attributed to Wu Cheng'en, c. 1592
-- *Fengshen Yanyi* (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
-- *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio), Pu Songling, c. 1740
+- `[PD]` Shanhaijing (Classic of Mountains and Seas), Anonymous, compiled c. 475–100 BCE
+- `[PD]` Hanshu (Book of Han), Ban Gu, c. AD 82
+- `[PD]` Xiyouji (Journey to the West), attributed to Wu Cheng'en, c. 1592
+- `[PD]` Fengshen Yanyi (Investiture of the Gods), attributed to Xu Zhonglin, c. 1620
+- `[PD]` Liaozhai Zhiyi (Strange Tales from a Chinese Studio), Pu Songling, c. 1740
 
 ### Secondary sources
 
-- Yaoguai — Wikipedia
-- "How demons, spirits, ghosts and monsters are separated" — South China Morning Post
-- "Yaoguai and Mogui Explained" — Yin Leong
+- `[CC-BY-SA]` Wikipedia — "Yaoguai", https://en.wikipedia.org/wiki/Yaoguai

@@ -1,93 +1,89 @@
-# Maahiset
-
 > See also: [maahiset_finnish_roster.md](maahiset_finnish_roster.md)
 
-**Native name / Etymology:** Maahiset (Finnish plural of *maahinen*; from *maa* "earth, land, ground" + diminutive suffix *-hinen/-inen* "of/belonging to"; literally "earth-people" or "earth-dwellers"). Estonian cognate: *maa-alused* ("those under the earth"). Lude cognate: *muahiset*.
+> **Data provenance rule:** Only populate this file with information drawn from commercially usable sources — public domain, CC0, or CC-BY without NC/ND restrictions (e.g. D&D 5e SRD / CC-BY-4.0). Do not incorporate content from proprietary game systems, copyrighted novels, trademarked IP, or NC/ND-licensed sources. NC-licensed sources (e.g. CC-BY-NC-SA, CC-BY-NC-ND) may be used to confirm facts but must never be cited in this file — attribute the fact to its PD primary source instead. When in doubt, omit the data and note the gap in a `> **Note:**` callout.
+
+# Maahiset
+
+**Native name / Etymology:** *Maahinen* (Finnish sg.) / *Maahiset* (pl.); also *Maanalaiset* ("underground ones") — from Finnish *maa* "earth, land" + diminutive suffix *-hinen*, meaning "earth-dweller" or "earthling".
 
 **Source Layer:** Finnish
 
-**Primary origin:** Finnish folk religion and mythology — Kalevala (Elias Lönnrot, 1849), Mythologia Fennica (Christfrid Ganander, 1789), and Kalevala-metre folk poetry (Suomen kansan vanhat runot, 1908–1948)
+**Primary origin:** Finnish folk religion and oral tradition — attested in *Mythologia Fennica* (Ganander, 1789) and regional folk poetry collected in *Suomen kansan vanhat runot* (Finnish Literature Society, 1908–1948).
 
-**Biological Form:** Spirit
+**Biological Form:** Humanoid
 
-**Gender(s):** Male and Female — described as resembling ordinary humans of both sexes, proportionally reduced in scale
+**Entity type:** Race/Species
 
-**Common archetype/role in fiction:** Hidden folk
+**Gender(s):** Male and Female; no gender-specific behavioral distinctions documented in primary sources.
 
 ## One-line lore summary
 
-Diminutive invisible earth-dwellers of Finnish folklore who inhabit a mirror-world beneath the surface, guarding agricultural land and moral order while visiting illness and misfortune on humans who fail to show them proper respect.
+Small, mostly invisible earth spirits of Finnish folk religion who dwell beneath the human world in a mirrored underground domain, rewarding courtesy with protection and punishing disrespect with skin afflictions.
 
 ## Specializations
 
-- `[major]` **Mirror-world habitation** — Maahiset inhabit and maintain a complete underground world spatially and temporally inverted from the surface: day above is midnight below, up is down, right is left; no other known race builds or sustains an inverted parallel reality as a permanent dwelling
-- `[minor]` **Metsänpeitto** — can trigger *metsänpeitto* ("forest covering"), a phenomenon in which the forest shifts or closes around a person, causing them to become lost or imprisoned within a familiar landscape
-- `[minor]` **Earth-sickness infliction** — can cause *maa-sairaus* ("earth wrath"), a specific category of skin diseases (ulcers, ringworms, rashes, tetter, pimples) delivered from their underground domain; this is not ordinary illness but a targeted supernatural affliction
+- `[major]` **Disease-infliction** — can cause cutaneous afflictions in humans (ulcers, tetter, ringworm, pimples, and related skin conditions); this capacity exceeds normal biological range and cannot be replicated by other races through training.
+- `[minor]` **Persistent invisibility** — ordinarily imperceptible to human senses under normal conditions.
 
 ## Strengths
 
-- Promote crop growth and protect agricultural land within their territory
-- Possess detailed knowledge of their underground domain
-- Capable of initiating contact with humans to seek mutual aid, creating a basis for reciprocal exchange
+- Intimate knowledge of and authority over subterranean terrain and the inverted underground world that mirrors the human one above.
+- Awareness of human household conduct — particularly attentive to behavior during feasts, bakings, and brewings.
 
 ## Characteristics
 
-- Humanoid form resembling ordinary people, but diminutively small; everything they own is proportionally reduced in scale
-- Usually invisible to humans; can choose to be seen or encountered
-- Inhabit an underground realm beneath stumps, trees, thresholds, hearth-stones, springs, and clear ponds
-- Keep small livestock in their underground domain
-- Their subterranean world is an inverted mirror of the surface: midnight below corresponds to daytime above
-- Described in folk tradition as having "no human origin whatsoever" — categorically separate from ghosts or souls of the dead
+- Underground dwellers inhabiting a world believed to mirror the human world in inverted form beneath the ground.
+- Part of the Finnish *väki* (spirit-folk) system — specifically the earth-*väki*, one of the elemental spirit categories; considered more prominent within this system than most other *väki* types.
+- Dwell in close proximity to human habitation: found beneath stumps, trees, blocks, thresholds, and hearthstones.
+- Described as human-like in form but "exceedingly minute" — smaller than ordinary humans.
 
 ## Faults / Weaknesses
 
-- Easily offended by human negligence or failure to observe proper ritual courtesies (making obeisance at the four corners of a new house, sharing first portions at brewings, bakings, and feastings)
-- Small scale limits capacity for direct physical confrontation; their power operates through influence and affliction rather than strength
+- Easily offended and prone to hostile retaliation: any neglect of courtesy, domestic untidiness, or failure to include them during feasts and brewings reliably provokes punitive action.
+
+## Modifiers
+
+- **Reciprocity compulsion** — consistently punish neglect and reward courtesy and "kindly attentions" from humans; this behavioral pattern is described as predictable across primary sources. — *Finnish folk belief tradition, attested in Mythologia Fennica and Suomen kansan vanhat runot*
 
 ## Allies / Rivals / Enemies
 
 | Faction | Standing | Notes | Source |
 |---------|----------|-------|--------|
-| Tapio (forest deity) | Superior | Governs the broader forest spirit ecology within which maahiset operate | *Kalevala*; Finnish folk tradition |
-| Humans | Charge | Humans on maahiset territory are under their guardianship — relationship reverses to Enemy upon disrespect | Widespread Finnish folk tradition |
+| Humans | Charge | Maahiset govern the wellbeing of households and the land above their domain; humans who pay proper respect receive protection, those who neglect them suffer illness | *Mythologia Fennica*; *Suomen kansan vanhat runot* |
+
+> **Note:** Relationships with other *väki* categories (fire-*väki*, water-*väki*, forest-*väki*) are not well-attested in the available open primary sources and are omitted here.
 
 ## Ecology
 
-**Prey:** Small livestock kept underground; consistent with folk descriptions of their diminutive cattle; they do not appear to hunt surface animals
+**Prey:** N/A — spirit beings with no documented physical food consumption; may receive the spiritual essence of offerings made during feasts and brewings, but this is not explicitly stated in primary sources.
 
-**Predators:** N/A — subterranean spirit beings; their principal threat is human disrespect and neglect rather than natural predation
+**Predators:** N/A — no natural predators documented in primary sources. Gap noted: primary sources focus on the Maahiset's relationship with humans rather than ecological threats to the Maahiset themselves.
 
 ## Trademark status
 
 **Public domain status:**
-- *Source tradition:* Finnish and Baltic-Finnic oral/folk tradition — unambiguously public domain
-- *Key source text(s):* Kalevala, Elias Lönnrot, 1835/1849 — PD; Mythologia Fennica, Christfrid Ganander, 1789 — PD; Suomen kansan vanhat runot, Finnish Literature Society, 1908–1948 — PD
-- *Protected derivatives:* A 2023 Finnish film titled "Maahiset" exists (drama-comedy, unrelated to the folk tradition); copyright protected but not a game IP and not a trademark on the race concept. No major commercial game adaptations identified.
+- *Source tradition:* Finnish oral folk tradition — unambiguously public domain
+- *Key source text(s):* Mythologia Fennica, Christfrid Ganander, 1789 — PD; Suomen kansan vanhat runot, Finnish Literature Society, 1908–1948 — PD; Kalevala, Elias Lönnrot (compiler), final ed. 1849 — PD
+- *Protected derivatives:* None identified
 
-**Notable trademarks to avoid:** None known for "Maahiset" in game/entertainment categories.
+**Notable trademarks to avoid:** None known. "Maahinen" and "Maahiset" are traditional Finnish folklore terms in broad academic and cultural use with no identified trademark protection.
 
-> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, etc.) before any commercial use.
-
----
-
-> **Note on sources:** Maahiset are attested primarily as a collective folk-belief category rather than individualized characters; no named individuals appear in documented primary sources. The Estonian cognate *maa-alused* and the Lude *muahiset* confirm that belief in earth-dwelling spirit folk was widespread across Baltic-Finnic cultures, though exact traits vary by region. The relationship between maahiset and the broader haltija category is ambiguous in secondary literature — some scholars treat maahiset as a subtype of earth-haltija, while others treat them as a categorically distinct class with no human origin.
+> **Disclaimer:** This is general informational guidance, not legal advice. Verify with the relevant trademark database (USPTO TESS, EUIPO, PRH, etc.) before any commercial use.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[CC-BY-NC]` CC Attribution-NonCommercial · `[CC-BY-NC-SA]` CC Attribution-NonCommercial-ShareAlike · `[CC-BY-NC-ND]` CC Attribution-NonCommercial-NoDerivatives · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[GFDL]` GNU Free Documentation License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
+Cross-check every source against `.claude/skills/race-categorizer/references/sources_registry.md` before tagging. If a source is listed there, use its registered tag and URL. If it is new, add it to the registry after the session (step 5b).
+
 ### Primary sources
 
-- `[PD]` Kalevala, Elias Lönnrot (final edition 1849) — foundational Finnish epic; references to earth spirits and agricultural guardians; public domain
-- `[PD]` Mythologia Fennica, Christfrid Ganander (1789) — systematic encyclopedia of Finnish mythology; contextualizes maahiset within Finnish folk religion; public domain
-- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (1908–1948) — original Kalevala-metre folk poetry corpus; public domain
+- `[PD]` Kalevala, Elias Lönnrot (compiler), final edition 1849
+- `[PD]` Mythologia Fennica, Christfrid Ganander, 1789
+- `[PD]` Suomen kansan vanhat runot (Ancient Songs of the Finnish People), Finnish Literature Society (compiler), 1908–1948
 
 ### Secondary sources
 
-- `[CC-BY-SA]` Wikipedia: "Finnish mythology" — https://en.wikipedia.org/wiki/Finnish_mythology
-- `[CC-BY-SA]` Wikipedia: "Metsänpeitto" — https://en.wikipedia.org/wiki/Mets%C3%A4npeitto
-- `[CC-BY-SA]` Wikipedia: "Tapio (spirit)" — https://en.wikipedia.org/wiki/Tapio_(spirit)
-- `[PD*]` Monstropedia: "Maahiset" — https://monstropedia.org/index.php?title=Maahiset
-- `[PD*]` finnishmyth.org: "Elves, Gnomes and Spirits" — http://www.finnishmyth.org/FINNISH_MYTHS_GODS/ELVES_&_SPIRITS.html
-- `[PD*]` Wild of Lapland Forest: "Exploring Finnish Mythology" — https://wildlaplandforest.com/en/exploring-finnish-mythology-tales-of-gods-spirits-and-creation/
-- `[PD*]` Patheos: "Fairies In Finnish Mythology And Folklore" — https://www.patheos.com/blogs/mythsandfolklore/2023/03/fairies-in-finnish-mythology-and-folklore/
-- `[PD*]` Mythical Encyclopedia: "Finnish Mythology Creatures" — https://mythicalencyclopedia.com/finnish-mythology-creatures/
-- `[PD*]` Medium/Niina Pekantytär: "List of Finnish Deities and Nature Spirits" — https://littlewomen.medium.com/list-of-finnish-deities-and-nature-spirits-d8b58730f67b
+- `[CC-BY-SA]` Wikipedia — Finnish mythology articles, https://en.wikipedia.org/wiki/Finnish_mythology
+- `[CC-BY-SA]` Wiktionary — "maahinen", https://en.wiktionary.org/wiki/maahinen
+- `[GFDL]` Monstropedia — "Maahiset" (archived), https://monstropedia.org (use via Internet Archive: archive.org/details/wiki-monstropediaorg)

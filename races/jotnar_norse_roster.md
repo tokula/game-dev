@@ -50,13 +50,14 @@ The Nornir's authority extends over Jötnar as over all beings.
 
 ## Sources
 
+**Provenance tags:** `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` CC Attribution · `[CC-BY-SA]` CC Attribution-ShareAlike · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License · `[BLOCKED]` confirmed proprietary — do not use · append `*` when provenance is a best-guess rather than confirmed (e.g. `[PD*]`)
+
 ### Primary sources
 
-- Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá*, *Þrymskviða*, *Vafþrúðnismál*, *Hymiskviða*, *Hávamál*
-- Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
+- `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá*, *Þrymskviða*, *Vafþrúðnismál*, *Hymiskviða*, *Hávamál*
+- `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
 
 ### Secondary sources
 
-- Jötunn — Wikipedia
-- List of jötnar in Norse mythology — Wikipedia
-- World History Encyclopedia — Norse Giants, Surtr, Ragnarök
+- `[CC-BY-SA]` Jötunn — Wikipedia
+- `[CC-BY-SA]` List of jötnar in Norse mythology — Wikipedia
