@@ -20,18 +20,18 @@ The Nornir's authority extends over Jötnar as over all beings.
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Ymir | Prose Edda (*Gylfaginning*); *Völuspá* | Primordial frost giant; ancestor of all Jötnar | Killed by Odin, Vili, and Vé; his flesh became the earth, blood the sea, bones the mountains, skull the sky, brain the clouds |
-| Surtr | *Völuspá*; Prose Edda (*Gylfaginning*) | Lord of Muspelheimr; leader of the fire giants | Guards the fire realm before creation; wields a flaming sword brighter than the sun; will kill Freyr and burn the Nine Worlds at Ragnarök |
+| Angrboða | Prose Edda (*Gylfaginning*) | Jötunn mother | Bore three of Loki's monstrous children: Fenrir (wolf), Jörmungandr (World Serpent), and Hel (ruler of the dead) |
 | Bergelmir | Prose Edda (*Gylfaginning*) | Survivor of the primordial flood; ancestor of the living Jötnar race | He and his wife alone survived the flood of Ymir's blood; all living Jötnar descend from him |
+| Geirröðr | Prose Edda (*Skáldskaparmál*) | Hostile Jötunn lord | Trapped Thor without weapons; killed by Thor using a heated iron bar passed to him by the giantess Gríðr |
+| Hrungir | Prose Edda (*Skáldskaparmál*) | Stone giant; the strongest of all Jötnar apart from Surtr | Challenged Thor to single combat at Ásgarðr's gates; killed by Thor but left a whetstone fragment lodged permanently in Thor's skull |
+| Hymir | *Hymiskviða*, Poetic Edda | Frost giant; owner of the great cauldron | Thor journeyed to retrieve the cauldron for the gods' feast; Hymir's hall also contains his terrifying mother |
+| Skrymir | Prose Edda (*Gylfaginning*) | Giant encountered by Thor and Loki on the road to Útgarðr | Misdirected the gods with apparent hospitality; possibly a projection of Útgarða-Loki |
+| Surtr | *Völuspá*; Prose Edda (*Gylfaginning*) | Lord of Muspelheimr; leader of the fire giants | Guards the fire realm before creation; wields a flaming sword brighter than the sun; will kill Freyr and burn the Nine Worlds at Ragnarök |
 | Þjazi | Prose Edda (*Skáldskaparmál*) | Lord with eagle shapeshifting; owner of the mountain fortress Þrymheimr | Kidnapped Iðunn and her apples of immortality, causing the Æsir to begin aging; killed by Æsir fire; father of Skaði |
 | Þrymr | *Þrymskviða*, Poetic Edda | King of the frost giants | Stole Mjölnir and demanded Freyja as ransom; killed by Thor in disguise as the bride |
 | Útgarða-Loki | Prose Edda (*Gylfaginning*) | King of Útgarðr | Defeated Thor and Loki through cosmological-scale illusion magic; revealed the deception only after they departed his hall |
-| Hrungir | Prose Edda (*Skáldskaparmál*) | Stone giant; the strongest of all Jötnar apart from Surtr | Challenged Thor to single combat at Ásgarðr's gates; killed by Thor but left a whetstone fragment lodged permanently in Thor's skull |
-| Geirröðr | Prose Edda (*Skáldskaparmál*) | Hostile Jötunn lord | Trapped Thor without weapons; killed by Thor using a heated iron bar passed to him by the giantess Gríðr |
-| Hymir | *Hymiskviða*, Poetic Edda | Frost giant; owner of the great cauldron | Thor journeyed to retrieve the cauldron for the gods' feast; Hymir's hall also contains his terrifying mother |
-| Angrboða | Prose Edda (*Gylfaginning*) | Jötunn mother | Bore three of Loki's monstrous children: Fenrir (wolf), Jörmungandr (World Serpent), and Hel (ruler of the dead) |
-| Skrymir | Prose Edda (*Gylfaginning*) | Giant encountered by Thor and Loki on the road to Útgarðr | Misdirected the gods with apparent hospitality; possibly a projection of Útgarða-Loki |
 | Vafþrúðnir | *Vafþrúðnismál*, Poetic Edda | Ancient wisdom-giant | Odin visited him in disguise for a contest of cosmological riddles; possessed deeper knowledge of the world's origins than any Æsir except Odin himself |
+| Ymir | Prose Edda (*Gylfaginning*); *Völuspá* | Primordial frost giant; ancestor of all Jötnar | Killed by Odin, Vili, and Vé; his flesh became the earth, blood the sea, bones the mountains, skull the sky, brain the clouds |
 
 ## Individual distinctions — Primary sources
 

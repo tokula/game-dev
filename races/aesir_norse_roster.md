@@ -22,25 +22,25 @@ a cultural tradition or an open creative work.
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Odin (Óðinn) | *Völuspá*; *Hávamál*; *Gylfaginning* | Allfather; king of the Æsir | Commands Valhöll and the Einherjar; sacrificed an eye at Mímir's well for wisdom; hung on Yggdrasill for the runes |
-| Þórr (Thor) | *Þrymskviða*; *Hymiskviða*; *Gylfaginning* | Thunderer; protector of Miðgarðr and the gods | Wields Mjölnir; fated to die against Jörmungandr at Ragnarök |
-| Loki | *Lokasenna*; *Gylfaginning*; *Völuspá* | Trickster; blood-brother of Odin | Jötunn-born; counted Æsir by oath; engineers Baldr's death; bound underground until Ragnarök |
 | Baldr | *Gylfaginning*; *Völuspá* | God of light and purity | Conditionally invulnerable to all things save mistletoe; slain by Höðr; fated to return after Ragnarök |
-| Týr | *Lokasenna*; *Gylfaginning* | God of law and single combat | Lost his right hand to Fenrir's bite when the wolf was bound with Gleipnir |
-| Heimdall | *Völuspá*; *Grímnismál* | Watchman of Bifröst | Possesses Gjallarhorn; foreknowledge of Ragnarök; fated to kill and be killed by Loki |
-| Frigg | *Gylfaginning*; *Völuspá* | Wife of Odin; queen of the Æsir | Extracted oaths from all things to protect Baldr |
-| Njörðr | *Gylfaginning*; *Skáldskaparmál* | God of sea, wind, and fishing | Vanir-born; exchanged as hostage after the Æsir–Vanir War; counted Æsir |
-| Freyr | *Skírnismál*; *Gylfaginning* | God of fertility and prosperity | Vanir-born; gave away his sword for Gerðr; fated to fall to Surtr without it at Ragnarök |
-| Freyja | *Þrymskviða*; *Gylfaginning*; *Skírnismál* | Goddess of love, fertility, and war | Vanir-born; leads seiðr practice; receives half the battle-slain in Fólkvangr |
 | Bragi | *Lokasenna*; *Skáldskaparmál* | God of poetry and eloquence | Husband of Iðunn |
-| Iðunn | *Skáldskaparmál* | Keeper of the apples of immortality | Her abduction by Þjazi caused the Æsir to begin visibly ageing |
-| Höðr | *Gylfaginning*; *Völuspá* | Blind god | Unwittingly kills Baldr with mistletoe guided by Loki; killed by Váli in vengeance |
-| Víðarr | *Völuspá*; *Gylfaginning* | God of vengeance and silence | Fated to kill Fenrir at Ragnarök in revenge for Odin; one of the gods who survive |
-| Váli | *Gylfaginning*; *Völuspá* | God born for vengeance | Created specifically to avenge Baldr's death by killing Höðr; survives Ragnarök |
 | Forseti | *Gylfaginning*; *Grímnismál* | God of justice | Son of Baldr; presides over Glitnir, the hall of justice |
-| Ullr | *Grímnismál* | God of hunting and archery | Associated with winter, skiing, and the hunt; little narrative survives |
+| Freyja | *Þrymskviða*; *Gylfaginning*; *Skírnismál* | Goddess of love, fertility, and war | Vanir-born; leads seiðr practice; receives half the battle-slain in Fólkvangr |
+| Freyr | *Skírnismál*; *Gylfaginning* | God of fertility and prosperity | Vanir-born; gave away his sword for Gerðr; fated to fall to Surtr without it at Ragnarök |
+| Frigg | *Gylfaginning*; *Völuspá* | Wife of Odin; queen of the Æsir | Extracted oaths from all things to protect Baldr |
+| Heimdall | *Völuspá*; *Grímnismál* | Watchman of Bifröst | Possesses Gjallarhorn; foreknowledge of Ragnarök; fated to kill and be killed by Loki |
+| Höðr | *Gylfaginning*; *Völuspá* | Blind god | Unwittingly kills Baldr with mistletoe guided by Loki; killed by Váli in vengeance |
+| Iðunn | *Skáldskaparmál* | Keeper of the apples of immortality | Her abduction by Þjazi caused the Æsir to begin visibly ageing |
+| Loki | *Lokasenna*; *Gylfaginning*; *Völuspá* | Trickster; blood-brother of Odin | Jötunn-born; counted Æsir by oath; engineers Baldr's death; bound underground until Ragnarök |
 | Magni | *Gylfaginning*; *Vafþrúðnismál* | Son of Thor; inherits Mjölnir | Survives Ragnarök |
 | Móði | *Gylfaginning*; *Vafþrúðnismál* | Son of Thor | Survives Ragnarök alongside his brother Magni |
+| Njörðr | *Gylfaginning*; *Skáldskaparmál* | God of sea, wind, and fishing | Vanir-born; exchanged as hostage after the Æsir–Vanir War; counted Æsir |
+| Odin (Óðinn) | *Völuspá*; *Hávamál*; *Gylfaginning* | Allfather; king of the Æsir | Commands Valhöll and the Einherjar; sacrificed an eye at Mímir's well for wisdom; hung on Yggdrasill for the runes |
+| Þórr (Thor) | *Þrymskviða*; *Hymiskviða*; *Gylfaginning* | Thunderer; protector of Miðgarðr and the gods | Wields Mjölnir; fated to die against Jörmungandr at Ragnarök |
+| Týr | *Lokasenna*; *Gylfaginning* | God of law and single combat | Lost his right hand to Fenrir's bite when the wolf was bound with Gleipnir |
+| Ullr | *Grímnismál* | God of hunting and archery | Associated with winter, skiing, and the hunt; little narrative survives |
+| Váli | *Gylfaginning*; *Völuspá* | God born for vengeance | Created specifically to avenge Baldr's death by killing Höðr; survives Ragnarök |
+| Víðarr | *Völuspá*; *Gylfaginning* | God of vengeance and silence | Fated to kill Fenrir at Ragnarök in revenge for Odin; one of the gods who survive |
 
 ## Individual distinctions — Primary sources
 

@@ -14,12 +14,12 @@ Surtr stands supreme over the Eldjötnar as their ruler and champion. No interna
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Surtr | Völuspá; Gylfaginning | Ruler of Múspellsheim; commander of the Eldjötnar | Wields a sword brighter than the sun; slays Freyr at Ragnarök; casts fire over the world after the battle; name means "black/swart" |
-| Sinmara | Fjölsvinnsmál | Keeper of Lævateinn | Described as a "pale giantess"; holds the weapon Lævateinn in a chest with nine locks; relationship to Surtr and name etymology are both contested in scholarship — she may not be Eldjötnar proper |
-| Logi | Gylfaginning | Fire-jötunn; personification of wildfire | Son of Fornjótr — genealogically distinct from core Múspellsheim Eldjötnar; defeated Loki in an eating contest by consuming meat, bones, and the wooden trencher; exact classification as Eldjötnar vs. separate fire-spirit lineage is debated |
-| Glöð | Gylfaginning (by association) | Fire giantess; consort of Logi | Name means "glowing embers"; daughter of Grímr and Alvör |
-| Eisa | Gylfaginning (by association) | Daughter of Logi and Glöð | Name means "embers" |
 | Eimyrja | Gylfaginning (by association) | Daughter of Logi and Glöð | Name means "warm ashes/embers" |
+| Eisa | Gylfaginning (by association) | Daughter of Logi and Glöð | Name means "embers" |
+| Glöð | Gylfaginning (by association) | Fire giantess; consort of Logi | Name means "glowing embers"; daughter of Grímr and Alvör |
+| Logi | Gylfaginning | Fire-jötunn; personification of wildfire | Son of Fornjótr — genealogically distinct from core Múspellsheim Eldjötnar; defeated Loki in an eating contest by consuming meat, bones, and the wooden trencher; exact classification as Eldjötnar vs. separate fire-spirit lineage is debated |
+| Sinmara | Fjölsvinnsmál | Keeper of Lævateinn | Described as a "pale giantess"; holds the weapon Lævateinn in a chest with nine locks; relationship to Surtr and name etymology are both contested in scholarship — she may not be Eldjötnar proper |
+| Surtr | Völuspá; Gylfaginning | Ruler of Múspellsheim; commander of the Eldjötnar | Wields a sword brighter than the sun; slays Freyr at Ragnarök; casts fire over the world after the battle; name means "black/swart" |
 
 ## Individual distinctions — Primary sources
 

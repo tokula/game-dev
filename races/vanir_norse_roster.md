@@ -14,10 +14,10 @@ No documented internal hierarchy among the Vanir. Njörðr, Freyr, and Freyja ar
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Njörðr | *Gylfaginning*; *Skáldskaparmál* (Prose Edda); *Vafþrúðnismál* (Poetic Edda) | God of sea, winds, and coastal wealth; father of Freyr and Freyja | Sent as hostage to Æsir; briefly married Skaði (giantess), but the marriage ended over incompatible home preferences — mountain vs. coast |
-| Freyr | *Völuspá*; *Gylfaginning*; *Skírnismál* (Poetic Edda) | God of fertility, kingship, sunshine, and prosperity; received Álfheimr as a tooth-gift | "Foremost among the gods, hated by none" (*Gylfaginning*); surrendered his magical sword to win Gerðr; fated to fall to Surtr at Ragnarök |
 | Freyja | *Gylfaginning*; *Skáldskaparmál*; *Völuspá* (as Gullveig/Heiðr); *Lokasenna* | Goddess of love, fertility, seiðr, and war; receives half of all battle-slain | Foremost seiðr practitioner in the Nine Worlds; the other half of the battle-slain go to Odin; her arrival in Ásgarðr as "Gullveig" is identified by scholars as the event that triggered the Æsir-Vanir War |
+| Freyr | *Völuspá*; *Gylfaginning*; *Skírnismál* (Poetic Edda) | God of fertility, kingship, sunshine, and prosperity; received Álfheimr as a tooth-gift | "Foremost among the gods, hated by none" (*Gylfaginning*); surrendered his magical sword to win Gerðr; fated to fall to Surtr at Ragnarök |
 | Gullveig / Heiðr | *Völuspá*, stanzas 21–22 | Disputed figure whose burning by the Æsir ignited the war | Burned three times; reborn each time; widely identified with Freyja by scholars based on context, but not confirmed in any primary source |
+| Njörðr | *Gylfaginning*; *Skáldskaparmál* (Prose Edda); *Vafþrúðnismál* (Poetic Edda) | God of sea, winds, and coastal wealth; father of Freyr and Freyja | Sent as hostage to Æsir; briefly married Skaði (giantess), but the marriage ended over incompatible home preferences — mountain vs. coast |
 
 ## Individual distinctions — Primary sources
 

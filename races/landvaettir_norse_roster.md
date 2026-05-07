@@ -14,11 +14,11 @@ No unified hierarchy across all landvættir is documented. Each landvættr is so
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
+| Bergbúi | Landnámabók (by type) | Stone-spirit; formed alliances with individual settlers | Not a personal name but a type; one bergbúi formed a long-standing alliance with farmer Koðrán, ending only when Koðrán converted to Christianity |
 | Guardian of the East (dragon-form) | Óláfs saga Tryggvasonar, Heimskringla | Guardian of the eastern quarter of Iceland (Vopnafjörður region) | Described as a great dragon descending a valley breathing fire, accompanied by a host of serpents; conventional Icelandic name: Dreki |
 | Guardian of the North (eagle-form) | Óláfs saga Tryggvasonar, Heimskringla | Guardian of the northern quarter (Eyjafjörður region) | Described as an immense bird spanning the fjords, attended by many smaller birds; conventional Icelandic name: Gammur |
-| Guardian of the West (bull-form) | Óláfs saga Tryggvasonar, Heimskringla | Guardian of the western quarter (Breiðafjörður region) | Described as a great grey bull wading into the sea, bellowing, followed by a throng of lesser spirits; conventional Icelandic name: Griðungur |
 | Guardian of the South (giant-form) | Óláfs saga Tryggvasonar, Heimskringla | Guardian of the southern quarter | Described as a hill-giant standing among cliffs brandishing an iron staff, accompanied by other giants; conventional Icelandic name: Bergrisi |
-| Bergbúi | Landnámabók (by type) | Stone-spirit; formed alliances with individual settlers | Not a personal name but a type; one bergbúi formed a long-standing alliance with farmer Koðrán, ending only when Koðrán converted to Christianity |
+| Guardian of the West (bull-form) | Óláfs saga Tryggvasonar, Heimskringla | Guardian of the western quarter (Breiðafjörður region) | Described as a great grey bull wading into the sea, bellowing, followed by a throng of lesser spirits; conventional Icelandic name: Griðungur |
 
 > **Note:** The four guardians are described by form and region in Heimskringla but are not given personal names in the medieval text. The conventional names (Dreki, Gammur, Griðungur, Bergrisi) are modern Icelandic identifications associated with the coat of arms; they are listed here as labels only, not medieval attestations.
 

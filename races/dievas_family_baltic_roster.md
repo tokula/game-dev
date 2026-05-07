@@ -16,12 +16,12 @@ No formal rank structure among the sons is attested in primary sources; they fun
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
+| Ašvieniai | Lithuanian folk tradition; Lithuanian dainos | Divine horse twins; equine manifestation of the Dievo sūneliai | Cognates of Vedic Ashvins and Greek Dioscuri; appear as white horses with golden manes |
+| Aušrinė | Lithuanian dainos; Rėza 1825 | Morning star; daughter of Saulė; dawn herald | Kindles fire for Saulė each morning; appears as star, maiden, or mare |
 | Dievas (Lith.) / Dievs (Latv.) | Latvju dainas; Lithuanian dainos; Łasicki | Supreme sky-father; patriarch of the celestial household | Dwells on a silver mountain; maintains cosmic law; rarely intervenes directly |
 | Dievo sūneliai (Lith.) / Dieva dēli (Latv.) | Latvju dainas; Lithuanian dainos | Heavenly Twins; sons of Dievas | Collective; individual names not attested; known also as Ašvieniai in horse form |
-| Ašvieniai | Lithuanian folk tradition; Lithuanian dainos | Divine horse twins; equine manifestation of the Dievo sūneliai | Cognates of Vedic Ashvins and Greek Dioscuri; appear as white horses with golden manes |
-| Saulė (Lith.) / Saule (Latv.) | Latvju dainas; Lithuanian dainos; Rėza 1825 | Sun goddess; ruler of the adjacent celestial farmstead | Married to Mėnulis; rescued from the sea by the Dievo sūneliai |
-| Aušrinė | Lithuanian dainos; Rėza 1825 | Morning star; daughter of Saulė; dawn herald | Kindles fire for Saulė each morning; appears as star, maiden, or mare |
 | Mėnulis (Lith.) / Mēness (Latv.) | Latvju dainas; Lithuanian dainos | Moon god; husband of Saulė | Infidelity with Aušrinė led to disfigurement by Perkūnas; explains lunar phases |
+| Saulė (Lith.) / Saule (Latv.) | Latvju dainas; Lithuanian dainos; Rėza 1825 | Sun goddess; ruler of the adjacent celestial farmstead | Married to Mėnulis; rescued from the sea by the Dievo sūneliai |
 
 ## Individual distinctions — Primary sources
 

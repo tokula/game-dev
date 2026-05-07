@@ -16,9 +16,9 @@ Lesser Norns are subordinate by scope — they govern individual fates at births
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
+| Skuld | *Völuspá* st. 20; *Grímnismál* st. 36; *Gylfaginning* | One of the three great Norns; also named as a Valkyrie in *Grímnismál* | Name means "that which shall be / debt / obligation"; the only figure named in both the Nornir and Valkyrie roll-calls in primary sources — see note below |
 | Urðr | *Völuspá* st. 20; *Gylfaginning* | One of the three great Norns | Name means "that which was / wyrd"; etymologically identical to Anglo-Saxon *wyrd* (fate); considered the eldest of the three |
 | Verðandi | *Völuspá* st. 20; *Gylfaginning* | One of the three great Norns | Name means "that which is becoming / present happening" |
-| Skuld | *Völuspá* st. 20; *Grímnismál* st. 36; *Gylfaginning* | One of the three great Norns; also named as a Valkyrie in *Grímnismál* | Name means "that which shall be / debt / obligation"; the only figure named in both the Nornir and Valkyrie roll-calls in primary sources — see note below |
 
 ## Individual distinctions — Primary sources
 

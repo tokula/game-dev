@@ -14,21 +14,21 @@ No fixed hierarchy spans all yaoguai as a category. Demon kings (*yāowáng*, �
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Nine-tailed Fox (九尾狐, Jiǔ wěi hú) | *Shanhaijing* | Spirit predator | Fox with nine tails; carnivorous; cry resembles a human infant; eating its flesh said to ward off poison |
-| Sun Wukong (孫悟空, Sūn Wùkōng) | *Xiyouji* | Demon King → Celestial rebel → Pilgrim disciple | Born of a cosmic stone; declared himself "Great Sage Equal to Heaven"; sealed under Five Elements Mountain 500 years; ultimately transcends the yaoguai category through the pilgrimage |
-| Zhu Bajie (豬八戒, Zhū Bājiè) | *Xiyouji* | Marshal of the Heavenly Canopy (banished), pig demon | Formerly a celestial official; exiled to earth and reborn in pig form; gluttony and lust dominate his nature |
-| Sha Wujing (沙悟淨, Shā Wùjìng) | *Xiyouji* | Curtain-Raising General (banished), river demon | Formerly a celestial official; exiled for shattering a jade cup; dwelt in Flowing Sand River preying on travellers |
-| White Bone Demon (白骨精, Báigǔ Jīng) | *Xiyouji* | Skeleton yaoguai | Transforms successively into a young woman, an old woman, and an old man to deceive the monk Xuanzang; paradigm case of deceptive shapeshifting |
-| Red Boy (紅孩兒, Hóng Háir) | *Xiyouji* | Holy Infant King, Demon Prince | Son of Bull Demon King; commands Samādhi Fire; subdued by Guanyin and became her attendant |
 | Bull Demon King (牛魔王, Niú Mó Wáng) | *Xiyouji* | Demon King | Father of Red Boy; husband of Lady Iron Fan; rules a mountain territory; immense strength in ox-demon true form |
-| Silver Horn King (银角大王, Yín Jiǎo Dà Wáng) | *Xiyouji* | Great King of Silver Horn, paired treasure-demon | Formerly Laozi's furnace attendant; commands a set of celestial treasures including a gourd that traps any being whose name is called; operates in tandem with Gold Horn King |
-| Gold Horn King (金角大王, Jīn Jiǎo Dà Wáng) | *Xiyouji* | Great King of Gold Horn, paired treasure-demon | Formerly Laozi's golden vessel attendant; commands the same celestial treasure set as his brother; operates in tandem with Silver Horn King |
-| Six-Eared Macaque (六耳猕猴, Liù Ěr Míhóu) | *Xiyouji* | Yaoguai impersonator | Perfectly replicates Sun Wukong in appearance, voice, staff, and all cultivated abilities; only the Buddha could distinguish them |
-| Lady Iron Fan (铁扇公主, Tiě Shān Gōngzhǔ) | *Xiyouji* | Princess Iron Fan, demon consort | Wife of Bull Demon King; possesses the Plantain Fan, which can extinguish the Flaming Mountains or generate destructive storms |
 | Daji (妲己, Dá Jǐ) | *Fengshen Yanyi* | Fox spirit / royal consort | Nine-tailed fox sent by the goddess Nüwa to possess the body of the Shang concubine Daji; her manipulations precipitate the fall of the Shang dynasty |
-| Gaoming (高明) | *Fengshen Yanyi* | Thousand-Li Eye (千里眼); later celestial god | Yaoguai born from a mulberry tree; sees across 1,000 *lǐ* (~500 km); apotheosised as a celestial god of sight after defeat in battle |
 | Gaojue (高覺) | *Fengshen Yanyi* | Wind-Following Ear (顺风耳); later celestial god | Yaoguai born from a peach tree; hears across vast distances; apotheosised as a celestial god of hearing; always paired with Gaoming |
+| Gaoming (高明) | *Fengshen Yanyi* | Thousand-Li Eye (千里眼); later celestial god | Yaoguai born from a mulberry tree; sees across 1,000 *lǐ* (~500 km); apotheosised as a celestial god of sight after defeat in battle |
+| Gold Horn King (金角大王, Jīn Jiǎo Dà Wáng) | *Xiyouji* | Great King of Gold Horn, paired treasure-demon | Formerly Laozi's golden vessel attendant; commands the same celestial treasure set as his brother; operates in tandem with Silver Horn King |
+| Lady Iron Fan (铁扇公主, Tiě Shān Gōngzhǔ) | *Xiyouji* | Princess Iron Fan, demon consort | Wife of Bull Demon King; possesses the Plantain Fan, which can extinguish the Flaming Mountains or generate destructive storms |
+| Nine-tailed Fox (九尾狐, Jiǔ wěi hú) | *Shanhaijing* | Spirit predator | Fox with nine tails; carnivorous; cry resembles a human infant; eating its flesh said to ward off poison |
+| Red Boy (紅孩兒, Hóng Háir) | *Xiyouji* | Holy Infant King, Demon Prince | Son of Bull Demon King; commands Samādhi Fire; subdued by Guanyin and became her attendant |
+| Sha Wujing (沙悟淨, Shā Wùjìng) | *Xiyouji* | Curtain-Raising General (banished), river demon | Formerly a celestial official; exiled for shattering a jade cup; dwelt in Flowing Sand River preying on travellers |
+| Silver Horn King (银角大王, Yín Jiǎo Dà Wáng) | *Xiyouji* | Great King of Silver Horn, paired treasure-demon | Formerly Laozi's furnace attendant; commands a set of celestial treasures including a gourd that traps any being whose name is called; operates in tandem with Gold Horn King |
+| Six-Eared Macaque (六耳猕猴, Liù Ěr Míhóu) | *Xiyouji* | Yaoguai impersonator | Perfectly replicates Sun Wukong in appearance, voice, staff, and all cultivated abilities; only the Buddha could distinguish them |
+| Sun Wukong (孫悟空, Sūn Wùkōng) | *Xiyouji* | Demon King → Celestial rebel → Pilgrim disciple | Born of a cosmic stone; declared himself "Great Sage Equal to Heaven"; sealed under Five Elements Mountain 500 years; ultimately transcends the yaoguai category through the pilgrimage |
+| White Bone Demon (白骨精, Báigǔ Jīng) | *Xiyouji* | Skeleton yaoguai | Transforms successively into a young woman, an old woman, and an old man to deceive the monk Xuanzang; paradigm case of deceptive shapeshifting |
 | Ying-ning (嬰寧, Yīng Níng) | *Liaozhai Zhiyi* | Fox spirit / mortal bride | Fox spirit raised among ghosts by her deceased human mother; marked by compulsive, uncontrollable laughter; eventually marries a mortal and gradually adopts human grief |
+| Zhu Bajie (豬八戒, Zhū Bājiè) | *Xiyouji* | Marshal of the Heavenly Canopy (banished), pig demon | Formerly a celestial official; exiled to earth and reborn in pig form; gluttony and lust dominate his nature |
 
 ## Individual distinctions — Primary sources
 

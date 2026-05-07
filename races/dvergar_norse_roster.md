@@ -22,19 +22,19 @@ a cultural tradition or an open creative work.
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Mótsognir | *Völuspá* | Named first among dwarves in the dvergatal | Possibly a primordial or founding Dvergr |
+| Álvíss | *Álvíssmál* | Knowledge-keeper; sought to marry Þrúðr, Thor's daughter | Possessed the names of every object in all Nine Worlds in every language; petrified at dawn by sunlight after Thor delayed him through riddles |
+| Andvari | *Skáldskaparmál*; *Völsunga saga* | Hoard-keeper | Guarded a vast gold hoard in a waterfall in the form of a pike; forced by Loki to surrender the gold and his ring Andvaranaut, which he cursed before giving it up |
+| Brokkr | *Skáldskaparmál* | Master smith | With Sindri, forged Mjölnir, Draupnir, and Gullinbursti in a single wager against Loki |
 | Durinn | *Völuspá* | Named second in the dvergatal | Listed among the earliest dwarves |
 | Dvalinn | *Völuspá*; *Fáfnismál* | Elder figure; named in dvergatal | Appears in *Fáfnismál* among the dwarves who lie before Dellingr's doors |
-| Álvíss | *Álvíssmál* | Knowledge-keeper; sought to marry Þrúðr, Thor's daughter | Possessed the names of every object in all Nine Worlds in every language; petrified at dawn by sunlight after Thor delayed him through riddles |
-| Sons of Ivaldi | *Skáldskaparmál* (Prose Edda) | Master craftsmen; forged Gungnir (Odin's spear), Skiðblaðnir (the fold-up ship), and Sif's golden hair | Named as a collective group; individual names unattested; encountered in Svartálfaheimr — the decisive passage equating Svartálfar with Dvergar |
 | Fjalarr | *Skáldskaparmál* | Brewer | With Galarr, killed Kvasir and brewed the mead of poetry from his blood; also killed the giant Gillingr |
 | Galarr | *Skáldskaparmál* | Brewer | With Fjalarr; also killed Gillingr's wife |
-| Brokkr | *Skáldskaparmál* | Master smith | With Sindri, forged Mjölnir, Draupnir, and Gullinbursti in a single wager against Loki |
-| Sindri (Eitri) | *Skáldskaparmál* | Master smith | Senior partner in the Mjölnir forging; Loki (as a fly) bit his hand during the work, causing Mjölnir's short handle — the only flaw in the commission |
-| Andvari | *Skáldskaparmál*; *Völsunga saga* | Hoard-keeper | Guarded a vast gold hoard in a waterfall in the form of a pike; forced by Loki to surrender the gold and his ring Andvaranaut, which he cursed before giving it up |
-| Regin | *Völsunga saga* | Smith; foster-father of Sigurðr | Reforged the sword Gramr; brother of Fáfnir; manipulated Sigurðr to slay Fáfnir for the gold; killed by Sigurðr when Sigurðr learned his treacherous intent from tasting Fáfnir's blood |
-| Þráinn | *Völuspá* | Named in the dvergatal | One of many attested dwarf-names in the tally |
 | Gandálfr | *Völuspá* | Named in the dvergatal | Old Norse name from the primary sources; Tolkien borrowed this and many other dvergatal names for his dwarves and later repurposed "Gandalf" for his wizard |
+| Mótsognir | *Völuspá* | Named first among dwarves in the dvergatal | Possibly a primordial or founding Dvergr |
+| Regin | *Völsunga saga* | Smith; foster-father of Sigurðr | Reforged the sword Gramr; brother of Fáfnir; manipulated Sigurðr to slay Fáfnir for the gold; killed by Sigurðr when Sigurðr learned his treacherous intent from tasting Fáfnir's blood |
+| Sindri (Eitri) | *Skáldskaparmál* | Master smith | Senior partner in the Mjölnir forging; Loki (as a fly) bit his hand during the work, causing Mjölnir's short handle — the only flaw in the commission |
+| Sons of Ivaldi | *Skáldskaparmál* (Prose Edda) | Master craftsmen; forged Gungnir (Odin's spear), Skiðblaðnir (the fold-up ship), and Sif's golden hair | Named as a collective group; individual names unattested; encountered in Svartálfaheimr — the decisive passage equating Svartálfar with Dvergar |
+| Þráinn | *Völuspá* | Named in the dvergatal | One of many attested dwarf-names in the tally |
 
 ## Individual distinctions — Primary sources
 

@@ -25,11 +25,11 @@ No equivalent hierarchy is documented for household (*kotihaltija*), sauna (*sau
 
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
-| Tapio | *Kalevala*; *Mythologia Fennica* | King of forests; lord of Tapiola | Referred to by euphemistic hunter's titles: "grey-beard", "king of the forest", "forest's old man"; worshipped at *tapionpöytä* spruce formations |
 | Mielikki | *Kalevala*; *Mythologia Fennica* | Mistress of forests; governs healing and hunt success | More frequently prayed to than Tapio; her generosity manifests as plentiful game; depicted in golden dress when favorable, unkempt when game is scarce |
+| Nyyrikki | *Kalevala* | Son of Tapio and Mielikki; patron of hunters | Marks forest paths to aid hunters; name may derive from a bear-epithet root |
+| Tapio | *Kalevala*; *Mythologia Fennica* | King of forests; lord of Tapiola | Referred to by euphemistic hunter's titles: "grey-beard", "king of the forest", "forest's old man"; worshipped at *tapionpöytä* spruce formations |
 | Tellervo | *Kalevala* | Daughter of Tapio and Mielikki; forest maiden | Associated with clouds; described as a golden-haired forest maiden |
 | Tuulikki | *Kalevala* | Daughter of Tapio and Mielikki | Less extensively documented; name related to *tuuli* "wind" |
-| Nyyrikki | *Kalevala* | Son of Tapio and Mielikki; patron of hunters | Marks forest paths to aid hunters; name may derive from a bear-epithet root |
 
 ## Individual distinctions — Primary sources
 

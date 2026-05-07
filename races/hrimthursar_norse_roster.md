@@ -15,8 +15,8 @@ No formal internal hierarchy is documented among Hrímþursar beyond the genealo
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
 | Aurgelmir (= Ymir) | Vafþrúðnismál; Völuspá; Gylfaginning | Primordial progenitor of all Hrímþursar and all subsequent jötnar | Also called Ymir; arose from frozen venom-river drops in Ginnungagap; self-reproducing; body became the physical world after his slaying; name means "source-roarer" |
-| Þrúðgelmir | Vafþrúðnismál | Son of Aurgelmir; intermediate ancestor | Name means "might-roarer"; attested only in the genealogical chain; no further deeds recorded |
 | Bergelmir | Vafþrúðnismál; Gylfaginning | Post-flood patriarch; sole survivor of the Ymir-flood | Escaped on a *lúðr* with his wife; from them the entire race was repopulated; called "most powerful" among the eldest jötnar in Vafþrúðnismál; name may mean "bear-roarer" or "mountain-roarer" |
+| Þrúðgelmir | Vafþrúðnismál | Son of Aurgelmir; intermediate ancestor | Name means "might-roarer"; attested only in the genealogical chain; no further deeds recorded |
 | Vafþrúðnir | Vafþrúðnismál | Wise hrímþurs; host of the cosmic wisdom contest | Challenges Odin to a contest of cosmological knowledge and correctly answers many rounds before being defeated; name means "mighty in riddles" |
 
 ## Individual distinctions — Primary sources
