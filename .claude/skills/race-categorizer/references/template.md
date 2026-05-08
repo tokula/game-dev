@@ -10,15 +10,27 @@
 
 **Biological Form:** {One of: Humanoid, Beastfolk, Elemental, Spirit, Giantkin, Undead, Construct/Artificial, Plantfolk, Aberration/Eldritch}
 
-**Entity type:** {Race/Species | Singular Deity | Cosmological Personification | Primordial Being}
+**Entity type:** {Race/Species | Singular Deity | Cosmological Personification | Primordial Being | Unique creature (e.g. legendary beasts, mythological singularities)}
+
+**Scale:** *(Unique creature only)* {Personal | Settlement | Regional | Continental | Cosmic — derived from primary-source descriptions of scope and impact (e.g. "poisons a well" → Settlement; "devours the sun" → Cosmic); never from game stat blocks or adaptations}
+
+**Parent species:** *(Unique creature only, optional)* {Link to the race file if this creature is a named unique individual of a broader species — e.g. `[Basilisk](../races/basilisk_greek.md)`; must link only to a PD/CC0/open-licensed race file; if the race has not yet been profiled, write `{species name} — race not yet profiled`; omit entirely if there is no parent species}
+
+**Disposition:** *(Unique creature only)* {Default behaviour and motivation toward other beings in one short phrase, derived from primary sources only — e.g. "Predatory — attacks any intruder on sight" or "Indifferent — reacts only when its domain is disturbed"}
 
 **Gender(s):** {Female | Male | Male and Female | Sexless / N/A | other. Capture both biological sex and social gender expression; if they align write one value. Game-variant divergences go in Game depictions only — do not alter this field.}
 
-**Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable.}
+**Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable. **Omit for Unique creature entries.**}
 
 ## One-line lore summary
 
 {A single sentence capturing the essence of the race.}
+
+## Physical description
+
+*(Unique creature entries only — omit for races and deities.)*
+
+{Attested appearance from primary sources — body form, notable features, size if documented. Flag conflicting descriptions across sources with a `> **Note:**` callout.}
 
 ## Specializations
 

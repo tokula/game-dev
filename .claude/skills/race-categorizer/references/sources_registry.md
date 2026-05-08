@@ -132,6 +132,47 @@ Single source of truth for provenance tagging across all race profile files. The
 
 ---
 
+## Greek
+
+### Primary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Theogony | Hesiod | c. 700 BCE | [PD] | | 50-headed Cerberus; parentage (Typhon + Echidna); guardian role |
+| Shield of Heracles | Hesiod (attributed) | c. 600 BCE | [PD] | | Heracles labour context |
+| Odes (fragmentary) | Pindar | 5th century BCE | [PD] | | 100-headed Cerberus variant |
+| Iliad | Homer | c. 8th century BCE | [PD] | | Brief underworld reference |
+| Odyssey | Homer | c. 8th century BCE | [PD] | | Underworld context |
+| Bibliotheca (Library) | Apollodorus | c. 1st–2nd century CE | [PD] | | 3-headed canonical description; Heracles' twelfth labour |
+| Aeneid | Virgil | c. 19 BCE | [PD] | | Aeneas and Sibyl encounter with Cerberus (Book 6) |
+| Metamorphoses | Ovid | c. 8 CE | [PD] | | Psyche's honey-cake encounter |
+
+### Secondary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Wikipedia — "Cerberus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Cerberus | Confirmed CC-BY-SA 4.0 |
+
+---
+
+## Celtic (Irish)
+
+### Primary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Táin Bó Cúailnge (The Cattle Raid of Cooley) | Anonymous | c. 8th–12th century (oldest MS: Lebor na hUidhre, c. 1106) | [PD] | | Ulster Cycle; Morrígan encounters with Cú Chulainn; shape-shift episodes |
+| Cath Maige Tuired (Second Battle of Mag Tuired) | Anonymous | c. 9th–10th century | [PD] | | Mythological Cycle; Morrígan–Dagda meeting; battle prophecy and victory chant |
+| Lebor na hUidhre (Book of the Dun Cow) | Various compilers | Compiled c. 1106 | [PD] | | Oldest surviving Irish manuscript; contains Táin Bó Cúailnge and other Ulster Cycle texts |
+
+### Secondary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Wikipedia — "The Morrígan" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/The_Morr%C3%ADgan | Confirmed CC-BY-SA 4.0 |
+
+---
+
 ## Original canon (open-licensed)
 
 | Title | Author | Date | Tag | URL | Notes |

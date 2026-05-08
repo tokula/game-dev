@@ -74,6 +74,8 @@ Build structured Markdown profiles of mythological and fictional races for game-
    **5b — Update the registry** — for each approved source not already in `sources_registry.md`, append a new row to the appropriate tradition section (or Secondary/Academic if cross-tradition). Include title, author, date, tag (with `*` if uncertain), URL if found, and any notes. Do not add BLOCKED sources.
 
 6. **Fill the template** for each variant. The template lives at `.claude/skills/race-categorizer/references/template.md` (relative to the project root) — read it and follow it exactly. It includes the **Gender(s)** header field, the **Allies / Rivals / Enemies** table, and the **Ecology** section (Prey + Predators) — populate all three using the rules in step 4c. Also prepare a companion `{name}_{source}_roster.md` (see "Roster file").
+
+   **Unique creature template delta:** Two differences from the race template: (a) **include** the `## Physical description` section (attested appearance from primary sources; flag conflicting descriptions with a `> **Note:**` callout); (b) **omit** the `Common archetype/role in fiction` header field. All other sections apply unchanged.
 7. **Write files** to `./races/` (default) using the filename convention. Write both the main profile and the companion roster file. Handle existing files via diff prompt.
 8. **Summarize** what was created at the end (list files written, files skipped, any flags).
 
@@ -92,15 +94,20 @@ Three categories of input:
 
 **(c) Unique being with no parent race** — two sub-types:
 
-**(c1) Monstrous unique beings** — no race, but a closest racial grouping exists. Ask inline: "There's no race for [X]. Closest groupings: [A], [B], [C]. Use one of these? (pick one or skip)".
-- Fenrir → "jötnar offspring" or "monstrous wolves of Norse myth"
-- Jörmungandr → "jötnar offspring" or "primordial serpents"
-- Cerberus → "monstrous hounds of Greek underworld"
+**(c1) Monstrous unique beings** — no race, no divine domain. Two paths depending on whether a plausible racial grouping exists:
+- If a grouping exists, offer both options inline: "There's no race for [X]. Closest groupings: [A], [B]. Use one of these, or create a creature profile in `creatures/` instead? (pick grouping / creature / skip)"
+- If no plausible grouping exists, route directly to creatures: "There's no race for [X] — [X] appears to be a unique being with no racial grouping. Create a creature profile in `creatures/`? (y/n)"
+- Fenrir → plausible groupings: "jötnar offspring", "monstrous wolves of Norse myth" — or creature profile
+- Jörmungandr → plausible groupings: "jötnar offspring", "primordial serpents" — or creature profile
+- Cerberus → plausible groupings: "monstrous hounds of Greek underworld" — or creature profile
+- Kui → no plausible grouping → creature profile
 
 **(c2) Singular deities and cosmological personifications** — ontologically unique beings with no parent race and no meaningful racial grouping. Distinguish three grades:
 - **Singular Deity** — a named divine individual who governs a domain and can act, be offended, or be appeased (e.g. Peckols, Veliona, Zemes Māte)
 - **Cosmological Personification** — a being that *is* a concept rather than inhabiting it; impersonal, non-interactable as a person (e.g. Giltinė, Thanatos, Ananke, Kala)
 - **Primordial Being** — predates or constitutes the cosmic order; may be either personal or impersonal (e.g. God in Abrahamic theology)
+
+  > **Distinguishing Cosmological Personification from Unique creature:** If the entity has a separable physical form or tangible presence described in primary sources — a body, a location, the possibility of a physical encounter — route to `creatures/` as a Unique creature instead. Only use Cosmological Personification when the being IS the concept: no body, no fixed location, no physical encounter possible. Example: "The Unanswered Prayer" → if primary sources describe it as a tangible entity that haunts a place, it's a Unique creature; if it is simply the abstract condition of prayers going unanswered, personified without form, it's a Cosmological Personification.
 
 Ask inline: "There's no race for [X] — [X] is a [Singular Deity / Cosmological Personification / Primordial Being]. Create a deity profile in `deities/` instead? (y/n)". If yes, proceed with the same template (set `Entity type` accordingly) but skip the roster file. If no, skip.
 
@@ -144,18 +151,23 @@ If unsure how many variants to produce, list the candidates to the user and conf
 - Kitsune → `races/kitsune_east_asian.md`
 - Giltinė (deity profile) → `deities/giltine_baltic.md`
 - Thanatos (deity profile) → `deities/thanatos_greek.md`
+- Kui (creature profile) → `creatures/kui_east_asian.md`
 
 ## Output folder
 
 Default: `./races/` in the current working directory. Create it if it doesn't exist. If the user specifies a different folder, use that instead.
 
-**Deity profiles** (`Entity type` is not `Race/Species`) go in `./deities/` instead. Create it if it doesn't exist.
+**Deity profiles** (`Entity type: Singular Deity`, `Cosmological Personification`, or `Primordial Being`) go in `./deities/` instead. Create it if it doesn't exist.
+
+**Creature profiles** (`Entity type: Unique creature`) go in `./creatures/` instead. Create it if it doesn't exist.
 
 ## Roster file
 
 Every race profile gets a companion `{name}_{source}_roster.md` written alongside it. Cross-link both files with a `> See also:` line at the top of each.
 
 **Deity profiles** (`Entity type: Singular Deity`, `Cosmological Personification`, or `Primordial Being`) are singular by definition — skip the roster file entirely.
+
+**Creature profiles** (`Entity type: Unique creature`) are singular by definition — skip the roster file entirely.
 
 **Filename:** same base as the race file with `_roster` appended — e.g. `valkyrie_norse_roster.md`, `dwarf_norse_roster.md`.
 
@@ -309,10 +321,11 @@ The exact output template is in `.claude/skills/race-categorizer/references/temp
 After processing the batch, print a summary:
 
 ```
-Created: 6 files
+Created: 7 files
   - races/valkyrie_norse.md + races/valkyrie_norse_roster.md
   - races/dwarf_norse.md + races/dwarf_norse_roster.md
   - races/dwarf_slavic.md + races/dwarf_slavic_roster.md
+  - creatures/kui_east_asian.md
 Skipped: 1 (Thor — individual figure, user declined Æsir)
 Updated: 2 (races/orc_modern_literary.md + races/orc_modern_literary_roster.md — user accepted diff)
 Flags: 1 (dwarf_slavic.md — sources conflict on physical description, both noted)
