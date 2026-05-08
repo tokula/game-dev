@@ -22,9 +22,12 @@ The Nornir's authority extends over Jötnar as over all beings.
 |------|--------|-------------|-------|
 | Angrboða | Prose Edda (*Gylfaginning*) | Jötunn mother | Bore three of Loki's monstrous children: Fenrir (wolf), Jörmungandr (World Serpent), and Hel (ruler of the dead) |
 | Bergelmir | Prose Edda (*Gylfaginning*) | Survivor of the primordial flood; ancestor of the living Jötnar race | He and his wife alone survived the flood of Ymir's blood; all living Jötnar descend from him |
+| Fenrir | Prose Edda (*Gylfaginning*); *Völuspá* | Monstrous wolf; son of Loki and Angrboða | Bound by the magical ribbon Gleipnir until Ragnarök; will break free, swallow Odin, and be slain by Víðarr. → [fenrir_norse.md](../creatures/fenrir_norse.md) |
+| Fornjótr | Prose Edda (*Skáldskaparmál*; Náfnaþulur); *Hversu Noregr byggðist* | Primordial jötunn; progenitor of the elemental lineages | Father of Hlér/Ægir (sea), Logi (fire), and Kári (wind); kennings for wind cite "Son of Fornjótr"; described as ancient king of Kvenland/Finnland |
 | Geirröðr | Prose Edda (*Skáldskaparmál*) | Hostile Jötunn lord | Trapped Thor without weapons; killed by Thor using a heated iron bar passed to him by the giantess Gríðr |
 | Hrungir | Prose Edda (*Skáldskaparmál*) | Stone giant; the strongest of all Jötnar apart from Surtr | Challenged Thor to single combat at Ásgarðr's gates; killed by Thor but left a whetstone fragment lodged permanently in Thor's skull |
 | Hymir | *Hymiskviða*, Poetic Edda | Frost giant; owner of the great cauldron | Thor journeyed to retrieve the cauldron for the gods' feast; Hymir's hall also contains his terrifying mother |
+| Jörmungandr | Prose Edda (*Gylfaginning*); *Völuspá*; *Hymiskviða* | World Serpent; son of Loki and Angrboða | Cast into the ocean by Odin; encircles Midgard and bites its own tail; Thor's destined opponent at Ragnarök — both die from the encounter. → [jormungandr_norse.md](../creatures/jormungandr_norse.md) |
 | Skrymir | Prose Edda (*Gylfaginning*) | Giant encountered by Thor and Loki on the road to Útgarðr | Misdirected the gods with apparent hospitality; possibly a projection of Útgarða-Loki |
 | Surtr | *Völuspá*; Prose Edda (*Gylfaginning*) | Lord of Muspelheimr; leader of the fire giants | Guards the fire realm before creation; wields a flaming sword brighter than the sun; will kill Freyr and burn the Nine Worlds at Ragnarök |
 | Þjazi | Prose Edda (*Skáldskaparmál*) | Lord with eagle shapeshifting; owner of the mountain fortress Þrymheimr | Kidnapped Iðunn and her apples of immortality, causing the Æsir to begin aging; killed by Æsir fire; father of Skaði |
@@ -45,6 +48,9 @@ The Nornir's authority extends over Jötnar as over all beings.
 **Útgarða-Loki**
 - `[Specialization-major]` Mass illusion — able to create illusions of cosmological scale (a sleeping giant, the sea in a cup, a cat as the World Serpent) that deceived even Thor; the most sophisticated magic attributed to any Jötunn in primary sources
 
+**Fornjótr**
+- `[Specialization-major]` Elemental progenitor — his direct offspring are the personifications of sea (Hlér/Ægir), fire (Logi), and wind (Kári); the only attested jötunn whose lineage spans multiple distinct elemental domains simultaneously
+
 **Hrungir**
 - `[Characteristic]` Stone composition — his heart and shield were made of whetstone; the stone fragment he hurled during combat lodged permanently in Thor's skull — a lasting consequence even for the god who killed him
 
@@ -56,8 +62,11 @@ The Nornir's authority extends over Jötnar as over all beings.
 
 - `[PD]` Poetic Edda (anonymous, c. 10th–13th century) — *Völuspá*, *Þrymskviða*, *Vafþrúðnismál*, *Hymiskviða*, *Hávamál*
 - `[PD]` Prose Edda (Snorri Sturluson, c. 1220) — *Gylfaginning*, *Skáldskaparmál*
+- `[PD*]` Hversu Noregr byggðist (How Norway Was Settled), anonymous, c. 13th century, preserved in Flateyjarbók (compiled c. 1387–1394) — Fornjótr as primordial king of Kvenland/Finnland; lineage of Hlér, Logi, and Kári
+- `[PD*]` Orkneyinga saga, anonymous, c. 1200, preserved in Flateyjarbók — genealogical prologue citing Fornjótr's lineage
 
 ### Secondary sources
 
 - `[CC-BY-SA]` Jötunn — Wikipedia
 - `[CC-BY-SA]` List of jötnar in Norse mythology — Wikipedia
+- `[CC-BY-SA]` Fornjótr — Wikipedia (en.wikipedia.org/wiki/Fornjótr)

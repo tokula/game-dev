@@ -22,7 +22,7 @@ The primal race of Norse cosmology — predating the gods themselves, embodying 
 
 ## Specializations
 
-- `[signature]` **Elemental embodiment** — Distinct Jötunn lineages embody primordial forces: frost and ice (Hrímþursar), fire and heat (Eldjötnar / Múspelsmegir), stone and mountain. This is not magical ability but cosmological identity — Ymir's flesh *became* the earth at creation; Surtr's fire will end the age.
+- `[signature]` **Elemental embodiment** — Distinct Jötunn lineages embody primordial forces: frost and ice (Hrímþursar), fire and heat (Eldjötnar / Múspelsmegir), stone and mountain. This is not magical ability but cosmological identity — Ymir's flesh *became* the earth at creation; Surtr's fire will end the age. Fornjótr presents a still deeper layer: his sons are the personifications of sea (Hlér/Ægir), fire (Logi), and wind (Kári) simultaneously — a progenitor who spans multiple elemental domains rather than belonging to a single lineage.
 - `[major]` **Pre-cosmological wisdom** — Several Jötnar (Vafþrúðnir, Útgarða-Loki, Mímir) possess knowledge surpassing even Odin's, accumulated before the Æsir existed. Odin sought out Jötunn wisdom-keepers repeatedly.
 
 ## Strengths

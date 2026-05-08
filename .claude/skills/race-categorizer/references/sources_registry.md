@@ -32,6 +32,8 @@ Single source of truth for provenance tagging across all race profile files. The
 | Egils saga | Anonymous | c. 13th century | [PD] | | Níðstöng curse episode; landvættir directed to expel Eirik Bloodaxe and Gunnhild |
 | Grágás | Various compilers | c. 12th–13th century | [PD] | | Icelandic law code; mandates removal of dragon-prow figureheads before entering Icelandic harbours (landvættir protection) |
 | Fjölsvinnsmál | Anonymous | Late Eddic poem (date uncertain) | [PD] | | Sole attestation of Sinmara; not included in the core Codex Regius; scholarly identity of Sinmara contested |
+| Hversu Noregr byggðist (How Norway Was Settled) | Anonymous | c. 13th century (preserved in Flateyjarbók, compiled c. 1387–1394) | [PD*] | | Names Fornjótr as primordial king of Kvenland/Finnland; lists his sons Hlér/Ægir, Logi, Kári; genealogical prologue to Norwegian royal lines |
+| Orkneyinga saga | Anonymous | c. 1200 (preserved in Flateyjarbók, compiled c. 1387–1394) | [PD*] | | Genealogical prologue cites Fornjótr's lineage; medieval Icelandic saga |
 
 ### Secondary sources
 
@@ -42,6 +44,10 @@ Single source of truth for provenance tagging across all race profile files. The
 | Encyclopedia Mythica (Pantheon.org) | Various contributors | Ongoing | [CC-BY-NC-ND] | https://pantheon.org | Confirmed CC-BY-NC-ND 4.0; no derivative works · safe only if output contains no traceable expression — do not cite in race files |
 | Viking Archaeology: "Names of the Valkyries" | archeurope.com | Ongoing | [PD*] | https://archeurope.com | Educational archaeology site; no explicit open licence found — provenance unconfirmed |
 | Wikipedia — Snorri Sturluson | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Snorri_Sturluson | Confirmed CC-BY-SA 4.0; biography, political role (lawspeaker), assassination, and Prose Edda context |
+| Wikipedia — Fornjótr | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Fornj%C3%B3t | Confirmed CC-BY-SA 4.0; etymology, elemental sons, saga appearances |
+| Wikipedia — Jörmungandr | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/J%C3%B6rmungandr | Confirmed CC-BY-SA 4.0; origin, fishing episode, Ragnarök account, etymology |
+| Wikipedia — Fenrir | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Fenrir | Confirmed CC-BY-SA 4.0; binding, Gleipnir, Týr's hand, Ragnarök role |
+| Wikipedia — Nidhogg | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nidhogg | Confirmed CC-BY-SA 4.0; Yggdrasil role, Náströnd, post-Ragnarök survival, etymology |
 
 ---
 
