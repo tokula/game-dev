@@ -190,12 +190,19 @@ Single source of truth for provenance tagging across all race profile files. The
 | Táin Bó Cúailnge (The Cattle Raid of Cooley) | Anonymous | c. 8th–12th century (oldest MS: Lebor na hUidhre, c. 1106) | [PD] | | Ulster Cycle; Morrígan encounters with Cú Chulainn; shape-shift episodes |
 | Cath Maige Tuired (Second Battle of Mag Tuired) | Anonymous | c. 9th–10th century | [PD] | | Mythological Cycle; Morrígan–Dagda meeting; battle prophecy and victory chant |
 | Lebor na hUidhre (Book of the Dun Cow) | Various compilers | Compiled c. 1106 | [PD] | | Oldest surviving Irish manuscript; contains Táin Bó Cúailnge and other Ulster Cycle texts |
+| Lebor Gabála Érenn (Book of Invasions) | Anonymous | Compiled c. 11th century; MSS from c. 1150 | [PD] | | Pseudohistorical compilation; genealogy of the Morrígna; Ernmas kinship group; Badb and Macha lineage |
+| Togail Bruidne Dá Derga (Destruction of Da Derga's Hostel) | Anonymous | c. 11th–12th century MS; earliest MS: Lebor na hUidhre | [PD] | | Ulster Cycle; Badb as prophesying hag; Conaire Mór's downfall |
+| Noínden Ulad (The Debility of the Ulstermen) | Anonymous | Ulster Cycle; preserved in Lebor na hUidhre (c. 1106) | [PD] | | Macha's sovereignty curse on the Ulstermen; explains Ulstermen's vulnerability in Táin Bó Cúailnge |
+| Metrical Dindshenchas (Lore of Places) | Anonymous | c. 11th–12th century; Gwynn ed. 1903–1935 (PD); Stokes ed. 1894–1895 (PD) | [PD] | | Place-name lore; Macha/Emain Macha etymology; Macha genealogy |
 
 ### Secondary sources
 
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — "The Morrígan" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/The_Morr%C3%ADgan | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Badb" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Badb | Confirmed CC-BY-SA 4.0; battle-crow role, washer at ford, Badb Catha epithet |
+| Wikipedia — "Macha" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Macha | Confirmed CC-BY-SA 4.0; three Macha figures, sovereignty curse, Emain Macha |
+| Wikipedia — "Nemain" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nemain | Confirmed CC-BY-SA 4.0; battle-frenzy role, possible conflation with Badb |
 
 ---
 
