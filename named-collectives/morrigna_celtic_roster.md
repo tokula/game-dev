@@ -17,7 +17,9 @@ The Morrígna operate within the broader Tuatha Dé Danann assembly without a na
 | Name | Source | Rank / role | Notes |
 |------|--------|-------------|-------|
 | Badb | *Cath Maige Tuired*, *Táin Bó Cúailnge*, *Togail Bruidne Dá Derga*, *Lebor Gabála Érenn* | Battle-crow; harbinger of doom | Appears as crow or hag; washes armor at fords as death omen; delivers victory chant in *Cath Maige Tuired* |
-| Macha | *Noínden Ulad*, *Lebor Gabála Érenn*, *Metrical Dindshenchas* | Sovereignty goddess of Ulster | Three distinct figures share the name; Emain Macha (Navan Fort) named for her |
+| Macha Mong Ruad | *Lebor Gabála Érenn* | Warrior queen; sole female High King | Defeats rivals Díthorba and sons; forces them to build Emain Macha; epithet means "red-haired" |
+| Macha (daughter of Ernmas) | *Cath Maige Tuired*, *Lebor Gabála Érenn* | War goddess; Morrígna member | Daughter of Ernmas alongside Badb and Morrígan; the divine collective member; *Grian Banchure* epithet |
+| Macha (wife of Cruinniuc) | *Noínden Ulad*, *Metrical Dindshenchas* | Mortal sovereignty figure | Cursed the Ulstermen; daughter of Sainrith mac Imbaith; birth of twins at finish line |
 | Morrígan | *Táin Bó Cúailnge*, *Cath Maige Tuired* | Phantom Queen; name-giver of the collective | Shape-shifter; meets the Dagda at Samhain; antagonises Cú Chulainn; sometimes identified with Anu |
 | Nemain | *Táin Bó Cúailnge*, *Lebor na hUidhre* | Battle-frenzy spirit | Kills 100 warriors with a single cry; acts alongside the Morrígna in battle but is not enumerated as a collective member in any primary source; association with the group is secondary-source scholarly grouping |
 
@@ -30,11 +32,20 @@ The Morrígna operate within the broader Tuatha Dé Danann assembly without a na
 - `[Characteristic]` Kinship — daughter of Ernmas (divine mother of the war-goddess triad); sister of Macha and Morrígan; wife of Neit (god of battle) in most sources; daughter of Tethra (Fomorian king) in *Lebor Gabála Érenn*
 - `[Characteristic]` Possible identity with Nemain — secondary scholarship proposes the two may be the same figure or overlapping aspects; both share the wife-of-Neit relationship and battlefield-panic roles; Hennessy noted differing parentage across sources suggesting distinctness; no primary source resolves this — see Nemain entry
 
-**Macha**
-- `[Specialization-signature]` Sovereignty curse — in *Noínden Ulad*, a mortal Macha (wife of Cruinniuc) is coerced into racing the king's horses while heavily pregnant; she wins but collapses at the finish line, gives birth to twins, and with her dying breath curses all Ulstermen to suffer the debility of a woman in labour for five days and four nights at their time of greatest need; the curse endures for nine generations and directly explains the Ulstermen's vulnerability during *Táin Bó Cúailnge*
-- `[Strength]` Sovereignty over Ulster — Emain Macha (Navan Fort) and Ard Macha (Armagh) are named for her; she is the land-sovereignty goddess of the Ulster territory
-- `[Characteristic]` Horse association — connected to horses and racing in both her mortal and divine manifestations
-- `[Characteristic]` Multiple attested identities — three distinct figures named Macha appear across sources: (1) a warrior queen who defeats rivals and founds Emain Macha (*Lebor Gabála Érenn*); (2) a war manifestation alongside Badb and Morrígan; (3) the mortal wife of Cruinniuc (*Noínden Ulad*). Medieval sources treat these as the same being; modern scholarship is divided
+**Macha Mong Ruad** ("red-haired")
+- `[Strength]` Sole female High King — the only woman recorded as High King of Ireland in the traditional king-list; defeated rivals Díthorba and his sons in battle (*Lebor Gabála Érenn*)
+- `[Specialization-major]` Sovereignty founding — forced her defeated enemies to build Emain Macha (Navan Fort) using her brooch as the measure; ruled for 14 years
+
+**Macha (daughter of Ernmas)**
+- `[Characteristic]` Morrígna member — the divine war-goddess aspect; daughter of Ernmas alongside Badb and the Morrígan; acts with the collective in battle contexts (*Cath Maige Tuired*, *Lebor Gabála Érenn*)
+- `[Characteristic]` Epithet *Grian Banchure* ("Sun of Womanfolk") — appears as a secondary name in some sources
+- `[Strength]` Sovereignty over Ulster — Emain Macha and Ard Macha (Armagh) are named for this figure; land-sovereignty goddess of the Ulster territory
+
+**Macha (wife of Cruinniuc)**
+- `[Specialization-signature]` Sovereignty curse — coerced into racing the king's horses while heavily pregnant; wins, collapses at the finish line, gives birth to twins, and curses all Ulstermen to suffer the debility of a woman in labour for five days and four nights at their time of greatest need; the curse endures for nine generations and directly explains the Ulstermen's vulnerability during *Táin Bó Cúailnge* (*Noínden Ulad*)
+- `[Characteristic]` Horse association — supernatural speed even while pregnant; named daughter of Sainrith mac Imbaith in primary sources
+
+> **Note on the three Machas:** Primary sources present these as three separate narrative figures who share the name. No medieval primary text explicitly identifies them as the same being — the "three Machas" framework is a construction of modern scholarship (Proinsias Mac Cana discusses three; Gregory Toner discusses four). Each identity is listed separately here per the multiple-identity members rule: the primary-source record treats them as distinct narratives.
 
 **Morrígan (individual)**
 - `[Specialization-signature]` Shape-shifting — attested forms in *Táin Bó Cúailnge*: crow/raven, eel, wolf, heifer, old woman; all deliberate, narrative-purpose transformations

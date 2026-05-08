@@ -39,6 +39,8 @@ Primary and original-canon individuals only. Game-invented figures have their ow
 
 > **Named Collective note:** For Named Collective profiles, this section is mandatory — do not omit it even when individuals closely resemble the collective profile. Every named member should appear here with any trait that differs from (or adds to) the collective baseline. The individual distinctions are the core game-design value of a Named Collective entry.
 
+> **Multiple-identity members:** When a named member appears in primary sources under distinct names or epithets across separate, unequated narratives, list each attested identity as its own `**{Name (epithet or context)}**` entry. Add a `> **Note:**` callout explaining that the equation of these figures is secondary scholarship, not primary-source attested.
+
 **{Name}**
 - `[Specialization-major]` {trait that exceeds what the racial profile grants all members}
 - `[Modifier]` {imposed condition unique to this individual} — *{origin}*

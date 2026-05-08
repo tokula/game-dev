@@ -211,6 +211,8 @@ Every race profile gets a companion `{name}_{source}_roster.md` written alongsid
 
 **Filename:** same base as the race file with `_roster` appended — e.g. `valkyrie_norse_roster.md`, `dwarf_norse_roster.md`.
 
+**Multiple-identity individuals:** When a named individual in any roster appears in primary sources under distinct names or epithets across separate, unequated narratives — and no primary source explicitly identifies them as the same being — list each attested identity as its own `**{Name (epithet or context)}**` entry in `## Individual distinctions`, and as its own row in `## Named individuals`. Use the attested epithet or a parenthetical context label to distinguish them (e.g. `**Macha Mong Ruad**`, `**Macha (daughter of Ernmas)**`, `**Macha (wife of Cruinniuc)**`). Add a `> **Note:**` callout explaining that the equation of these figures is a secondary scholarly framework, not primary-source attested — attribute any modern scholar who makes the equation by name. Do not silently collapse distinct primary-source narratives under one entry.
+
 **Structure:**
 
 The exact roster template is in `.claude/skills/race-categorizer/references/roster_template.md` — read it and follow it verbatim for every roster file produced. Do not improvise sections or reorder fields.
