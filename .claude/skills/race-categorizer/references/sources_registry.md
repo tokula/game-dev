@@ -194,6 +194,12 @@ Single source of truth for provenance tagging across all race profile files. The
 | Togail Bruidne Dá Derga (Destruction of Da Derga's Hostel) | Anonymous | c. 11th–12th century MS; earliest MS: Lebor na hUidhre | [PD] | | Ulster Cycle; Badb as prophesying hag; Conaire Mór's downfall |
 | Noínden Ulad (The Debility of the Ulstermen) | Anonymous | Ulster Cycle; preserved in Lebor na hUidhre (c. 1106) | [PD] | | Macha's sovereignty curse on the Ulstermen; explains Ulstermen's vulnerability in Táin Bó Cúailnge |
 | Metrical Dindshenchas (Lore of Places) | Anonymous | c. 11th–12th century; Gwynn ed. 1903–1935 (PD); Stokes ed. 1894–1895 (PD) | [PD] | | Place-name lore; Macha/Emain Macha etymology; Macha genealogy |
+| Cath Maige Tuired hÉchtarach (First Battle of Mag Tuired) | Anonymous | c. 9th century | [PD] | | First battle; Tuatha Dé Danann vs. Fir Bolg; Nuada's hand severed; establishes Tuatha Dé dominion |
+| Sanas Cormaic (Cormac's Glossary) | Anonymous | c. 10th century | [PD] | | Old Irish etymology and attributes of divine names; Ogma, Brigid, Tuatha Dé members |
+| Tochmarc Étaíne (Wooing of Étaín) | Anonymous | c. 8th–12th century | [PD] | | Aengus and Étaín; Tuatha Dé transformation, reincarnation, and love across mortal-divine boundaries |
+| De Gabáil in t-Sída (Taking of the Fairy Mound) | Anonymous | c. Medieval | [PD] | | Aengus takes Brú na Bóinne; Tuatha Dé settlement in sídhe after Milesian defeat |
+| Acallam na Senórach (Colloquy of the Ancients) | Anonymous | c. 12th century | [PD] | | Fenian cycle; retrospective accounts of earlier mythological conflicts including Fomorians |
+| Genealogies from Rawlinson B 502 | Anonymous | c. 1120–1130 CE (Bodleian Library MS Rawl. B. 502; CELT corpus digital ed.: celt.ucc.ie) | [PD] | https://celt.ucc.ie/published/G105003/index.html | Fomorian genealogies; Balor, Ethniu, and dynastic relationships; confirmed PD — anonymous medieval scribes, predates 1700 |
 
 ### Secondary sources
 
@@ -203,6 +209,9 @@ Single source of truth for provenance tagging across all race profile files. The
 | Wikipedia — "Badb" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Badb | Confirmed CC-BY-SA 4.0; battle-crow role, washer at ford, Badb Catha epithet |
 | Wikipedia — "Macha" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Macha | Confirmed CC-BY-SA 4.0; three Macha figures, sovereignty curse, Emain Macha |
 | Wikipedia — "Nemain" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nemain | Confirmed CC-BY-SA 4.0; battle-frenzy role, possible conflation with Badb |
+| Wikipedia — "Tuatha Dé Danann" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Fomorians" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Fomorians | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Balor" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Balor | Confirmed CC-BY-SA 4.0; Eye of Death, Lugh's parentage, Second Battle of Mag Tuired |
 
 ---
 
