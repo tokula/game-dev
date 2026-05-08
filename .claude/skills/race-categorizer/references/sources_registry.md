@@ -138,20 +138,26 @@ Single source of truth for provenance tagging across all race profile files. The
 
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
-| Theogony | Hesiod | c. 700 BCE | [PD] | | 50-headed Cerberus; parentage (Typhon + Echidna); guardian role |
+| Theogony | Hesiod | c. 700 BCE | [PD] | | 50-headed Cerberus; parentage (Typhon + Echidna); guardian role; Lernaean Hydra (parentage); Orthrus (parentage, two-headed, fatherhood claim ll. 326–329, Evelyn-White 1914 PD trans.); Chimera (parentage, fire from goat head, ll. 319–325) |
 | Shield of Heracles | Hesiod (attributed) | c. 600 BCE | [PD] | | Heracles labour context |
 | Odes (fragmentary) | Pindar | 5th century BCE | [PD] | | 100-headed Cerberus variant |
-| Iliad | Homer | c. 8th century BCE | [PD] | | Brief underworld reference |
+| Iliad | Homer | c. 8th century BCE | [PD] | | Brief underworld reference; Chimera physical description (Book 6.179–183) — Murray 1924 Loeb trans. (PD; Murray d. 1940) used for direct quotation |
 | Odyssey | Homer | c. 8th century BCE | [PD] | | Underworld context |
-| Bibliotheca (Library) | Apollodorus | c. 1st–2nd century CE | [PD] | | 3-headed canonical description; Heracles' twelfth labour |
+| Bibliotheca (Library) | Apollodorus | c. 1st–2nd century CE | [PD] | | 3-headed Cerberus (twelfth labour); Hydra 2nd labour (9 heads, 8 mortal + 1 immortal, two-per-cut regeneration, Hera's crab); Orthrus 10th labour (Geryon's cattle); Chimera (Bellerophon + Pegasus + lead-tip spear) |
 | Aeneid | Virgil | c. 19 BCE | [PD] | | Aeneas and Sibyl encounter with Cerberus (Book 6) |
 | Metamorphoses | Ovid | c. 8 CE | [PD] | | Psyche's honey-cake encounter |
+| Fabulae (Genealogiae) | Hyginus | c. 1st–2nd century CE | [PD] | | Lernaean Hydra parentage (Preface; 30; 151) and poison; Chimera parentage (57; 151) — Typhon + Echidna confirmed |
+| Description of Greece | Pausanias | c. 2nd century CE | [PD] | | Lernaean geography; Hydra lair at Lerna (2.37.4) |
+| Posthomerica (Fall of Troy) | Quintus Smyrnaeus | c. 4th century CE | [PD] | | References Orthrus among the monsters of Geryon's realm |
 
 ### Secondary sources
 
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — "Cerberus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Cerberus | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Lernaean Hydra" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Lernaean_Hydra | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Orthrus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Orthrus | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Chimera (mythology)" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Chimera_(mythology) | Confirmed CC-BY-SA 4.0 |
 
 ---
 
@@ -213,3 +219,4 @@ Sources verified as proprietary. Listed here so the skill matches and excludes t
 | Fairychamber Substack (fairychamber.substack.com) | Niina Niskanen | © Niina Niskanen | Substack footer "© 2026 Niina Niskanen"; no CC or reuse grant found | 2026-05-04 |
 | Baltic Pagan Blog (balticpagan.wordpress.com) | Unknown author | © author | No licence notice on site; WordPress default — author retains all rights | 2026-05-04 |
 | Baltų religijos ir mitologijos šaltiniai (4 vols.) | Norbertas Vėlius (ed.) | © Mokslo ir enciklopedijų leidykla | Editorial apparatus in copyright (Vėlius died 1996; ~2066 under 70-year rule); underlying primary texts are PD and may be cited directly — research only for the collection itself | 2026-05-04 |
+| Hesiod: Theogony (Oxford edition with commentary) | M.L. West | © Oxford University Press, 1966 | Scholarly edition under copyright (West died 2015; ~2086 under 70-year rule); used only as bibliographic attribution for the Chimaera-as-subject reading of Theogony ll. 326–329 in orthrus_greek.md — no content reproduced; do not quote or reproduce | 2026-05-08 |
