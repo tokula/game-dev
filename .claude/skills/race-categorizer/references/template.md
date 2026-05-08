@@ -10,7 +10,9 @@
 
 **Biological Form:** {One of: Humanoid, Beastfolk, Elemental, Spirit, Giantkin, Undead, Construct/Artificial, Plantfolk, Aberration/Eldritch}
 
-**Entity type:** {Race/Species | Singular Deity | Cosmological Personification | Primordial Being | Unique creature (e.g. legendary beasts, mythological singularities)}
+**Entity type:** {Race/Species | Named Collective | Singular Deity | Cosmological Personification | Primordial Being | Unique creature (e.g. legendary beasts, mythological singularities)}
+
+**Membership:** *(Named Collective only)* {Count and how it is determined — e.g. "3 fixed by tradition", "5 per Shiji canon; variants list 4–6", "9 fixed in canonical sources". Note if membership varies between primary sources. Omit this field for all other entity types.}
 
 **Scale:** *(Unique creature only)* {Personal | Settlement | Regional | Continental | Cosmic — derived from primary-source descriptions of scope and impact (e.g. "poisons a well" → Settlement; "devours the sun" → Cosmic); never from game stat blocks or adaptations}
 
@@ -18,7 +20,7 @@
 
 **Disposition:** *(Unique creature only)* {Default behaviour and motivation toward other beings in one short phrase, derived from primary sources only — e.g. "Predatory — attacks any intruder on sight" or "Indifferent — reacts only when its domain is disturbed"}
 
-**Gender(s):** {Female | Male | Male and Female | Sexless / N/A | other. Capture both biological sex and social gender expression; if they align write one value. Game-variant divergences go in Game depictions only — do not alter this field.}
+**Gender(s):** {Female | Male | Male and Female | Sexless / N/A | other. Capture both biological sex and social gender expression; if they align write one value. Game-variant divergences go in Game depictions only — do not alter this field. For Named Collectives with mixed-gender members, write "Varied — see individual roster entries" and record per-member gender in the roster's Individual distinctions section.}
 
 **Common archetype/role in fiction:** {Optional, multi-value. One or more of: Warrior culture, Scholarly, Nomadic, Divine servants, Corrupted/exiled, Merchant civilization. Omit this line if not applicable. **Omit for Unique creature entries.**}
 

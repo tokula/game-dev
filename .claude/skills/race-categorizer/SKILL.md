@@ -1,6 +1,6 @@
 ---
 name: race-categorizer
-description: Categorize fictional or mythological races/species used in games (such as Valkyries, Orcs, Leprechauns, Dwarves, Vampires, Tieflings) into structured Markdown profile files following a fixed template. Use this skill whenever the user wants to research, document, classify, or build a reference library of game races, mythological beings, fantasy species, monster types, or playable races, even if they don't explicitly say "categorize" — phrases like "make a race profile for X", "add Orcs to my races folder", "look up Valkyries", or "what kind of creature is a Kitsune" should all trigger this skill. Also trigger for batch requests like "Valkyries, Orcs, Leprechauns" and for races with multiple cultural origins (e.g. Dwarves exist in both Norse and Slavic myth — produce one file per origin).
+description: Categorize fictional or mythological races/species used in games (such as Valkyries, Orcs, Leprechauns, Dwarves, Vampires, Tieflings) into structured Markdown profile files following a fixed template. Use this skill whenever the user wants to research, document, classify, or build a reference library of game races, mythological beings, fantasy species, monster types, or playable races, even if they don't explicitly say "categorize" — phrases like "make a race profile for X", "add Orcs to my races folder", "look up Valkyries", or "what kind of creature is a Kitsune" should all trigger this skill. Also trigger for batch requests like "Valkyries, Orcs, Leprechauns" and for races with multiple cultural origins (e.g. Dwarves exist in both Norse and Slavic myth — produce one file per origin). Also trigger for named divine groups, divine collectives, or finite groups of legendary beings (e.g. "Three Sovereigns", "Nine Muses", "Four Heavenly Kings").
 ---
 
 # Race Categorizer
@@ -41,6 +41,7 @@ Build structured Markdown profiles of mythological and fictional races for game-
    - If they align, write one value (e.g. "Female"). If they differ, note both (e.g. "Biologically asexual; socially gendered female in primary sources").
    - Sexless, spirit, elemental, or construct races: write "Sexless / N/A" unless primary sources specify otherwise.
    - Game variants that introduce a different gender → Game depictions section only; do not alter this field.
+   - Named Collectives with mixed-gender members: write "Varied — see individual roster entries"; populate per-member gender in the roster's Individual distinctions section.
 
    **Allies / Rivals / Enemies table:**
    - Source: primary sources or original canon only. If a relationship appears only in a game or novel, it goes in the Roster's Games table — not here.
@@ -76,6 +77,12 @@ Build structured Markdown profiles of mythological and fictional races for game-
 6. **Fill the template** for each variant. The template lives at `.claude/skills/race-categorizer/references/template.md` (relative to the project root) — read it and follow it exactly. It includes the **Gender(s)** header field, the **Allies / Rivals / Enemies** table, and the **Ecology** section (Prey + Predators) — populate all three using the rules in step 4c. Also prepare a companion `{name}_{source}_roster.md` (see "Roster file").
 
    **Unique creature template delta:** Two differences from the race template: (a) **include** the `## Physical description` section (attested appearance from primary sources; flag conflicting descriptions with a `> **Note:**` callout); (b) **omit** the `Common archetype/role in fiction` header field. All other sections apply unchanged.
+
+   **Named Collective template delta:** Three differences from the regular race template:
+   (a) Set `Entity type` to "Named Collective".
+   (b) Populate the new `Membership:` field — count, how membership is determined, whether it varies by source.
+   (c) In the roster file, the `## Individual distinctions` section is **mandatory and comprehensive** — list all named members, even those who closely resemble the collective profile. For Named Collectives, individual variation is the primary game-design payload. Do not omit this section.
+   All other race template sections apply unchanged.
 7. **Write files** to `./races/` (default) using the filename convention. Write both the main profile and the companion roster file. Handle existing files via diff prompt.
 8. **Summarize** what was created at the end (list files written, files skipped, any flags).
 
@@ -112,6 +119,16 @@ Three categories of input:
 Ask inline: "There's no race for [X] — [X] is a [Singular Deity / Cosmological Personification / Primordial Being]. Create a deity profile in `deities/` instead? (y/n)". If yes, proceed with the same template (set `Entity type` accordingly) but skip the roster file. If no, skip.
 
 If the user is unsure or the input is ambiguous, ask before proceeding rather than guessing.
+
+**(d) Named Collective** — a finite, named group of divine or legendary beings who share a common role, cosmic status, or cultural tradition, but are not a reproductive biological species. The group is defined by its named membership list (which may vary across sources) rather than by shared biology. Route to `named-collectives/` with Entity type "Named Collective". A roster file is always required.
+
+Recognising a Named Collective:
+- A small, enumerable set of named individuals (typically 2–12)
+- Membership determined by role, lineage, divine selection, or tradition — not by reproduction
+- The group functions as a unified game-design type (each member is an instance of that type)
+- Examples: Three Sovereigns 三皇 (divine culture-creators, Chinese), Five Emperors 五帝 (sage rulers, Chinese), the Nine Muses (divine inspirers, Greek), the Four Heavenly Kings (guardians, Chinese Buddhist)
+
+Ask inline: "[X] is a Named Collective — a finite group of [role] beings rather than a species. Create a Named Collective profile in `named-collectives/`? (y/n)". If yes, proceed with Entity type "Named Collective". If the user prefers individual deity profiles instead, route each member through category (c2).
 
 ## IP filter
 
@@ -160,6 +177,8 @@ Default: `./races/` in the current working directory. Create it if it doesn't ex
 **Deity profiles** (`Entity type: Singular Deity`, `Cosmological Personification`, or `Primordial Being`) go in `./deities/` instead. Create it if it doesn't exist.
 
 **Creature profiles** (`Entity type: Unique creature`) go in `./creatures/` instead. Create it if it doesn't exist.
+
+**Named Collective profiles** (`Entity type: Named Collective`) go in `./named-collectives/` instead. Create it if it doesn't exist.
 
 ## Roster file
 
@@ -212,6 +231,8 @@ Sort rows alphabetically by Name (A → Z).
 ## Individual distinctions — Primary sources / Original canon
 
 Primary and original-canon individuals only. Game-invented figures have their own table and do not belong here. Only include individuals who deviate meaningfully from the racial template — traits the race profile does not already cover for all members. Use the same five-category tags from step 4b. Omit this section entirely if no individuals stand out from the baseline.
+
+> **Named Collective note:** For Named Collective profiles, this section is mandatory — do not omit it even when individuals closely resemble the collective profile. Every named member should appear here with any trait that differs from (or adds to) the collective baseline. The individual distinctions are the core game-design value of a Named Collective entry.
 
 **{Name}**
 - `[Specialization-major]` {trait that exceeds what the racial profile grants all members}
@@ -357,3 +378,7 @@ Tengu
 Oni
 ```
 → `kitsune_east_asian.md`, `tengu_east_asian.md`, `oni_east_asian.md`.
+
+**Example 6 — Named Collective:**
+Input: `Three Sovereigns`
+→ Ask: "The Three Sovereigns (三皇) are a Named Collective — a finite group of divine culture-creators rather than a species. Create a Named Collective profile in `named-collectives/`? (y/n)". If yes, generate `named-collectives/san_huang_east_asian.md` + `named-collectives/san_huang_east_asian_roster.md`.

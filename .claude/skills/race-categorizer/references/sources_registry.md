@@ -136,6 +136,8 @@ Single source of truth for provenance tagging across all race profile files. The
 | Zhongli Chuandao ji 鍾呂傳道集 (Anthology of the Transmitted Tao of Zhongli) | Attr. Zhongli Quan and Lü Dongbin | Song dynasty, 960–1279 CE | [PD] | | Source of the definitive five-grade Xian hierarchy |
 | Shenxian Zhuan 神仙傳 (Biographies of the Spirit Immortals) | Traditionally attr. Ge Hong; scholarly dating 6th–8th century CE | 6th–8th century CE | [PD] | | ⚠ Traditional attribution to Ge Hong (c. 320 CE) is contested; actual composition likely later; 100+ immortal biographies |
 | Śūraṅgama Sūtra 楞嚴經 | Mahayana Buddhist (possibly composed in China) | c. 7th–8th century CE | [PD] | | Classifies ten xian types between humans and devas; contrasts xian physical cultivation with Buddhist samadhi |
+| Shiji 史記 (Records of the Grand Historian) | Sima Qian | c. 91 BCE | [PD] | https://ctext.org/shiji/wu-di-ben-ji | Chapter 1 (五帝本紀, Basic Annals of the Five Emperors) is the canonical Five Emperors list; the "Supplementary Annals of the Three Sovereigns" (補三皇本紀) was added by Tang scholar Sima Zhen (8th century CE), not Sima Qian |
+| Huainanzi 淮南子 | Liu An et al. | c. 139 BCE | [PD] | | Cosmological framing for the Three Sovereigns and Five Emperors era |
 
 ### Secondary sources
 
@@ -143,6 +145,10 @@ Single source of truth for provenance tagging across all race profile files. The
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — "Yaoguai" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Yaoguai | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Xian (Taoism)" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Xian_(Taoism) | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Three Sovereigns and Five Emperors" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors | Confirmed CC-BY-SA 4.0; covers membership variants across Han dynasty sources |
+| Wikipedia — "Yellow Emperor" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Yellow_Emperor | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Shiji" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Shiji | Confirmed CC-BY-SA 4.0; authorship, dating, structure |
+| New World Encyclopedia — "Three Sovereigns and Five Emperors" | Various contributors | Ongoing | [CC-BY-SA*] | https://www.newworldencyclopedia.org/entry/Three_Sovereigns_and_Five_Emperors | NWE publishes under CC-BY-SA 3.0 per site policy; * = not re-verified today |
 
 ---
 
