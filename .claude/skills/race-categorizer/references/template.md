@@ -76,6 +76,38 @@ Cross-source conflicts: note in the Notes column — e.g. "Enemy in most sources
 |---------|----------|-------|--------|
 | {Name}  | {Standing} | {one line} | {text} |
 
+## Internal relationships
+
+*(Named Collective only — omit for races, deities, and creatures.)*
+
+Dynamics between members of this collective — separate from the external Allies / Rivals / Enemies table. Omit this section if fewer than two named inter-member relationships are attested in primary sources.
+
+Standing values: **Paired** (cosmologically twinned or act as a unit) · **Serves** (acts in subordinate capacity as a primary function) · **Succession** (passed authority or role in sequence) · **Conflict** (ongoing tension or active opposition between members) · **Binds** (one member's existence, authority, or action structurally shapes all others)
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| {Name} | {Standing} | {Name} | {one line} | {text} |
+
+## Encounter conditions
+
+*(Race and Unique creature entries — optional. Include only when primary sources describe specific trigger conditions, social protocols, or interaction rules governing mortal contact with this race. Omit entirely when no such rules are attested. For Named Collectives, use `## Mortal interaction` instead.)*
+
+Specific folklore-attested rules governing how mortals encounter, engage with, or disengage from this race. Do not summarise general lore here — only include rules specific enough to function as a game mechanic (trigger → protocol → consequence).
+
+| Mode | Trigger / Condition | Protocol | Source |
+|------|---------------------|----------|--------|
+| {encounter type, e.g. "Covenant offering"} | {what initiates or activates this mode} | {what happens / what rules govern the exchange} | {text} |
+
+## Mortal interaction
+
+*(Named Collective only — omit for races, deities, and creatures. Use `## Encounter conditions` for races instead.)*
+
+How mortals invoke, petition, or ritually encounter this collective — attested invocation contexts, offering forms, seasonal rites, and access conditions from primary sources.
+
+| Mode | Context | Members involved | Notes | Source |
+|------|---------|-----------------|-------|--------|
+| {mode, e.g. "Seasonal invocation"} | {when / where / how} | {member name(s) or "All"} | {one line} | {text} |
+
 ## Ecology
 
 **Prey:** {What this race hunts for food or for sport/pleasure; or "N/A — {reason}" for divine/immortal/spirit races}

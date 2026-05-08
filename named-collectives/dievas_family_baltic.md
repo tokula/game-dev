@@ -60,6 +60,24 @@ Standing values: **Ally** (cooperative, mutual benefit, roughly equal standing) 
 | Žemyna / Zemes māte (earth goddess) | Ally | Sky and earth as complementary divine forces; ritual invocations pair them | Łasicki; Lithuanian dainos |
 | Velnias / Velns (underworld god) | Rival | Cosmic counterpart to Dievas; in some creation myths they are twins who shaped the world through primordial conflict | Lithuanian dainos; Latvju dainas |
 
+## Internal relationships
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| Aušrinė | Serves | Saulė | Kindles the dawn fire and opens the sky gates for Saulė each morning; daughter-herald whose primary function is in service to Saulė's daily journey | Rėza 1825; Lithuanian dainos |
+| Dievo sūneliai | Serves | Saulė | Pull Saulė's chariot across the sky daily; their primary labor is in service to her celestial journey, not to Dievas directly | Lithuanian dainos; Latvju dainas |
+| Mėnulis | Conflict | Aušrinė | Infidelity that triggered Perkūnas's punishment of Mėnulis; the two are causally bound by the scandal and its permanent cosmic consequences | Lithuanian dainos; Latvju dainas |
+| Mėnulis | Conflict | Saulė | Estranged spouses; the permanent separation of sun and moon in the sky reflects their unresolved marital rupture | Lithuanian dainos; Latvju dainas |
+
+## Mortal interaction
+
+| Mode | Context | Members involved | Notes | Source |
+|------|---------|-----------------|-------|--------|
+| Invocation (agricultural) | Dainas sung at plowing, sowing, and harvest; Dievas addressed directly for cosmic order and protection; Saulė for warmth and growth | Dievas, Saulė | Direct second-person address is the standard daina formula — mortals speak to the deity, not about them; hundreds of attested examples | Latvju dainas; Lithuanian dainos |
+| Invocation (dawn) | Morning songs (ryto dainos) at daybreak, often performed by young women; address Saulė or Aušrinė as fire-kindler and sky-gate-opener | Saulė, Aušrinė | Aušrinė is explicitly named as fire-kindler in several attested dawn songs | Rėza 1825; Latvju dainas |
+| Ritual offering | Žemyneliauti — first drops of drink poured on the earth before consuming; presupposes the celestial household's governance of seasonal order | Dievas | Documented by Prätorius; the offering grounds mortal consumption in the cosmic order Dievas upholds | Prätorius c. 1690s |
+| Seasonal observance | Midsummer (Rasos / Joninės) — bonfires and sunrise rites tied to Saulė's feast; Aušrinė implicit in all dawn observances at this threshold | Saulė, Aušrinė | Most extensively attested Saulė-focused ritual context in the Lithuanian dainos | Lithuanian dainos |
+
 ## Ecology
 
 **Prey:** N/A — divine/immortal beings

@@ -54,6 +54,22 @@ Build structured Markdown profiles of mythological and fictional races for game-
    - **Predators**: what naturally hunts, threatens, or preys upon this race. Intentional overlap with Faults is acceptable — both perspectives are useful.
    - For divine, immortal, or spirit races with no food chain: `N/A — divine/immortal beings` for both fields.
 
+   **Internal relationships (Named Collective only):**
+   - Source: primary sources only. Omit if fewer than two named inter-member bonds are attested.
+   - Use exactly these five Standing values: **Paired**, **Serves**, **Succession**, **Conflict**, **Binds** — defined in the template.
+   - This section is distinct from Allies / Rivals / Enemies (which covers external factions). The same fact does NOT appear in both.
+   - If a member's relationship to the collective is already fully described by their Individual distinctions in the roster, do not duplicate it here — only include relationships that are meaningfully interactive (not just hierarchical position).
+
+   **Mortal interaction (Named Collective only):**
+   - Source: primary sources only. Only include modes where a specific context, timing, or ritual form is attested — not generic reverence.
+   - "Members involved" field: name the specific member(s) primarily addressed or invoked in that mode. Write "All" only if the collective is genuinely invoked as a unit.
+   - Omit the section entirely if no specific invocation or ritual context is attested in primary sources.
+
+   **Encounter conditions (Race and Unique creature — optional):**
+   - Include only when primary sources describe rules specific enough to function as game mechanics: a trigger (what initiates contact), a protocol (what governs the exchange), and a consequence (what happens on compliance or violation).
+   - General traits (e.g. "they attack intruders") belong in Specializations or Faults, not here. This section is for structured interaction rules, not behavioral tendencies.
+   - Omit entirely when no such rules are attested. Do not add this section by default.
+
 5. **Present sources for approval** — before writing anything, list every source found for the variant and ask the user to confirm which to keep. Prefix each entry with its provenance tag. Sources that fail the IP filter are listed but marked `[BLOCKED]` and excluded automatically — the user cannot unblock them.
 
    Provenance tags: `[PD]` public domain · `[CC0]` Creative Commons Zero · `[CC-BY]` / `[CC-BY-SA]` CC Attribution · `[SRD]` D&D 5e SRD (CC-BY-4.0) · `[OGL]` Open Game License
@@ -78,11 +94,16 @@ Build structured Markdown profiles of mythological and fictional races for game-
 
    **Unique creature template delta:** Two differences from the race template: (a) **include** the `## Physical description` section (attested appearance from primary sources; flag conflicting descriptions with a `> **Note:**` callout); (b) **omit** the `Common archetype/role in fiction` header field. All other sections apply unchanged.
 
-   **Named Collective template delta:** Three differences from the regular race template:
+   **Named Collective template delta:** Five differences from the regular race template:
    (a) Set `Entity type` to "Named Collective".
    (b) Populate the new `Membership:` field — count, how membership is determined, whether it varies by source.
    (c) In the roster file, the `## Individual distinctions` section is **mandatory and comprehensive** — list all named members, even those who closely resemble the collective profile. For Named Collectives, individual variation is the primary game-design payload. Do not omit this section.
+   (d) Add `## Internal relationships` section — populate using the Standing values and guidance in step 4c. Omit if fewer than two named inter-member relationships are attested.
+   (e) Add `## Mortal interaction` section — populate using the guidance in step 4c. Omit if no specific invocation or ritual context is attested in primary sources.
    All other race template sections apply unchanged.
+
+   **Race and Unique creature template — optional section:** `## Encounter conditions` — include when primary sources describe specific trigger conditions, social protocols, or interaction rules governing mortal contact with this race or creature. Use the table structure from the template (Mode / Trigger / Protocol / Source). Omit entirely when no such rules are attested; do not add the section by default.
+
 7. **Write files** to `./races/` (default) using the filename convention. Write both the main profile and the companion roster file. Handle existing files via diff prompt.
 8. **Summarize** what was created at the end (list files written, files skipped, any flags).
 

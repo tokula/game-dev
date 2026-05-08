@@ -58,6 +58,21 @@ Semi-divine sage-kings of the pre-dynastic age, each chosen for moral virtue rat
 | Three Sovereigns (三皇) | Superior (prior era) | The San Huang precede the Wu Di in mythological chronology; the Five Emperors inherit and formalize the world the Three Sovereigns shaped | *Shiji* (Sima Zhen supplement) |
 | Humanity (人, Rén) | Charge | Each Emperor is responsible for the welfare, organization, and moral cultivation of the human world; governance is defined as service | *Shiji* |
 
+## Internal relationships
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| Huangdi | Succession | Zhuanxu | Genealogical descent — Zhuanxu is Huangdi's grandson in *Shiji*; the Yellow Emperor's lineage carries forward through the sage-king sequence | *Shiji* |
+| Yao | Conflict (tested) | Shun | Before abdication, Yao subjected Shun to prolonged trials over 20 years — political, domestic, and physical — to verify his virtue; the relationship moves from rigorous examination to trust and succession | *Shiji* |
+| Yao | Succession | Shun | Abdicated to Shun via shànràng (禪讓) — formal merit-based abdication rather than hereditary succession; the defining political act of the Wu Di's collective identity and the Confucian model of legitimate governance | *Shiji* |
+
+## Mortal interaction
+
+| Mode | Context | Members involved | Notes | Source |
+|------|---------|-----------------|-------|--------|
+| State sacrifice | Imperial sacrifice performed at the Yellow Emperor's tomb site; restored by Emperor Wu of Han (r. 141–87 BCE), who made offerings at Huangdi's burial mound and is described doing so by Sima Qian | Huangdi | The only member of the canonical five with an attested active temple cult and imperial state sacrifice in PD primary sources | *Shiji* |
+| Political ceremony | Rulers seeking to legitimate power transfer without hereditary succession enact shànràng (禪讓), explicitly modeling the ceremony on the Yao–Shun precedent that Sima Qian describes as the archetype | Yao, Shun | Shànràng is a defined ceremonial form, not generic reverence; Sima Qian's account in *Shiji* established it as the canonical template for meritocratic succession | *Shiji* |
+
 ## Ecology
 
 **Prey:** N/A — divine/semi-divine beings; no predatory role described in primary sources

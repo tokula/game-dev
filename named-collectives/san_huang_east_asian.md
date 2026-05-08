@@ -57,6 +57,20 @@ None attested for the group as a whole in primary sources. Individual figures ca
 | Humanity (人, Rén) | Charge | The San Huang created, shaped, or educated humanity; humans are their direct creations and primary charges | *Chuci* (Tian Wen); *Liezi* |
 | Five Emperors (五帝) | Superior (prior era) | The San Huang precede the Five Emperors in mythological chronology; the Five Emperors inherit and formalize the world order the San Huang established | *Shiji* (Sima Zhen supplement, 8th century CE) |
 
+## Internal relationships
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| Fuxi | Paired | Nüwa | Cosmological creation dyad — depicted with entwined serpent bodies in Han dynasty art; most primary-source membership lists pair them as the two Sovereigns most responsible for humanity's origin and sustenance | Shanhaijing; Huainanzi |
+| Fuxi | Succession | Shennong | Temporal sequence only; Fuxi precedes Shennong in all lists that include both; no direct interaction between them is attested in primary sources | *Shiji* supplement (Sima Zhen) |
+
+## Mortal interaction
+
+| Mode | Context | Members involved | Notes | Source |
+|------|---------|-----------------|-------|--------|
+| Divination practice | Use of the Eight Trigrams (八卦 Bā Guà) and derived I Ching hexagrams; every divination consultation re-enacts Fuxi's foundational structuring of natural patterns through these symbols | Fuxi | No direct invocation formula attested; mortals engage through the system he left rather than addressing him by name | Zhuangzi; Baopuzi |
+| Medical practice | Healers invoke Shennong's founding act — personally testing 365 herbs — as the charter authorizing their discipline; his name consecrates the entire medical tradition | Shennong | Temple shrines to Shennong are historically attested; PD primary texts describe his founding act rather than specific ritual forms for invoking him | Shanhaijing; Baopuzi |
+
 ## Ecology
 
 **Prey:** N/A — divine cosmological beings; the San Huang era predates any food-chain framing in primary sources
