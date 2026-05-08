@@ -129,12 +129,20 @@ Single source of truth for provenance tagging across all race profile files. The
 | Xiyouji (Journey to the West) | Attributed to Wu Cheng'en | c. 1592 | [PD] | | |
 | Fengshen Yanyi (Investiture of the Gods) | Attributed to Xu Zhonglin | c. 1620 | [PD] | | |
 | Liaozhai Zhiyi (Strange Tales from a Chinese Studio) | Pu Songling | c. 1740 | [PD] | | Authored literary fiction reflecting Qing-era folk tradition |
+| Zhuangzi 庄子 | Zhuang Zhou | c. 300–280 BCE | [PD] | | Philosophical text; earliest use of xian character in written form; immortal "perfected beings" (zhēnrén 真人) |
+| Chuci 楚辭 (Songs of Chu) | Various authors | c. 3rd–2nd century BCE | [PD] | | Anthology; names immortal practitioners Chi Song (赤松) and Wang Qiao (王僑) |
+| Liezi 列子 | Traditionally attr. Lie Yukou; compiled c. 3rd century CE | c. 3rd century CE | [PD] | | Uses term xiansheng (仙聖); contains earlier material |
+| Baopuzi 抱朴子 | Ge Hong | c. 320 CE | [PD] | | Daoist alchemical treatise; three-tier immortal classification (Celestial, Earthly, Corpse-Untie) |
+| Zhongli Chuandao ji 鍾呂傳道集 (Anthology of the Transmitted Tao of Zhongli) | Attr. Zhongli Quan and Lü Dongbin | Song dynasty, 960–1279 CE | [PD] | | Source of the definitive five-grade Xian hierarchy |
+| Shenxian Zhuan 神仙傳 (Biographies of the Spirit Immortals) | Traditionally attr. Ge Hong; scholarly dating 6th–8th century CE | 6th–8th century CE | [PD] | | ⚠ Traditional attribution to Ge Hong (c. 320 CE) is contested; actual composition likely later; 100+ immortal biographies |
+| Śūraṅgama Sūtra 楞嚴經 | Mahayana Buddhist (possibly composed in China) | c. 7th–8th century CE | [PD] | | Classifies ten xian types between humans and devas; contrasts xian physical cultivation with Buddhist samadhi |
 
 ### Secondary sources
 
 | Title | Author | Date | Tag | URL | Notes |
 |-------|--------|------|-----|-----|-------|
 | Wikipedia — "Yaoguai" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Yaoguai | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Xian (Taoism)" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Xian_(Taoism) | Confirmed CC-BY-SA 4.0 |
 
 ---
 

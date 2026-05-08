@@ -77,6 +77,8 @@ When researching or writing race profiles (any file under `races/`), use only co
 
 **Blocked sources — no fetches, ever:** Before any web search or subagent call during race research, read the `## Blocked sources` table in `.claude/skills/race-categorizer/references/sources_registry.md` and build a domain blocklist. Never visit or fetch a blocked domain — not even via a search-result link. Pass the full blocklist explicitly into every research subagent prompt.
 
+**WebSearch — use `blocked_domains` only:** The WebSearch tool does not accept both `allowed_domains` and `blocked_domains` in the same call — doing so causes an immediate error and wastes an operation. Always pass the blocklist via `blocked_domains` only; never add `allowed_domains` alongside it.
+
 ## Diffing files on Windows
 
 `diff -u` via the Bash tool does not work here — the Bash environment has no access to Windows paths.
