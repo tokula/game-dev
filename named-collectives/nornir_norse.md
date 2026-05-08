@@ -12,30 +12,32 @@
 
 **Biological Form:** Spirit
 
-**Entity type:** Race/Species — three great Norns (Urðr, Verðandi, Skuld) dwell permanently at Urðarbrunnr; many lesser Norns of varied divine origin attend births across the Nine Worlds (*Fáfnismál* stanza 13)
+**Entity type:** Named Collective
 
-**Gender(s):** Female — all named and described Norns in primary sources are female.
+**Membership:** 3 (fixed across primary sources): Urðr, Verðandi, Skuld. Many unnamed lesser Norns also exist (*Fáfnismál* stanza 13) — of Æsir, Elf, and Dvergr descent — attending individual births across the Nine Worlds; these are a distinct class of fate-weavers, not additional members of the named collective.
+
+**Gender(s):** Female — all three named Norns and all described lesser Norns in primary sources are female.
 
 ## One-line lore summary
 
-Fate-weavers who dwell at the Well of Urðr beneath Yggdrasill, carving every being's wyrd into wood at birth — decrees that bind even the gods and persist beyond Ragnarök.
+Three fate-weavers who dwell at the Well of Urðr beneath Yggdrasill, carving every being's wyrd into wood at birth — decrees that bind even the gods and persist beyond Ragnarök.
 
 ## Specializations
 
-- `[signature]` **Fate-weaving** — the Norns carve runes onto wooden tablets at Urðarbrunnr and spin threads that determine the lifespan and wyrd of every being across the Nine Worlds, including the Æsir; no training, ritual, or breeding by any other race can replicate this function — *Völuspá* stanzas 19–20; *Gylfaginning* (Prose Edda)
-- `[major]` **World Tree stewardship** — the great Norns water Yggdrasill's roots daily from Urðarbrunnr and pack white clay around them to prevent decay; no other beings share this maintenance function, and the World Tree's continued existence depends on it — *Gylfaginning* (Prose Edda)
+- `[signature]` **Fate-weaving** — the three great Norns carve runes onto wooden tablets at Urðarbrunnr and spin threads that determine the lifespan and wyrd of every being across the Nine Worlds, including the Æsir; no training, ritual, or breeding by any other race can replicate this function — *Völuspá* stanzas 19–20; *Gylfaginning* (Prose Edda)
+- `[major]` **World Tree stewardship** — the three great Norns water Yggdrasill's roots daily from Urðarbrunnr and pack white clay around them to prevent decay; no other beings share this maintenance function, and the World Tree's continued existence depends on it — *Gylfaginning* (Prose Edda)
 
 ## Strengths
 
 - Fate-decrees bind even the Æsir — Odin's death at Fenrir's jaws, Thor's mutual death with Jörmungandr, Baldr's fall — all are woven by the Norns and cannot be undone by divine will — *Völuspá*
-- Cosmic reach across all Nine Worlds: lesser Norns attend births among Æsir, Vanir, Elves, Dvergar, Jötnar, and humans alike (*Fáfnismál* stanza 13)
+- Cosmic reach across all Nine Worlds: lesser Norns attend births among Æsir, Vanir, Elves, Dvergar, Jötnar, and humans alike — *Fáfnismál* stanza 13
 
 ## Characteristics
 
-- The three great Norns (Urðr "that which was", Verðandi "that which is becoming", Skuld "that which shall be / debt") dwell permanently at the Well of Urðr beneath Yggdrasill's roots
-- Many lesser Norns exist and vary greatly in power and origin — *Fáfnismál* stanza 13 states that some are of Æsir descent, some of Elf descent, some of Dvergar descent; they attend individual births and may assign favourable or harmful fates
+- The three great Norns act in concert throughout primary sources; no differentiated authority or sequential workflow is attested, despite their names suggesting a temporal progression (past / present / future)
 - Their fate-working employs two simultaneous modes: spinning threads (the course of a life) and carving runes on wood (fixing specific outcomes); both acts are described in primary sources
 - They water and clay-pack the roots of Yggdrasill — their caretaking role ties them physically to the World Tree
+- Many unnamed lesser Norns also exist (*Fáfnismál* stanza 13), of Æsir, Elf, and Dvergr descent, attending individual births; they may assign favourable or harmful fates
 - Skuld is named both as one of the three great Norns (*Völuspá* stanza 20) and among the Valkyries (*Grímnismál* stanza 36); see Sources note
 
 ## Faults / Weaknesses
@@ -66,7 +68,7 @@ No factions are attested as allies, rivals, or enemies of the Nornir in primary 
 
 ---
 
-> **Note on sources:** Skuld appears as one of the three great Norns in *Völuspá* stanza 20 and as a Valkyrie in *Grímnismál* stanza 36. This double attestation is genuine — not a scribal error. Some scholars interpret it as evidence of an underlying identity between Norn and Valkyrie (both classes assign fate, one at birth and one on the battlefield); others see it as loose mythological categorisation typical of oral tradition. Both the Nornir and Valkyrie profiles flag the overlap. | The existence of many lesser Norns (*Fáfnismál* stanza 13) confirms the Nornir are a Race/Species rather than three unique individuals. Their varied origins (Æsir-kin, Elf-kin, Dvergr-kin) suggest the fate-function can emerge across multiple bloodlines within the same cosmological role.
+> **Note on sources:** Skuld appears as one of the three great Norns in *Völuspá* stanza 20 and as a Valkyrie in *Grímnismál* stanza 36. This double attestation is genuine — not a scribal error. Some scholars interpret it as evidence of an underlying identity between Norn and Valkyrie (both classes assign fate, one at birth and one on the battlefield); others see it as loose mythological categorisation typical of oral tradition. Both the Nornir and Valkyrie profiles flag the overlap. | Primary sources consistently describe the three great Norns as acting in concert without differentiated rank or authority, despite the temporal progression implied by their names (past / present / future). No hierarchical or sequential workflow is attested. | The many lesser Norns (*Fáfnismál* stanza 13) are a distinct phenomenon — unnamed fate-weavers arising from multiple lineages (Æsir, Elf, Dvergr) who attend births rather than govern the cosmic order. They are not members of this Named Collective; they are included here as context for the fate-weaving role.
 
 ## Sources
 

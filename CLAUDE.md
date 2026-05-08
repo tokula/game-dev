@@ -79,6 +79,22 @@ When researching or writing race profiles (any file under `races/`), use only co
 
 **WebSearch — use `blocked_domains` only:** The WebSearch tool does not accept both `allowed_domains` and `blocked_domains` in the same call — doing so causes an immediate error and wastes an operation. Always pass the blocklist via `blocked_domains` only; never add `allowed_domains` alongside it.
 
+## Glob tool — files only, never directories
+
+`Glob` matches **file paths**, not folder names. Searching for `"named-collectives"` returns nothing even if the folder exists and is full of files.
+
+To check whether a folder exists, match files inside it:
+
+```
+# Correct — finds files inside the folder
+Glob("named-collectives/*.md")
+
+# Wrong — folder names never match; always returns nothing
+Glob("named-collectives")
+```
+
+If the folder has been written to in this session or is referenced in prior context, trust that it exists — no check needed.
+
 ## Diffing files on Windows
 
 `diff -u` via the Bash tool does not work here — the Bash environment has no access to Windows paths.
