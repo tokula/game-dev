@@ -169,6 +169,13 @@ Single source of truth for provenance tagging across all race profile files. The
 | Fabulae (Genealogiae) | Hyginus | c. 1st–2nd century CE | [PD] | | Lernaean Hydra parentage (Preface; 30; 151) and poison; Chimera parentage (57; 151) — Typhon + Echidna confirmed |
 | Description of Greece | Pausanias | c. 2nd century CE | [PD] | | Lernaean geography; Hydra lair at Lerna (2.37.4) |
 | Posthomerica (Fall of Troy) | Quintus Smyrnaeus | c. 4th century CE | [PD] | | References Orthrus among the monsters of Geryon's realm |
+| Works and Days | Hesiod | c. 700 BCE | [PD] | | Five Ages of Man; Titan-era Golden Age; complement to Theogony |
+| Prometheus Bound | Aeschylus | c. 430 BCE | [PD] | | Prometheus as Zeus's ally during Titanomachy; fire theft and eternal punishment |
+| Homeric Hymns | Various authors | c. 6th–4th century BCE | [PD] | | 33 hymns to individual Olympians; primary source for domain attributes |
+| The Frogs | Aristophanes | 405 BCE | [PD] | | Earliest dramatic attestation of Charon; toll and crossing rules for the underworld |
+| De Natura Deorum | Cicero | c. 45 BCE | [PD] | | Lists children of Erebus and Night; Charon notably absent; Roman theological synthesis |
+| Hercules Furens | Seneca the Younger | c. 54 CE | [PD] | | Physical description of Charon (ll. 762–777); Roman tragedy |
+| Symposium | Plato | c. 385–370 BCE | [PD] | | Pausanias distinguishes Aphrodite Ourania (born from sea-foam, heavenly) and Aphrodite Pandemos (daughter of Zeus and Dione, common) as two separate goddesses rather than reconciling the Hesiod/Homer conflict; Symposium 180d–181b |
 
 ### Secondary sources
 
@@ -178,6 +185,13 @@ Single source of truth for provenance tagging across all race profile files. The
 | Wikipedia — "Lernaean Hydra" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Lernaean_Hydra | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Orthrus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Orthrus | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Chimera (mythology)" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Chimera_(mythology) | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Titans" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Titans | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Twelve Olympians" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Twelve_Olympians | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Prometheus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Prometheus | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Charon" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Charon | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Charon's obol" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Charon%27s_obol | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Erebus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Erebus | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Nyx" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nyx | Confirmed CC-BY-SA 4.0 |
 
 ---
 
