@@ -94,6 +94,7 @@ IP filter applies — no qualifying PD/CC0/open-licensed entries identified.
 - `[PD]` Iliad, Homer, c. 8th century BCE
 - `[PD]` Odyssey, Homer, c. 8th century BCE
 - `[PD]` Homeric Hymns, Various, c. 6th–4th century BCE
+- `[PD]` Odes (fragmentary), Pindar, 5th century BCE
 - `[PD]` Bibliotheca (Library), Apollodorus, c. 1st–2nd century CE
 - `[PD]` Symposium, Plato, c. 385–370 BCE
 

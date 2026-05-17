@@ -175,7 +175,9 @@ Single source of truth for provenance tagging across all race profile files. The
 | The Frogs | Aristophanes | 405 BCE | [PD] | | Earliest dramatic attestation of Charon; toll and crossing rules for the underworld |
 | De Natura Deorum | Cicero | c. 45 BCE | [PD] | | Lists children of Erebus and Night; Charon notably absent; Roman theological synthesis |
 | Hercules Furens | Seneca the Younger | c. 54 CE | [PD] | | Physical description of Charon (ll. 762–777); Roman tragedy |
+| Phaedrus | Plato | c. 370 BCE | [PD] | | Nympholepsy attested (238c–d); Socrates invokes nymph-inspired inspiration; philosophical dialogue |
 | Symposium | Plato | c. 385–370 BCE | [PD] | | Pausanias distinguishes Aphrodite Ourania (born from sea-foam, heavenly) and Aphrodite Pandemos (daughter of Zeus and Dione, common) as two separate goddesses rather than reconciling the Hesiod/Homer conflict; Symposium 180d–181b |
+| Catalogue of Women (Ehoiai) | Attributed to Hesiod | c. 7th–6th century BCE | [PD] | | Fragmentary hexameter poem surviving in quotations by ancient authors and 52+ papyrus copies (Oxyrhynchus); Fragment 123 (Merkelbach–West) describes satyrs as siblings of Oreads and Kouretes, offspring of the Hecaterides; text is unambiguously ancient Greek (composed c. 7th–6th century BCE) and therefore unambiguously PD — the earlier [PD*] reflected authorship uncertainty (attributed to Hesiod in antiquity but modern scholars largely consider it a distinct, possibly anonymous work) not copyright uncertainty |
 
 ### Secondary sources
 
@@ -192,6 +194,11 @@ Single source of truth for provenance tagging across all race profile files. The
 | Wikipedia — "Charon's obol" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Charon%27s_obol | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Erebus" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Erebus | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Nyx" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nyx | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Greek primordial deities" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Greek_primordial_deities | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Daimon" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Daimon | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Nymph" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nymph | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Nereid" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nereid | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Satyr" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Satyr | Confirmed CC-BY-SA 4.0 |
 
 ---
 

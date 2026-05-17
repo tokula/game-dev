@@ -12,9 +12,11 @@
 
 **Biological Form:** Humanoid (divine)
 
-**Entity type:** Race/Species
+**Entity type:** Named Collective
 
-**Gender(s):** Male and Female
+**Membership:** 12, determined by divine status and permanent residence on Mount Olympus; no single ancient source fixes a canonical list — the most commonly cited twelve are Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, and either Hestia or Dionysus (the twelfth seat varies by source); Hades is excluded despite equal Olympian lineage because his permanent realm is the Underworld rather than Olympus itself.
+
+**Gender(s):** Varied — see individual roster entries
 
 **Common archetype/role in fiction:** Divine rulers
 
@@ -49,7 +51,7 @@ The ruling generation of Greek gods — sovereign over sky, sea, earth, and all 
 
 ## Modifiers
 
-None attested as a race-wide condition. Individual Olympians carry personal modifiers — see roster.
+None attested as a collective condition. Individual Olympians carry personal modifiers — see roster.
 
 ## Allies / Rivals / Enemies
 
@@ -58,6 +60,24 @@ None attested as a race-wide condition. Individual Olympians carry personal modi
 | Titans | Enemy | Defeated the Titans in the Titanomachy; most Titans imprisoned in Tartarus | *Theogony*, Hesiod |
 | Giants (Gigantes) | Enemy | Defeated the Gigantes in the Gigantomachy; required a mortal hero's participation to complete the victory | *Bibliotheca*, Apollodorus |
 | Humans | Charge | Mortals are under Olympian authority and protection; individual gods sponsor heroes and cities | *Iliad*, Homer; *Odyssey*, Homer |
+
+## Internal relationships
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| Zeus | Binds | All Olympians | Zeus holds supreme arbitration authority on Olympus; his assembly decisions and commands shape collective action; the Styx-oath mechanism enforces his rulings | *Iliad*, Homer, passim |
+| Zeus | Conflict | Hera | Persistent marital tension; Hera frequently circumvents Zeus's authority, deceives him, and forms counter-alliances with Poseidon; most sustained conflict attested across the *Iliad* | *Iliad*, Homer, Bks 1, 14–15 |
+| Apollo | Paired | Artemis | Twin deities sharing origin at Delos; frequently act together and carry parallel weapons (his plague-arrows, her hunt-arrows); share the domain of music and wilderness | *Homeric Hymns*; *Theogony*, Hesiod |
+| Ares | Paired | Aphrodite | Love affair culminating in Hephaestus trapping them in a golden net and exposing their union to the assembled Olympians, who respond with laughter | *Odyssey*, Homer, Bk 8.266–366 |
+| Hephaestus | Conflict | Hera | Expelled from Olympus by Hera; takes revenge by forging an enchanted throne that binds her; releases her only after Dionysus intoxicates him — unresolved in Homer's account of his lameness | *Iliad*, Homer, Bk 18.395–405; various |
+| Hermes | Serves | Zeus | Acts as Zeus's primary messenger and executive agent across mortal, divine, and underworld realms; the sole Olympian who can travel freely in all three domains | *Iliad*, *Odyssey*, Homer; *Homeric Hymn to Hermes* |
+| Demeter | Conflict | Zeus | After Persephone's abduction by Hades (whom Zeus sanctioned), Demeter withdraws fertility from the earth until Zeus negotiates Persephone's partial return; Zeus must yield | *Homeric Hymn to Demeter*, ll. 302–313 |
+
+## Mortal interaction
+
+| Mode | Context | Members involved | Notes | Source |
+|------|---------|-----------------|-------|--------|
+| Twelve-altar sacrifice | Communal altars consecrated to all twelve Olympians at pan-Hellenic sanctuaries, including at Olympia; collective sacrifice preceded the Olympic Games (held every four years) | All | The Olympic Games are directly associated with Zeus and Olympia; the twelve-altar tradition reflects formal acknowledgment of the collective as a divine unit | *Odes*, Pindar, 5th century BCE |
 
 ## Ecology
 
@@ -70,7 +90,7 @@ None attested as a race-wide condition. Individual Olympians carry personal modi
 **Public domain status:**
 - *Source tradition:* Ancient Greek oral and written tradition — unambiguously public domain
 - *Key source text(s):* *Iliad*, Homer, c. 8th century BCE — PD; *Theogony*, Hesiod, c. 700 BCE — PD; *Bibliotheca*, Apollodorus, c. 1st–2nd century CE — PD
-- *Protected derivatives:* *God of War* series (Sony/Santa Monica Studio) — copyright and trademark protected; *Hades* (Supergiant Games, 2020) — copyright protected; *Percy Jackson* series (Rick Riordan/Hyperion Books) — copyright protected
+- *Protected derivatives:* *God of War* series (Sony/Santa Monica Studio, 2005–) — copyright and trademark protected; *Hades* (Supergiant Games, 2020) — copyright protected; *Percy Jackson* series (Rick Riordan/Hyperion Books) — copyright protected
 
 **Notable trademarks to avoid:** "ZEUS" is a registered trademark in various product categories — verify in your specific category before commercial use.
 
@@ -88,6 +108,7 @@ None attested as a race-wide condition. Individual Olympians carry personal modi
 - `[PD]` Iliad, Homer, c. 8th century BCE
 - `[PD]` Odyssey, Homer, c. 8th century BCE
 - `[PD]` Homeric Hymns, Various, c. 6th–4th century BCE
+- `[PD]` Odes (fragmentary), Pindar, 5th century BCE
 - `[PD]` Bibliotheca (Library), Apollodorus, c. 1st–2nd century CE
 - `[PD]` Symposium, Plato, c. 385–370 BCE
 

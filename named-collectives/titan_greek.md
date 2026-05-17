@@ -12,7 +12,9 @@
 
 **Biological Form:** Humanoid (divine)
 
-**Entity type:** Race/Species
+**Entity type:** Named Collective
+
+**Membership:** 12 original, determined by lineage — all are children of Uranus (Sky) and Gaia (Earth); six male (Oceanus, Coeus, Crius, Hyperion, Iapetus, Cronus) and six female (Theia, Rhea, Themis, Mnemosyne, Phoebe, Tethys), per *Theogony* ll. 133–138; Apollodorus (*Bibliotheca* 1.1.3) follows Hesiod but some manuscript variants add Dione as a thirteenth; second-generation children of Titans (Helios, Selene, Eos, Prometheus, Atlas, etc.) appear in primary sources but are not named Titans by Hesiod himself.
 
 **Gender(s):** Male and Female
 
@@ -45,7 +47,7 @@ The elder divine generation of Greek cosmology — cosmic sovereigns who ruled t
 
 ## Modifiers
 
-- **Imprisonment in Tartarus** — decreed by Zeus following his victory in the Titanomachy; applies to those Titans who fought against him. Titans who sided with Zeus (Prometheus, Oceanus, and the Titanesses Themis, Mnemosyne, Rhea, and Tethys) were exempt. — *Theogony*, Hesiod, ll. 717–735
+- **Imprisonment in Tartarus** — decreed by Zeus following his victory in the Titanomachy; applies to those Titans who fought against him; Titans who sided with Zeus (Oceanus, Prometheus, Themis, Mnemosyne, Rhea, and Tethys) were exempt. — *Theogony*, Hesiod, ll. 717–735
 
 ## Allies / Rivals / Enemies
 
@@ -53,6 +55,17 @@ The elder divine generation of Greek cosmology — cosmic sovereigns who ruled t
 |---------|----------|-------|--------|
 | Olympians | Enemy | The Olympians, led by Zeus, defeated the Titans in the ten-year Titanomachy | *Theogony*, Hesiod |
 | Hecatoncheires | Enemy | The Hundred-Handed Ones allied with Zeus; now guard the imprisoned Titans in Tartarus | *Theogony*, Hesiod |
+
+## Internal relationships
+
+| Member A | Relationship | Member B | Notes | Source |
+|----------|-------------|---------|-------|--------|
+| Cronus | Binds | All Titans | As king of the Titans, Cronus's decision to resist the Olympians determines the fate of the entire generation; his reign defines the Titan era | *Theogony*, Hesiod |
+| Cronus | Conflict | Rhea | Rhea secretly conceals the infant Zeus from Cronus's child-swallowing by delivering a stone wrapped in swaddling; her deception enables Zeus's survival and the Titanomachy | *Theogony*, Hesiod, ll. 459–467 |
+| Oceanus | Paired | Tethys | Married consorts; together produce all Oceanids (3,000 daughters) and Potamoi (3,000 river-god sons); Oceanus chose not to fight against Zeus | *Theogony*, Hesiod, ll. 337–370 |
+| Hyperion | Paired | Theia | Married consorts; parents of Helios (Sun), Selene (Moon), and Eos (Dawn) | *Theogony*, Hesiod, ll. 371–374 |
+| Coeus | Paired | Phoebe | Married consorts; parents of Leto (mother of Apollo and Artemis) and Asteria | *Theogony*, Hesiod, ll. 404–408 |
+| Prometheus | Conflict | Imprisoned Titans | Prometheus sides with Zeus, his foreknowledge convincing him the Titans will lose; his betrayal of his own generation means he alone remains free when his kin are imprisoned | *Theogony*, Hesiod; *Prometheus Bound*, Aeschylus |
 
 ## Ecology
 
