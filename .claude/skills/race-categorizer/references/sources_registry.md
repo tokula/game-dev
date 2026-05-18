@@ -152,6 +152,42 @@ Single source of truth for provenance tagging across all race profile files. The
 
 ---
 
+## East Asian (Japanese)
+
+### Primary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Kojiki (Record of Ancient Matters) | Ō no Yasumaro (compiler) | 712 CE | [PD] | | Oldest extant Japanese literary work; foundational Shinto text; systematically records kami creation, hierarchy, and named deities |
+| Nihon Shoki (Chronicles of Japan) | Various compilers | 720 CE | [PD] | | Second major Shinto chronicle; parallel accounts of kami creation; earliest official record of anomalous supernatural phenomena; attests goryō precursors |
+| Shoku Nihongi (Continued Chronicles of Japan) | Various compilers | 797 CE | [PD] | | Official chronicle covering 697–791 CE; contains earliest documented onryō cult; attests Prince Nagaya (d. 729) and Prince Sawara (d. 785) haunting accounts |
+| Man'yōshū | Various poets | Compiled c. 759 CE | [PD] | | Oldest Japanese poetry anthology; contains invocations of specific kami; documents popular kami veneration outside official chronicle tradition |
+| Nihon Ryōiki (Miraculous Stories from the Japanese Buddhist Tradition) | Kyōkai | c. 822 CE | [PD] | | Earliest Japanese collection of Buddhist supernatural tales; fox spirits, possession, and miraculous events |
+| Engishiki (Procedures of the Engi Era) | Fujiwara no Tadahira et al. (compilers) | Completed 927 CE | [PD] | | 50-volume Heian court administrative code; registers 2,861 provincial shrine kami by name; codifies shrine ritual protocols including misogi, norito, and Niiname-sai |
+| Konjaku Monogatarishū (Tales of Times Now Past) | Anonymous | c. 1120 CE | [PD] | | 1,000+ tale collection; major primary source for yōkai, yūrei, and supernatural beings in Japanese folklore; kitsune, tengu, oni, ghost possession narratives |
+| Uji Shūi Monogatari | Anonymous | c. 1213–1221 CE | [PD] | | Heian–Kamakura setsuwa collection; diverse supernatural tales |
+| Taiheiki | Anonymous | c. 1370 | [PD] | | Military chronicle of the Nanbokuchō period; contains yōkai episodes including the Shuten-dōji and Ōeyama oni narrative |
+| Hyakki Yagyō Emaki (Night Parade of One Hundred Demons) | Various Tosa school artists | 16th century (oldest extant scroll pre-1525, attr. Tosa Mitsunobu) | [PD] | | Visual catalogue of yōkai types; depicts the hyakki yagyō procession; multiple scroll versions exist, all Muromachi period and unambiguously PD |
+| Otogi Bōko | Asai Ryōi | 1666 | [PD] | | Edo period kaidan anthology; contains the Botan Dōrō story featuring Otsuyu (lovesick yūrei); Ryōi died 1691 → PD |
+| Tonoigusa | Ogita Ansei | 1660 | [PD*] | | Early Edo kaidan anthology; attests hyakumonogatari kaidankai ritual; date is clear (1660 = PD by any standard); author's exact death year unconfirmed → [PD*] |
+| Ugetsu Monogatari (Tales of Moonlight and Rain) | Ueda Akinari | 1776 | [PD] | https://archive.org/details/talesofmoonlight0000ueda | Canonical yūrei ghost fiction; draws on Noh conventions; Akinari died 1809 → PD |
+| Banchō Sarayashiki (kabuki) | Anonymous / multiple authors | c. 1741 | [PD] | | Edo kabuki play; attests the Okiku (plate-counting jibakurei) story; 1741 → PD |
+| Yotsuya Kaidan (kabuki) | Tsuruya Nanboku IV | 1825 | [PD] | | Canonical onryō play; features Oiwa, one of the San O-Yūrei; Nanboku IV died 1829 → PD c. 1899 |
+
+### Secondary sources
+
+| Title | Author | Date | Tag | URL | Notes |
+|-------|--------|------|-----|-----|-------|
+| Wikipedia — Japanese mythology articles (Yōkai, Kami, Yūrei, Onryō, Kojiki, Amaterasu, Susanoo-no-Mikoto, Tsukuyomi, Izanagi, Izanami, Ōkuninushi, Shuten-dōji, Kiyohime, Yamata no Orochi, Banchō Sarayashiki, Yotsuya Kaidan, Prince Nagaya) | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Japanese_mythology | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Kotoamatsukami" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Kotoamatsukami | Confirmed CC-BY-SA 4.0; the five primordial heavenly kami |
+| Wikipedia — "Takamagahara" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Takamagahara | Confirmed CC-BY-SA 4.0; the Plain of Heaven in Shinto cosmology |
+| Wikipedia — "Kunitsukami" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Kunitsukami | Confirmed CC-BY-SA 4.0; the earthly kami category |
+| Wikipedia — "Kuni-yuzuri" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Kuni-yuzuri | Confirmed CC-BY-SA 4.0; land-cession myth; covers Ōkuninushi, Kotoshironushi, Takeminakata |
+| Wikipedia — "Ōkuninushi" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/%C5%8Ckuninushi | Confirmed CC-BY-SA 4.0; epithets, syncretism, fudoki regional names, Ōmononushi identification |
+| Wikipedia — "Kuni-no-Tokotachi" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Kuni-no-Tokotachi | Confirmed CC-BY-SA 4.0; Amatsukami classification, hitorigami/genderless in Kojiki, male in Nihon Shoki, Yoshida Kanetomo identification with Amenominakanushi |
+
+---
+
 ## Greek
 
 ### Primary sources

@@ -91,7 +91,8 @@
       "Bash(Test-Path \"f:\\\\Projects\\\\game-dev\\\\deities\\\\zemyna_baltic.md\")",
       "WebFetch(domain:www.theoi.com)",
       "WebFetch(domain:www.perseus.tufts.edu)",
-      "WebFetch(domain:www.sacred-texts.com)"
+      "WebFetch(domain:www.sacred-texts.com)",
+      "WebFetch(domain:www.kokugakuin.ac.jp)"
     ]
   }
 }
