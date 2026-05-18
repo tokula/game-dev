@@ -30,6 +30,7 @@ Sort: alphabetical by name.
 | Ethniu (Eithlenn) | *Lebor Gabála Érenn* | Princess; mother of Lugh | Balor's daughter; imprisoned in crystal tower; conceives Lugh despite Balor's precaution |
 | Indech mac Dé Domnann | *Cath Maige Tuired* | King; war-host commander | Commands Fomorian forces in Second Battle of Mag Tuired alongside Balor |
 | Morc mac Dela | *Lebor Gabála Érenn* | Field commander | Leads tribute extraction from Nemed's enslaved people |
+| Octriallach | *Cath Maige Tuired* | Field commander | Son of Indech mac Dé Domnann; leads the operation to fill the TDD battlefield healing spring with stones |
 | Tethra | *Cath Maige Tuired*, *Lebor Gabála Érenn*, *Sanas Cormaic* | Leader; sea-lord | Killed in Second Battle; his sword Orna recovered by Ogma; "mag Tethrach" (his plain) is an Old Irish kenning for the sea |
 
 ## Individual distinctions — Primary sources
@@ -57,6 +58,10 @@ Sort: alphabetical by name.
 
 **Indech mac Dé Domnann**
 - `[Characteristic]` Described in warrior terms as king commanding the Fomorian war-host; no individual supernatural ability is attributed to him in primary sources; his role is organizational command alongside Balor's personal combat power
+
+**Octriallach**
+- `[Strength]` Strategic infrastructure targeting — commands a Fomorian detachment to fill the Tuatha Dé battlefield healing spring with stones, each warrior carrying one large stone from the River Lóchét; the operation neutralizes Dian Cecht's overnight battlefield restoration and is the most effective Fomorian tactical counter in the entire Second Battle of Mag Tuired (*Cath Maige Tuired*)
+- `[Characteristic]` Namesake cairn — the stone formation left by his operation is recorded as *Carn Octriallach*, one of the few topographical features in *Cath Maige Tuired* named for a Fomorian sub-commander rather than a battle event
 
 **Tethra**
 - `[Characteristic]` Sea-lord by kenning — "mag Tethrach" (Tethra's plain) is an Old Irish poetic kenning for the sea; "cattle of Tethra" is a kenning for fish; his name carried sufficient cultural weight as a sea-domain to enter Old Irish poetic tradition (*Sanas Cormaic*; *Lebor Gabála Érenn*)

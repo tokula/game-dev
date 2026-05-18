@@ -267,6 +267,7 @@ Single source of truth for provenance tagging across all race profile files. The
 | Wikipedia — "Macha" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Macha | Confirmed CC-BY-SA 4.0; three Macha figures, sovereignty curse, Emain Macha |
 | Wikipedia — "Nemain" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Nemain | Confirmed CC-BY-SA 4.0; battle-frenzy role, possible conflation with Badb |
 | Wikipedia — "Tuatha Dé Danann" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann | Confirmed CC-BY-SA 4.0 |
+| Wikipedia — "Aos Sí" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Aos_S%C3%AD | Confirmed CC-BY-SA 4.0; covers folk tradition of the Sidhe/fair folk and their relationship to the Tuatha Dé Danann |
 | Wikipedia — "Fomorians" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Fomorians | Confirmed CC-BY-SA 4.0 |
 | Wikipedia — "Balor" | Various contributors | Ongoing | [CC-BY-SA] | https://en.wikipedia.org/wiki/Balor | Confirmed CC-BY-SA 4.0; Eye of Death, Lugh's parentage, Second Battle of Mag Tuired |
 

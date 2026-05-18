@@ -25,6 +25,7 @@ Sort: alphabetical by name.
 | Aengus (Mac ind Óc) | *Tochmarc Étaíne*, *De Gabáil in t-Sída* | God of youth and love | Son of the Dagda; dwells in Brú na Bóinne (Newgrange) |
 | Badb | *Cath Maige Tuired*, *Lebor Gabála Érenn* | War goddess | Sister of the Morrígan and Macha; creates battle-panic; crow form |
 | Banba | *Lebor Gabála Érenn* | Sovereignty goddess | Sister of Ériu and Fodla; one of three eponyms of Ireland |
+| Boann | *De Gabáil in t-Sída*, *Metrical Dindshenchas* | Goddess of the River Boyne | Mother of Aengus by the Dagda; her approach to the sacred spring of Nechtan caused the River Boyne to burst forth |
 | Bres | *Lebor Gabála Érenn*, *Cath Maige Tuired* | King (deposed) | Half-Fomorian (father: Elatha); enslaved Tuatha Dé to Fomorians; deposed by satire |
 | Brigid | *Lebor Gabála Érenn*, *Sanas Cormaic* | Goddess of poetry, fire, smithing | Daughter of the Dagda; associated with sacred wells and fertility |
 | Creidhne | *Cath Maige Tuired* | Goldsmith | One of the Three Gods of Craft |
@@ -33,11 +34,13 @@ Sort: alphabetical by name.
 | Étaín | *Tochmarc Étaíne* | Goddess; transformed | Transformed into butterfly by magical jealousy; reincarnated as a mortal woman |
 | Ériu | *Lebor Gabála Érenn* | Sovereignty goddess | Eponym of Ireland; one of three sovereignty sisters; mother of Bres |
 | Fodla | *Lebor Gabála Érenn* | Sovereignty goddess | Sister of Ériu and Banba; one of three eponyms of Ireland |
+| Fúamnach | *Tochmarc Étaíne* | Druid-trained sorceress; Midir's wife | Transforms Étaín through sustained druid-craft; conjures magical winds to prevent Étaín from settling for seven years |
 | Goibniu | *Lebor Gabála Érenn*, *Cath Maige Tuired* | Smith god | One of the Three Gods of Craft; his feast (*Fled Goibhnenn*) confers immortality |
 | Lugh (Lámfhada, "Long Arm") | *Lebor Gabála Érenn*, *Cath Maige Tuired* | Champion; war-leader | Master of all crafts; half-Fomorian mother (Ethniu); killed Balor of the Evil Eye |
 | Luchtaine | *Cath Maige Tuired* | Carpenter; wright | One of the Three Gods of Craft |
 | Macha | *Cath Maige Tuired*, *Noínden Ulad*, *Metrical Dindshenchas* | War goddess; sovereignty | Sister of the Morrígan and Badb; cursed the Ulstermen; associated with the plain of Emain Macha |
 | Manannán mac Lir | *Lebor Gabála Érenn* | Sea god; otherworld guardian | Foster-father of Lugh; controls passage between the mortal world and the sídhe |
+| Midir | *Tochmarc Étaíne*, *De Gabáil in t-Sída* | Lord of Brí Léith sídhe | Pursues Étaín across mortal reincarnations; challenges the High King in magical fidchell games with otherworldly stakes |
 | The Morrígan | *Cath Maige Tuired*, *Lebor Gabála Érenn* | War goddess; sovereignty | Shapeshifts (crow, wolf, eel, heifer); grants or strips victory; battle crow |
 | Nuada Airgetlám ("Silver Hand") | *Lebor Gabála Érenn*, *Cath Maige Tuired* | First king; sovereignty figure | Hand severed in First Battle of Mag Tuired; silver replacement; restored to kingship |
 | Ogma (Oghma) | *Lebor Gabála Érenn*, *Cath Maige Tuired*, *Sanas Cormaic* | Champion of eloquence; warrior | Attributed inventor of the Ogham writing system |
@@ -53,6 +56,10 @@ Sort: alphabetical by name.
 - `[Characteristic]` Manifests as a hooded crow or as a washing woman at a ford (foretelling imminent death) — a distinct manifestation set from the Morrígan's documented shapes
 
 > **Note:** Badb, Macha, and the Morrígan are sometimes described in secondary scholarship as three aspects of a single triple goddess. This equation is not explicitly stated in the primary sources and is a scholarly framework layered over texts that treat them as distinct sisters. Each is listed here as a separate individual.
+
+**Boann**
+- `[Characteristic]` Divine embodiment of the River Boyne — the *Metrical Dindshenchas* records that the sacred spring of Nechtan (Tobar Segais) burst its bounds when Boann approached it, forming the River Boyne and taking her name; she is the divine entity of the river rather than merely its patron
+- `[Characteristic]` Connected origin of Brú na Bóinne — her union with the Dagda (while her husband Elcmar was absent on a magically extended errand) produces Aengus; the Dagda compressed nine months of pregnancy into one enchanted day to conceal the birth (*De Gabáil in t-Sída*); Boann is the connective figure linking the Dagda, Aengus, and Ireland's most sacred mound
 
 **Bres**
 - `[Modifier]` Half-Fomorian parentage — father Elatha (Fomorian prince); his Fomorian allegiances overrode his Tuatha Dé kingship obligations, leading him to enslave his own people to Fomorian tribute-collectors — *origin: Ériu's union with Elatha (Lebor Gabála Érenn)*
@@ -71,6 +78,9 @@ Sort: alphabetical by name.
 - `[Specialization-minor]` Reincarnation cycle — transformed into a butterfly by the jealous Fúamnach, swept away by wind, swallowed, and reborn as a mortal woman with no memory of her divine origin; the multi-life cycle is unique among named Tuatha Dé members (*Tochmarc Étaíne*)
 - `[Modifier]` Transformation into butterfly — *imposed by Fúamnach through magical jealousy; not intrinsic to Étaín's nature*
 
+**Fúamnach**
+- `[Specialization-major]` Sustained transformation curse — transforms Étaín first into a pool of water, then through successive magical stages into a scarlet fly; sustains a magical wind for seven years preventing Étaín from settling anywhere; the duration and multi-stage persistence of the working exceeds any transformation magic attributed to other named TDD members (*Tochmarc Étaíne*)
+
 **Lugh (Lámfhada)**
 - `[Specialization-signature]` Master of all crafts — uniquely among the Tuatha Dé, Lugh claims excellence in every art simultaneously (warrior, smith, poet, harpist, sorcerer, physician, cupbearer, metalworker); the Tuatha Dé gatekeeper refuses him entry until he names a craft they lack — Lugh replies that no single member combines all of them (*Cath Maige Tuired*)
 - `[Characteristic]` Half-Fomorian lineage through his mother Ethniu (Balor's daughter); his Fomorian blood is the prophetically necessary condition for Balor's defeat — the prophecy required a *grandson* of Balor
@@ -83,6 +93,11 @@ Sort: alphabetical by name.
 **Manannán mac Lir**
 - `[Specialization-major]` Otherworld passage — governs the boundaries between the mortal world and the sídhe; can grant or deny access to the otherworld for mortals and divine beings alike
 - `[Characteristic]` Absent from both major battles (Mag Tuired); his domain is travel, boundary, and the sea rather than direct military conflict; his power operates outside the war-cycle
+
+**Midir**
+- `[Specialization-major]` Cross-reincarnation recognition — identifies Étaín in her mortal reincarnation as a human queen despite her having no memory of her divine life; no other primary-source TDD member is attested perceiving a divine soul across human lifetimes (*Tochmarc Étaíne*)
+- `[Specialization-minor]` Magical fidchell compact — challenges the mortal High King Eochaid Airem to fidchell with escalating otherworldly stakes; victory creates an enforceable supernatural debt; when the king withholds Étaín despite losing, Midir transforms both himself and her into swans and escapes through the roof of the royal hall (*Tochmarc Étaíne*)
+- `[Characteristic]` Lord of Brí Léith — holds a named sídhe mound as his distinct domain; the sídhe are geographically organized around individual lords with non-overlapping territories (*De Gabáil in t-Sída*, *Tochmarc Étaíne*)
 
 **The Morrígan**
 - `[Specialization-major]` Shapeshifting — transforms into crow, wolf, eel, and heifer forms, all attested in primary sources (*Cath Maige Tuired*, *Táin Bó Cúailnge*); cannot be replicated by other races through training
